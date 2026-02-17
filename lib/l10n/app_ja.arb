@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "信号\n開始",
+  "signalBroadcasting": "信号\n発信中",
+  "helpMode": "救助モード",
+  "scanDesc": "周辺の信号を検出",
+  "scanning": "周辺をスキャン中...",
+  "searching": "信号を検索中...",
+  "radarTouch": "レーダーを開くにはタップ",
+  "permissions": "権限",
+  "settings": "設定",
+  "darkMode": "ダークモード",
+  "language": "言語",
+  "emergencyInfo": "緊急時には権限が命綱となります。",
+  "radarTracking": "レーダー追跡",
+  "direction": "方向",
+  "distance": "距離",
+  "targetVeryClose": "目標は至近距離です！",
+  "approaching": "接近中...",
+  "signalWeak": "信号弱",
+  "connectionLost": "接続が切れました...",
+  "simulationMode": "シミュレーションモード",
+  "menuHint": "設定を開くにはダブルタップ",
+  "signalBtnHint": "信号を開始または停止するにはダブルタップ",
+  "requiredPermissions": "必要な権限",
+  "appearance": "外観",
+  "active": "有効",
+  "required": "必須",
+  "openSettings": "設定を開く",
+  "cancel": "キャンセル",
+  "permissionRequiredTitle": "権限が必要です",
+  "permissionRequiredMessage": "権限をオフにするには、デバイスの設定メニューを使用してください。",
+  "permissionNotificationMessage": "通知権限が拒否されました。設定から手動で許可してください。",
+  "permissionPermanentlyDenied": "この権限は以前に拒否されました。設定から手動でオンにする必要があります。",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Bluetoothスキャン",
+  "permBluetoothAdvertise": "Bluetooth発信",
+  "permBluetoothConnect": "Bluetooth接続",
+  "permLocation": "位置情報",
+  "permNotification": "通知",
+  "donate": "寄付 / 支援",
+  "signalLost": "信号喪失 - 最終既知データ",
+  "connectionFailed": "接続失敗 - 再試行中...",
+  "deleteSignalTitle": "信号を削除しますか？",
+  "deleteSignalContent": "注意！この信号は瓦礫の下にあるデバイスからのものである可能性があります。\n\n削除すると「最終確認位置」データが失われ、再度信号が発信されない限り見つけられなくなる可能性があります。\n\nそれでも削除しますか？",
+  "deleteConfirm": "データを削除",
+  "unknownDevice": "不明な信号",
+  "lastSeenPrefix": "最終確認: ",
+  "statusLost": "喪失",
+  "ghostMessage": "信号が途切れました。最後の既知データを表示しています。",
+  "offlineData": "オフライン - 最終データ",
+  "lastSeenSeconds": "{seconds}秒前",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}分前",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}時間前",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "お問い合わせ",
+  "emailSubject": "BlueSOS サポート / フィードバック",
+  "emailBody": "BlueSOSチームへ、\n\n問題を報告、またはアイデアを共有します：\n\n[ここに記入してください]\n\n",
+  "emergencyCardTitle": "緊急メディカルID",
+  "tapToUpdate": "情報を編集",
+  "tapToAdd": "情報を追加",
+  "bloodType": "血液型",
+  "allergies": "アレルギー",
+  "medications": "服用薬",
+  "emergencyContacts": "緊急連絡先",
+  "contactName": "名前",
+  "contactPhone": "電話番号",
+  "save": "保存",
+  "maxContactsReached": "最大3件まで追加可能です。",
+  "wallpaperPromptTitle": "命を救うロック画面",
+  "wallpaperPromptDesc": "意識がない場合でも、救急隊員があなたの血液型やアレルギー情報を確認できることが極めて重要です。\n\nこれらの情報を含む特別なロック画面の壁紙を作成しますか？",
+  "createWallpaper": "作成する",
+  "later": "後で",
+  "editorTitle": "壁紙エディタ",
+  "pickImage": "背景画像を選択",
+  "saveToGallery": "ギャラリーに保存",
+  "savedSuccess": "画像がギャラリーに保存されました！",
+  "cardScale": "サイズ",
+  "cardColor": "文字色",
+  "showBackground": "背景ボックス",
+  "dragToMove": "ドラッグしてカードを移動",
+  "errorNoImage": "最初に背景画像を選択してください。",
+  "removeImage": "画像を削除",
+  "textStyle": "テキストスタイル",
+  "backgroundStyle": "ボックススタイル",
+  "opacity": "不透明度",
+  "unknown": "不明",
+  "deviceOffline": "デバイスはオフラインです。",
+  "sendingSiren": "サイレンコマンドを送信中...",
+  "sirenTriggered": "サイレンが作動しました！",
+  "commandFailed": "コマンドを送信できませんでした。",
+  "rotateToScan": "360°回転して方向をスキャンしてください。信号が強い方向でバーがいっぱいになります。",
+  "signalLabel": "信号",
+  "radiusLabel": "半径",
+  "playSoundTooltip": "音を鳴らす",
+  "deleteSignalTooltip": "信号データを削除",
+  "marketTitle": "テーマストア",
+  "purchaseSuccess": "テーマの購入と有効化が完了しました！",
+  "insufficientFunds": "残高不足です！もっとコインを集める必要があります。",
+  "dailyRewardTitle": "デイリーログイン報酬",
+  "dailyRewardMessage": "今日の {amount} BlueCoin 報酬を獲得しました！",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "報酬を受け取る",
+  "themeDefault": "デフォルトテーマ",
+  "themeMidnight": "ミッドナイト",
+  "themeSunset": "サンセット",
+  "themeForest": "ディープフォレスト",
+  "themeRed": "レッドアラート",
+  "currentTheme": "現在のテーマ",
+  "buyTheme": "テーマを購入",
+  "use": "使う",
+  "confirmPurchaseTitle": "購入の確認",
+  "confirmPurchaseContent": "{themeName} テーマを {price} CP でアンロックしますか？",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "購入",
+  "dailyRewards": "デイリー報酬",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "おめでとうございます！ {amount} BlueCoin を獲得しました！",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "残念ながら連続記録が途切れました。時間が経過しました。",
+  "myWallet": "ウォレット: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "{day}日目",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "連続記録を維持して、毎日ログインして大きな報酬を獲得しましょう！",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "北",
+  "compassSouth": "南",
+  "compassEast": "東",
+  "compassWest": "西",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin残高",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "スキャン・発信の準備完了",
+  "btRequired": "スキャン・接続・発信権限が必要です",
+  "locRequired": "Bluetooth LE の利用に必要です",
+  "notifySubtitle": "アラートとバックグラウンド情報",
+  "fixButton": "修復",
+  "locationAlwaysWarning": "⚠️ バックグラウンドの位置情報が「常に」に設定されていません。画面がオフの時にスキャンが停止する可能性があります。",
+  "thermalProtectionWarning": "⚠️ 熱保護：デバイスを冷却するため、通常モードに切りわりました。",
+  "scanModeLow": "低 (Eco)",
+  "scanModeMedium": "中 (標準)",
+  "scanModeHigh": "高 (緊急)",
+  "scanSpeedPrefix": "スキャン速度",
+  "backgroundLocationTitle": "バックグラウンド位置情報",
+  "backgroundLocationDesc": "BlueSOSが画面オフ時でもBluetooth信号をスキャンするためには、位置情報の権限を「常に許可」にする必要があります。\n\nこの権限は人命救助信号のスキャンにのみ使用され、位置情報が記録または共有されることはありません。",
+  "gotIt": "了解",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOSユーザー",
+  "batteryOptimizationTooltip": "バッテリー制限を解除",
+  "scanSpeedTooltip": "スキャン速度",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "BlueSOS アクティブ",
+  "foregroundServiceDesc": "信号をスキャン/発信中...",
+  "powerSaverTooltip": "省電力",
+  "marginOfError": "±30% の誤差範囲",
+  "compassInterferenceWarning": "⚠️ 金属干渉：コンパスが不正確です！信号強度リングのみに従って進んでください。",
+  "activeStatus": "アクティブ",
+  "languageLabel": "言語",
+  "emergencyInfoNotice": "このアプリは緊急時の救命を支援するために設計されています。すべての権限を完全に許可してください。",
+  "onlineRequired": "オンライン接続が必要です。",
+  "claimFailed": "報酬を受け取れませんでした。インターネット接続を確認してください。",
+  "errorLabel": "エラー",
+  "marketLoadError": "ストアデータを読み込めませんでした。",
+  "retry": "再試行",
+  "notificationRewardTitle": "デイリー報酬の準備ができました！",
+  "notificationRewardBody": "連続記録を途切れさせないで！Bluesosで報酬を受け取るのを待っています。",
+  "nextRewardIn": "次回の報酬まで",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

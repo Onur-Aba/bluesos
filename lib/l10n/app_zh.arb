@@ -1,0 +1,263 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "开启\n信号",
+  "signalBroadcasting": "信号\n广播中",
+  "helpMode": "救援模式",
+  "scanDesc": "扫描周围信号",
+  "scanning": "正在扫描...",
+  "searching": "正在搜索信号...",
+  "radarTouch": "点击打开雷达",
+  "permissions": "权限",
+  "settings": "设置",
+  "darkMode": "深色模式",
+  "language": "语言",
+  "emergencyInfo": "在紧急情况下，权限至关重要。",
+  "radarTracking": "雷达追踪",
+  "direction": "方向",
+  "distance": "距离",
+  "targetVeryClose": "目标非常近！",
+  "approaching": "正在接近...",
+  "signalWeak": "信号微弱",
+  "connectionLost": "连接丢失...",
+  "simulationMode": "模拟模式",
+  "menuHint": "双击打开设置",
+  "signalBtnHint": "双击开始或停止信号",
+  "requiredPermissions": "所需权限",
+  "appearance": "外观",
+  "active": "已开启",
+  "required": "必须",
+  "openSettings": "打开设置",
+  "cancel": "取消",
+  "permissionRequiredTitle": "需要权限",
+  "permissionRequiredMessage": "您需要使用设备的设置菜单来关闭权限。",
+  "permissionNotificationMessage": "通知权限被拒绝。请在设置中手动允许通知。",
+  "permissionPermanentlyDenied": "此权限之前已被永久拒绝。您需要在设置中手动开启。",
+  "permBluetooth": "蓝牙",
+  "permBluetoothScan": "蓝牙扫描",
+  "permBluetoothAdvertise": "蓝牙广播",
+  "permBluetoothConnect": "蓝牙连接",
+  "permLocation": "定位服务",
+  "permNotification": "通知",
+  "donate": "捐赠 / 支持",
+  "signalLost": "信号丢失 - 最后已知数据",
+  "connectionFailed": "连接失败 - 正在重试...",
+  "deleteSignalTitle": "删除信号？",
+  "deleteSignalContent": "注意！此信号可能来自废墟下的设备。\n\n如果删除，您将丢失“最后已知位置”数据，如果设备不再发送信号，您可能无法再次找到它。\n\n仍要删除吗？",
+  "deleteConfirm": "删除数据",
+  "unknownDevice": "未知信号",
+  "lastSeenPrefix": "最后出现：",
+  "statusLost": "丢失",
+  "ghostMessage": "信号中断。显示最后已知数据。",
+  "offlineData": "离线 - 最后数据",
+  "lastSeenSeconds": "{seconds}秒前",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}分钟前",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}小时前",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "联系支持",
+  "emailSubject": "BlueSOS 支持 / 反馈",
+  "emailBody": "BlueSOS 团队您好，\n\n我想报告问题或分享建议：\n\n[请在此处输入]\n\n",
+  "emergencyCardTitle": "紧急医疗 ID",
+  "tapToUpdate": "编辑信息",
+  "tapToAdd": "添加信息",
+  "bloodType": "血型",
+  "allergies": "过敏史",
+  "medications": "药物",
+  "emergencyContacts": "紧急联系人",
+  "contactName": "姓名",
+  "contactPhone": "电话号码",
+  "save": "保存",
+  "maxContactsReached": "最多可添加 3 位联系人。",
+  "wallpaperPromptTitle": "救命锁屏",
+  "wallpaperPromptDesc": "即使您失去意识，急救人员看到您的血型和过敏信息也是至关重要的。\n\n您想设计一个包含这些信息的专用锁屏壁纸吗？",
+  "createWallpaper": "设计",
+  "later": "稍后",
+  "editorTitle": "锁屏生成器",
+  "pickImage": "选择背景",
+  "saveToGallery": "保存到相册",
+  "savedSuccess": "图片已保存！",
+  "cardScale": "大小",
+  "cardColor": "文字颜色",
+  "showBackground": "背景框",
+  "dragToMove": "拖动卡片以移动",
+  "errorNoImage": "请先选择背景图片。",
+  "removeImage": "移除图片",
+  "textStyle": "文字样式",
+  "backgroundStyle": "框样式",
+  "opacity": "不透明度",
+  "unknown": "未知",
+  "deviceOffline": "设备离线。",
+  "sendingSiren": "正在发送警报命令...",
+  "sirenTriggered": "警报已触发！",
+  "commandFailed": "命令发送失败。",
+  "rotateToScan": "旋转 360° 以扫描方向。信号强时条形图会填满。",
+  "signalLabel": "信号",
+  "radiusLabel": "半径",
+  "playSoundTooltip": "播放声音",
+  "deleteSignalTooltip": "删除信号数据",
+  "marketTitle": "主题商店",
+  "purchaseSuccess": "主题购买成功并已激活！",
+  "insufficientFunds": "余额不足！您需要收集更多金币。",
+  "dailyRewardTitle": "每日登录奖励",
+  "dailyRewardMessage": "您已获得今天的 {amount} BlueCoin 奖励！",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "领取奖励",
+  "themeDefault": "默认主题",
+  "themeMidnight": "午夜",
+  "themeSunset": "落日",
+  "themeForest": "深林",
+  "currentTheme": "当前主题",
+  "themeOcean": "蔚蓝海洋",
+  "buyTheme": "购买主题",
+  "confirmPurchaseTitle": "确认购买",
+  "confirmPurchaseContent": "您确定要花费 {price} CP 解锁 {themeName} 主题吗？",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "购买",
+  "dailyRewards": "每日奖励",
+  "day": "第 {index} 天",
+  "@day": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "claim": "领取",
+  "claimed": "已领取",
+  "wait": "请等待",
+  "rewardNotification": "您获得了 {amount} BlueCoin！",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "由于时间已过，您的连胜奖励已中断。",
+  "myWallet": "我的钱包: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "第 {day} 天",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "每天登录以保持连胜，赢取大奖！",
+  "themeRed": "红色警报",
+  "use": "使用",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "米",
+  "unitImperial": "英尺",
+  "compassNorth": "北",
+  "compassSouth": "南",
+  "compassEast": "东",
+  "compassWest": "西",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin 余额",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "准备好扫描和广播",
+  "btRequired": "需要扫描/连接/广播权限",
+  "locRequired": "蓝牙低功耗 (LE) 所需",
+  "notifySubtitle": "警报与后台信息",
+  "fixButton": "修复",
+  "locationAlwaysWarning": "⚠️ 后台定位未设置为“始终允许”。屏幕关闭时扫描可能会停止。",
+  "thermalProtectionWarning": "⚠️ 温度保护：已切换至正常模式以冷却设备。",
+  "scanModeLow": "低 (节能)",
+  "scanModeMedium": "中 (平衡)",
+  "scanModeHigh": "高 (紧急)",
+  "scanSpeedPrefix": "扫描速度",
+  "backgroundLocationTitle": "后台定位",
+  "backgroundLocationDesc": "BlueSOS 需要“始终允许”定位权限，以便在屏幕关闭时也能扫描蓝牙信号。\n\n此权限仅用于扫描救命信号；您的位置不会被记录或分享。",
+  "gotIt": "知道了",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOS 用户",
+  "batteryOptimizationTooltip": "解除电池限制",
+  "scanSpeedTooltip": "扫描速度",
+  "unitMeters": "米",
+  "unitFeet": "英尺",
+  "foregroundServiceTitle": "BlueSOS 正在运行",
+  "foregroundServiceDesc": "正在扫描/广播信号...",
+  "powerSaverTooltip": "省电模式",
+  "marginOfError": "±30% 误差范围",
+  "compassInterferenceWarning": "⚠️ 金属干扰：指南针不可靠！\n请仅参考信号强度环。",
+  "activeStatus": "活动中",
+  "languageLabel": "语言",
+  "emergencyInfoNotice": "本应用旨在帮助在紧急情况下拯救生命。请授予所有权限。",
+  "onlineRequired": "需要网络连接。",
+  "claimFailed": "领取失败。请检查您的网络连接。",
+  "errorLabel": "错误",
+  "marketLoadError": "商店数据加载失败。",
+  "retry": "重试",
+  "notificationRewardTitle": "每日奖励已准备就绪！",
+  "notificationRewardBody": "不要中断连胜！Bluesos 正等着你领取奖励。",
+  "nextRewardIn": "下次奖励剩余时间",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

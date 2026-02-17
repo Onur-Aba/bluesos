@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "সংকেত\nশুরু",
+  "signalBroadcasting": "সংকেত\nপ্রচার হচ্ছে",
+  "helpMode": "সাহায্য মোড",
+  "scanDesc": "আশপাশের সংকেত খুঁজুন",
+  "scanning": "স্ক্যান করা হচ্ছে...",
+  "searching": "সংকেত খোঁজা হচ্ছে...",
+  "radarTouch": "রাডার খুলতে স্পর্শ করুন",
+  "permissions": "অনুমতিসমূহ",
+  "settings": "সেটিংস",
+  "darkMode": "ডার্ক মোড",
+  "language": "ভাষা",
+  "emergencyInfo": "জরুরি পরিস্থিতিতে অনুমতিগুলি গুরুত্বপূর্ণ।",
+  "radarTracking": "রাডার ট্র্যাকিং",
+  "direction": "দিক",
+  "distance": "দূরত্ব",
+  "targetVeryClose": "লক্ষ্য খুব কাছে!",
+  "approaching": "আপনি কাছে আসছেন...",
+  "signalWeak": "দুর্বল সংকেত",
+  "connectionLost": "সংযোগ বিচ্ছিন্ন...",
+  "simulationMode": "সিমুলেশন মোড",
+  "menuHint": "সেটিংসের জন্য দুবার ট্যাপ করুন",
+  "signalBtnHint": "সংকেত শুরু/বন্ধ করতে দুবার ট্যাপ করুন",
+  "requiredPermissions": "প্রয়োজনীয় অনুমতি",
+  "appearance": "চেহারা",
+  "active": "সক্রিয়",
+  "required": "প্রয়োজন",
+  "openSettings": "সেটিংস খুলুন",
+  "cancel": "বাতিল",
+  "permissionRequiredTitle": "অনুমতি প্রয়োজন",
+  "permissionRequiredMessage": "অনুমতি পরিবর্তন করতে আপনাকে ডিভাইসের সেটিংস ব্যবহার করতে হবে।",
+  "permissionNotificationMessage": "নোটিফিকেশন অনুমতি প্রত্যাখ্যান করা হয়েছে। দয়া করে ম্যানুয়ালি এটি চালু করুন।",
+  "permissionPermanentlyDenied": "আপনি এই অনুমতিটি স্থায়ীভাবে প্রত্যাখ্যান করেছেন। সেটিংস থেকে এটি চালু করুন।",
+  "permBluetooth": "ব্লুটুথ",
+  "permBluetoothScan": "ব্লুটুথ স্ক্যান",
+  "permBluetoothAdvertise": "ব্লুটুথ সংকে",
+  "permBluetoothConnect": "ব্লুটুথ সংযোগ",
+  "permLocation": "অবস্থান",
+  "permNotification": "নোটিফিকেশন",
+  "donate": "দান / সমর্থন",
+  "signalLost": "সংকেত হারানো গেছে - শেষ তথ্য",
+  "connectionFailed": "সংযোগ ব্যর্থ - পুনরায় চেষ্টা করা হচ্ছে...",
+  "deleteSignalTitle": "সংকেত মুছবেন?",
+  "deleteSignalContent": "সতর্কতা! এই সংকেতটি ধ্বংসস্তূপের নিচের কোনো ডিভাইস থেকে আসতে পারে।\n\nমুছে ফেললে, আপনি 'শেষ পরিচিত অবস্থান' হারাবেন।\n\nআপনি কি নিশ্চিত?",
+  "deleteConfirm": "তথ্য মুছুন",
+  "unknownDevice": "অজানা সংকেত",
+  "lastSeenPrefix": "সর্বশেষ দেখা: ",
+  "statusLost": "হারানো",
+  "ghostMessage": "সংকেত বিচ্ছিন্ন। সর্বশেষ তথ্য দেখানো হচ্ছে।",
+  "offlineData": "অফলাইন - শেষ তথ্য",
+  "lastSeenSeconds": "{seconds} সেকেন্ড আগে",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes} মিনিট আগে",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours} ঘণ্টা আগে",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "যোগাযোগ করুন",
+  "emailSubject": "BlueSOS সমর্থন / মতামত",
+  "emailBody": "হ্যালো BlueSOS টিম,\n\nআমি একটি সমস্যা জানাতে বা একটি ধারণা শেয়ার করতে চাই:\n\n[এখানে লিখুন]\n\n",
+  "emergencyCardTitle": "জরুরি আইডি",
+  "tapToUpdate": "তথ্য সম্পাদনা",
+  "tapToAdd": "তথ্য যোগ করুন",
+  "bloodType": "রক্তের গ্রুপ",
+  "allergies": "এলার্জি",
+  "medications": "ঔষধ",
+  "emergencyContacts": "জরুরি যোগাযোগ",
+  "contactName": "নাম",
+  "contactPhone": "ফোন নম্বর",
+  "save": "সংরক্ষণ",
+  "maxContactsReached": "সর্বোচ্চ ৩ জন যোগ করা যাবে।",
+  "wallpaperPromptTitle": "জীবন রক্ষাকারী লক স্ক্রিন",
+  "wallpaperPromptDesc": "অজ্ঞান থাকলেও, উদ্ধারকারীদের আপনার রক্তের গ্রুপ জানা জরুরি।\n\nআপনি কি এই তথ্য দিয়ে একটি ওয়ালপেপার তৈরি করতে চান?",
+  "createWallpaper": "তৈরি করুন",
+  "later": "পরে",
+  "editorTitle": "ওয়ালপেপার এডিটর",
+  "pickImage": "ব্যাকগ্রাউন্ড বাছুন",
+  "saveToGallery": "গ্যালারিতে সংরক্ষণ",
+  "savedSuccess": "গ্যালারিতে সংরক্ষিত!",
+  "cardScale": "আকার",
+  "cardColor": "টেক্সটের রঙ",
+  "showBackground": "ব্যাকগ্রাউন্ড বক্স",
+  "dragToMove": "সরাতে টেনে আনুন",
+  "errorNoImage": "দয়া করে প্রথমে একটি ছবি বাছুন।",
+  "removeImage": "ছবি সরান",
+  "textStyle": "টেক্সট স্টাইল",
+  "backgroundStyle": "বক্স স্টাইল",
+  "opacity": "স্বচ্ছতা",
+  "unknown": "অজানা",
+  "deviceOffline": "ডিভাইস অফলাইন।",
+  "sendingSiren": "সাইরেন কমান্ড পাঠানো হচ্ছে...",
+  "sirenTriggered": "সাইরেন বেজেছে!",
+  "commandFailed": "কমান্ড ব্যর্থ হয়েছে।",
+  "rotateToScan": "স্ক্যান করতে ৩৬০° ঘুরুন। সংকেত শক্তিশালী হলে বারটি পূর্ণ হবে।",
+  "signalLabel": "সংকেত",
+  "radiusLabel": "ব্যাসার্ধ",
+  "playSoundTooltip": "শব্দ বাজান",
+  "deleteSignalTooltip": "সংকেত তথ্য মুছুন",
+  "marketTitle": "থিম স্টোর",
+  "purchaseSuccess": "থিমটি সফলভাবে কেনা হয়েছে এবং সক্রিয় করা হয়েছে!",
+  "insufficientFunds": "পর্যাপ্ত ব্যালেন্স নেই! আপনাকে আরও কয়েন সংগ্রহ করতে হবে।",
+  "dailyRewardTitle": "দৈনিক লগইন পুরস্কার",
+  "dailyRewardMessage": "আপনি আজকের {amount} ব্লুকয়েন পুরস্কার জিতেছেন!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "পুরস্কার নিন",
+  "themeDefault": "মূল নীল",
+  "themeMidnight": "মধ্যরাত",
+  "themeSunset": "সূর্যাস্ত",
+  "themeForest": "গভীর অরণ্য",
+  "themeRed": "লাল সংকেত",
+  "currentTheme": "বর্তমান থিম",
+  "buyTheme": "থিম কিনুন",
+  "use": "ব্যবহার করুন",
+  "confirmPurchaseTitle": "কেনা নিশ্চিত করুন",
+  "confirmPurchaseContent": "আপনি কি {price} CP এর বিনিময়ে {themeName} থিমটি খুলতে চান?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "কিনুন",
+  "dailyRewards": "দৈনিক পুরস্কার",
+  "day": "দিন {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "অভিনন্দন! আপনি {amount} ব্লুকয়েন জিতেছেন!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "দুর্ভাগ্যবশত আপনার ধারাবাহিকতা ভেঙে গেছে! সময় অতিবাহিত হয়েছে।",
+  "myWallet": "আপনার ওয়ালেট: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "দিন {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "ধারাবাহিকতা রক্ষা করুন এবং প্রতিদিন লগইন করে বড় পুরস্কার জিতুন!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "মি",
+  "unitImperial": "ফুট",
+  "compassNorth": "উ",
+  "compassSouth": "দ",
+  "compassEast": "পূ",
+  "compassWest": "প",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "ব্লুকয়েন ব্যালেন্স",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "স্ক্যান ও প্রচারের জন্য প্রস্তুত",
+  "btRequired": "স্ক্যান/সংযোগ/প্রচার প্রয়োজন",
+  "locRequired": "ব্লুটুথ LE এর জন্য প্রয়োজন",
+  "notifySubtitle": "সতর্কতা ও ব্যাকগ্রাউন্ড তথ্য",
+  "fixButton": "ঠিক করুন",
+  "locationAlwaysWarning": "⚠️ ব্যাকগ্রাউন্ড অবস্থান 'Always' হিসেবে সেট করা নেই। স্ক্রিন বন্ধ থাকলে স্ক্যানিং বন্ধ হতে পারে।",
+  "thermalProtectionWarning": "⚠️ থার্মাল সুরক্ষা: ডিভাইস ঠান্ডা করার জন্য নরমাল মোডে পরিবর্তন করা হয়েছে।",
+  "scanModeLow": "নিম্ন (Eco)",
+  "scanModeMedium": "মাঝারি (Balanced)",
+  "scanModeHigh": "উচ্চ (Emergency)",
+  "scanSpeedPrefix": "স্ক্যান করার গতি",
+  "backgroundLocationTitle": "ব্যাকগ্রাউন্ড অবস্থান",
+  "backgroundLocationDesc": "স্ক্রিন বন্ধ থাকা অবস্থায় ব্লুটুথ সংকেত স্ক্যান করতে BlueSOS-এর 'Always' অবস্থান অনুমতির প্রয়োজন।\n\nএই অনুমতি শুধুমাত্র জীবন রক্ষাকারী সংকেত স্ক্যান করতে ব্যবহৃত হয়; আপনার অবস্থান রেকর্ড বা শেয়ার করা হয় না।",
+  "gotIt": "বুঝেছি",
+  "idPrefix": "আইডি",
+  "defaultUserName": "BlueSOS ব্যবহারকারী",
+  "batteryOptimizationTooltip": "ব্যাটারির সীমাবদ্ধতা সরান",
+  "scanSpeedTooltip": "স্ক্যান করার গতি",
+  "unitMeters": "মি.",
+  "unitFeet": "ফু.",
+  "foregroundServiceTitle": "BlueSOS সক্রিয়",
+  "foregroundServiceDesc": "সংকেত স্ক্যান/প্রচার করা হচ্ছে...",
+  "powerSaverTooltip": "শক্তি সাশ্রয়",
+  "marginOfError": "±৩০% ত্রুটির সীমা",
+  "compassInterferenceWarning": "⚠️ ধাতব হস্তক্ষেপ: কম্পাস নির্ভরযোগ্য নয়!\nদয়া করে শুধুমাত্র সংকেত শক্তির বৃত্তটি অনুসরণ করুন।",
+  "activeStatus": "সক্রিয়",
+  "languageLabel": "ভাষা",
+  "emergencyInfoNotice": "এই অ্যাপটি জরুরি পরিস্থিতিতে জীবন বাঁচাতে সাহায্য করার জন্য তৈরি। দয়া করে সব অনুমতি প্রদান করুন।",
+  "onlineRequired": "অনলাইন সংযোগ প্রয়োজন।",
+  "claimFailed": "পুরস্কার পাওয়া যায়নি। আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন।",
+  "errorLabel": "ত্রুটি",
+  "marketLoadError": "স্টোরের তথ্য লোড করা যায়নি।",
+  "retry": "পুনরায় চেষ্টা করুন",
+  "notificationRewardTitle": "দৈনিক পুরষ্কার প্রস্তুত!",
+  "notificationRewardBody": "আপনার ধারাবাহিকতা বজায় রাখুন! Bluesos আপনার পুরষ্কার গ্রহণের জন্য অপেক্ষা করছে।",
+  "nextRewardIn": "পরবর্তী পুরস্কার",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

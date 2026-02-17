@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "MULAI\nSINYAL",
+  "signalBroadcasting": "MENYIARKAN\nSINYAL",
+  "helpMode": "Mode Bantuan",
+  "scanDesc": "Deteksi sinyal di sekitar",
+  "scanning": "MEMINDAI...",
+  "searching": "Mencari sinyal...",
+  "radarTouch": "Ketuk untuk membuka radar",
+  "permissions": "Izin",
+  "settings": "Pengaturan",
+  "darkMode": "Mode Gelap",
+  "language": "Bahasa",
+  "emergencyInfo": "Izin sangat penting dalam keadaan darurat.",
+  "radarTracking": "PELACAKAN RADAR",
+  "direction": "ARAH",
+  "distance": "Jarak",
+  "targetVeryClose": "TARGET SANGAT DEKAT!",
+  "approaching": "Mendekat...",
+  "signalWeak": "Sinyal Lemah",
+  "connectionLost": "Koneksi Terputus...",
+  "simulationMode": "MODE SIMULASI",
+  "menuHint": "Ketuk dua kali untuk membuka pengaturan",
+  "signalBtnHint": "Ketuk dua kali untuk memulai atau menghentikan sinyal",
+  "requiredPermissions": "IZIN DIPERLUKAN",
+  "appearance": "TAMPILAN",
+  "active": "Aktif",
+  "required": "Diperlukan",
+  "openSettings": "BUKA PENGATURAN",
+  "cancel": "BATAL",
+  "permissionRequiredTitle": "Izin Diperlukan",
+  "permissionRequiredMessage": "Anda harus menggunakan menu Pengaturan perangkat untuk mematikan izin.",
+  "permissionNotificationMessage": "Izin notifikasi ditolak. Silakan izinkan secara manual dari pengaturan.",
+  "permissionPermanentlyDenied": "Izin ini telah ditolak secara permanen. Anda perlu mengaktifkannya secara manual dari pengaturan.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Pindai Bluetooth",
+  "permBluetoothAdvertise": "Sinyal Bluetooth",
+  "permBluetoothConnect": "Koneksi Bluetooth",
+  "permLocation": "Layanan Lokasi",
+  "permNotification": "Notifikasi",
+  "donate": "Donasi / Dukungan",
+  "signalLost": "SINYAL HILANG - DATA TERAKHIR",
+  "connectionFailed": "Koneksi Gagal - Mencoba lagi...",
+  "deleteSignalTitle": "Hapus Sinyal?",
+  "deleteSignalContent": "PERHATIAN! Sinyal ini mungkin berasal dari perangkat di bawah reruntuhan.\n\nJika Anda menghapusnya, Anda akan kehilangan data 'Lokasi Terakhir Diketahui' dan jika perangkat tidak mengirim sinyal lagi, Anda mungkin tidak akan menemukannya lagi.\n\nApakah Anda tetap ingin menghapusnya?",
+  "deleteConfirm": "HAPUS DATA",
+  "unknownDevice": "Sinyal Tidak Dikenal",
+  "lastSeenPrefix": "Terakhir dilihat: ",
+  "statusLost": "HILANG",
+  "ghostMessage": "Sinyal terputus. Menampilkan data terakhir yang diketahui.",
+  "offlineData": "OFFLINE - DATA TERAKHIR",
+  "lastSeenSeconds": "{seconds}d lalu",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}m lalu",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}j lalu",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Hubungi Kami",
+  "emailSubject": "Dukungan BlueSOS / Umpan Balik",
+  "emailBody": "Halo Tim BlueSOS,\n\nSaya ingin melaporkan masalah atau berbagi ide:\n\n[Silakan tulis di sini]\n\n",
+  "emergencyCardTitle": "ID Medis Darurat",
+  "tapToUpdate": "Edit Info",
+  "tapToAdd": "Tambah Info",
+  "bloodType": "Golongan Darah",
+  "allergies": "Alergi",
+  "medications": "Obat-obatan",
+  "emergencyContacts": "Kontak Darurat",
+  "contactName": "Nama",
+  "contactPhone": "Nomor Telepon",
+  "save": "SIMPAN",
+  "maxContactsReached": "Maksimal 3 kontak diperbolehkan.",
+  "wallpaperPromptTitle": "Layar Kunci Penyelamat",
+  "wallpaperPromptDesc": "Bahkan jika Anda tidak sadarkan diri, sangat penting bagi tim penyelamat untuk melihat golongan darah dan alergi Anda.\n\nApakah Anda ingin membuat wallpaper layar kunci khusus dengan informasi ini?",
+  "createWallpaper": "BUAT",
+  "later": "Nanti",
+  "editorTitle": "Pembuat Layar Kunci",
+  "pickImage": "Pilih Latar Belakang",
+  "saveToGallery": "SIMPAN KE GALERI",
+  "savedSuccess": "Gambar Tersimpan!",
+  "cardScale": "Ukuran",
+  "cardColor": "Warna Teks",
+  "showBackground": "Kotak Latar",
+  "dragToMove": "Seret kartu untuk memindahkan",
+  "errorNoImage": "Silakan pilih gambar latar belakang terlebih dahulu.",
+  "removeImage": "Hapus Gambar",
+  "textStyle": "Gaya Teks",
+  "backgroundStyle": "Gaya Kotak",
+  "opacity": "Opasitas",
+  "unknown": "Tidak Diketahui",
+  "deviceOffline": "Perangkat offline.",
+  "sendingSiren": "Mengirim perintah sirine...",
+  "sirenTriggered": "Sirine dipicu!",
+  "commandFailed": "Gagal mengirim perintah.",
+  "rotateToScan": "Putar 360° untuk memindai arah. Bar akan penuh saat sinyal kuat.",
+  "signalLabel": "SINYAL",
+  "radiusLabel": "RADIUS",
+  "playSoundTooltip": "Putar Suara",
+  "deleteSignalTooltip": "Hapus Data Sinyal",
+  "marketTitle": "Toko Tema",
+  "purchaseSuccess": "Tema berhasil dibeli dan diaktifkan!",
+  "insufficientFunds": "Saldo tidak cukup! Anda perlu mengumpulkan lebih banyak koin.",
+  "dailyRewardTitle": "Hadiah Masuk Harian",
+  "dailyRewardMessage": "Anda telah mendapatkan hadiah {amount} BlueCoin hari ini!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "AMBIL HADIAH",
+  "themeDefault": "Tema Standar",
+  "themeMidnight": "Tengah Malam",
+  "themeSunset": "Matahari Terbenam",
+  "themeForest": "Hutan Rimba",
+  "themeRed": "Siaga Merah",
+  "currentTheme": "Tema Saat Ini",
+  "buyTheme": "Beli Tema",
+  "use": "Gunakan",
+  "confirmPurchaseTitle": "Konfirmasi Pembelian",
+  "confirmPurchaseContent": "Apakah Anda ingin membuka tema {themeName} seharga {price} CP?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "BELI",
+  "dailyRewards": "Hadiah Harian",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "Selamat! Anda mendapatkan {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Tenggat waktu habis, rentetan hadiah Anda terputus.",
+  "myWallet": "Dompet Anda: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "HARI {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Jangan putus rentetan, login setiap hari dan menangkan hadiah utama!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "kaki",
+  "compassNorth": "U",
+  "compassSouth": "S",
+  "compassEast": "T",
+  "compassWest": "B",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "Saldo BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Siap Memindai & Menyiarkan",
+  "btRequired": "Perlu Pindai/Hubungkan/Siarkan",
+  "locRequired": "Diperlukan untuk Bluetooth LE",
+  "notifySubtitle": "Peringatan & Info Latar Belakang",
+  "fixButton": "PERBAIKI",
+  "locationAlwaysWarning": "⚠️ Lokasi latar belakang tidak diatur ke 'Selalu'. Pemindaian mungkin terhenti saat layar mati.",
+  "thermalProtectionWarning": "⚠️ Perlindungan Termal: Beralih ke Mode Normal untuk mendinginkan perangkat.",
+  "scanModeLow": "Rendah (Eco)",
+  "scanModeMedium": "Sedang (Seimbang)",
+  "scanModeHigh": "Tinggi (Darurat)",
+  "scanSpeedPrefix": "Kecepatan Pemindaian",
+  "backgroundLocationTitle": "Lokasi Latar Belakang",
+  "backgroundLocationDesc": "BlueSOS memerlukan izin lokasi 'Selalu' untuk memindai sinyal Bluetooth bahkan saat layar mati.\n\nIzin ini hanya digunakan untuk memindai sinyal penyelamat nyawa; lokasi Anda tidak dicatat atau dibagikan.",
+  "gotIt": "MENGERTI",
+  "idPrefix": "ID",
+  "defaultUserName": "Pengguna BlueSOS",
+  "batteryOptimizationTooltip": "Hapus Batasan Baterai",
+  "scanSpeedTooltip": "Kecepatan Pemindaian",
+  "unitMeters": "m",
+  "unitFeet": "kaki",
+  "foregroundServiceTitle": "BlueSOS Aktif",
+  "foregroundServiceDesc": "Memindai/Menyiarkan sinyal...",
+  "powerSaverTooltip": "Hemat Daya",
+  "marginOfError": "±30% Batas Kesalahan",
+  "compassInterferenceWarning": "⚠️ GANGGUAN LOGAM: KOMPAS TIDAK AKURAT!\nHarap ikuti hanya lingkaran Kekuatan Sinyal.",
+  "activeStatus": "AKTIF",
+  "languageLabel": "Bahasa",
+  "emergencyInfoNotice": "Aplikasi ini dirancang untuk membantu menyelamatkan nyawa dalam keadaan darurat. Harap berikan semua izin sepenuhnya.",
+  "onlineRequired": "Koneksi online diperlukan.",
+  "claimFailed": "Hadiah tidak dapat diambil. Periksa koneksi internet Anda.",
+  "errorLabel": "Kesalahan",
+  "marketLoadError": "Data toko tidak dapat dimuat.",
+  "retry": "Coba Lagi",
+  "notificationRewardTitle": "Hadiah Harian Siap!",
+  "notificationRewardBody": "Jangan putuskan streak-mu! Bluesos menunggumu untuk mengklaim hadiahmu.",
+  "nextRewardIn": "Hadiah berikutnya dalam",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

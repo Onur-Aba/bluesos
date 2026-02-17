@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "SIGNAL\nSTARTEN",
+  "signalBroadcasting": "SIGNAL\nWIRD GESENDET",
+  "helpMode": "Hilfemodus",
+  "scanDesc": "Umgebungssignale erkennen",
+  "scanning": "UMGEBUNG WIRD GESCANNT...",
+  "searching": "Suche nach Signal...",
+  "radarTouch": "Tippen für Radar",
+  "permissions": "Berechtigungen",
+  "settings": "Einstellungen",
+  "darkMode": "Dunkelmodus",
+  "language": "Sprache",
+  "emergencyInfo": "Im Notfall sind Berechtigungen vital.",
+  "radarTracking": "RADARVERFOLGUNG",
+  "direction": "RICHTUNG",
+  "distance": "Entfernung",
+  "targetVeryClose": "ZIEL SEHR NAH!",
+  "approaching": "Sie nähern sich...",
+  "signalWeak": "Signal schwach",
+  "connectionLost": "Verbindung getrennt...",
+  "simulationMode": "SIMULATIONSMODUS",
+  "menuHint": "Doppeltippen für Einstellungen",
+  "signalBtnHint": "Doppeltippen zum Starten/Stoppen",
+  "requiredPermissions": "ERFORDERLICHE RECHTE",
+  "appearance": "AUSSEHEN",
+  "active": "Aktiv",
+  "required": "Erforderlich",
+  "openSettings": "EINSTELLUNGEN ÖFFNEN",
+  "cancel": "ABBRECHEN",
+  "permissionRequiredTitle": "Berechtigung erforderlich",
+  "permissionRequiredMessage": "Sie müssen die Geräteeinstellungen verwenden, um Berechtigungen zu ändern.",
+  "permissionNotificationMessage": "Benachrichtigung abgelehnt. Bitte manuell in den Einstellungen aktivieren.",
+  "permissionPermanentlyDenied": "Diese Berechtigung wurde dauerhaft abgelehnt. Bitte manuell in den Einstellungen aktivieren.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Bluetooth-Scan",
+  "permBluetoothAdvertise": "Bluetooth-Signal",
+  "permBluetoothConnect": "Bluetooth-Verbindung",
+  "permLocation": "Standort",
+  "permNotification": "Benachrichtigungen",
+  "donate": "Spenden / Unterstützen",
+  "signalLost": "SIGNAL VERLOREN - LETZTE DATEN",
+  "connectionFailed": "Verbindung fehlgeschlagen - Neuer Versuch...",
+  "deleteSignalTitle": "Signal löschen?",
+  "deleteSignalContent": "ACHTUNG! Dieses Signal könnte von einer verschütteten Person stammen.\n\nWenn Sie es löschen, verlieren Sie den 'Letzten bekannten Standort'.\n\nMöchten Sie wirklich löschen?",
+  "deleteConfirm": "DATEN LÖSCHEN",
+  "unknownDevice": "Unbekanntes Signal",
+  "lastSeenPrefix": "Zuletzt gesehen: ",
+  "statusLost": "VERLOREN",
+  "ghostMessage": "Signal unterbrochen. Letzte bekannte Daten werden angezeigt.",
+  "offlineData": "OFFLINE - LETZTE DATEN",
+  "lastSeenSeconds": "vor {seconds} Sek.",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "vor {minutes} Min.",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "vor {hours} Std.",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Kontakt aufnehmen",
+  "emailSubject": "BlueSOS Support / Feedback",
+  "emailBody": "Hallo BlueSOS Team,\n\nIch möchte ein Problem melden oder eine Idee teilen:\n\n[Bitte hier schreiben]\n\n",
+  "emergencyCardTitle": "Notfall-ID",
+  "tapToUpdate": "Infos bearbeiten",
+  "tapToAdd": "Info hinzufügen",
+  "bloodType": "Blutgruppe",
+  "allergies": "Allergien",
+  "medications": "Medikamente",
+  "emergencyContacts": "Notfallkontakte",
+  "contactName": "Name",
+  "contactPhone": "Telefonnummer",
+  "save": "SPEICHERN",
+  "maxContactsReached": "Maximal 3 Kontakte erlaubt.",
+  "wallpaperPromptTitle": "Lebensrettender Sperrbildschirm",
+  "wallpaperPromptDesc": "Auch bei Bewusstlosigkeit müssen Ersthelfer Ihre Blutgruppe sehen.\n\nMöchten Sie ein spezielles Hintergrundbild mit diesen Infos erstellen?",
+  "createWallpaper": "ERSTELLEN",
+  "later": "Später",
+  "editorTitle": "Hintergrund-Editor",
+  "pickImage": "Hintergrund wählen",
+  "saveToGallery": "IN GALERIE SPEICHERN",
+  "savedSuccess": "Bild in Galerie gespeichert!",
+  "cardScale": "Größe",
+  "cardColor": "Textfarbe",
+  "showBackground": "Hintergrundbox",
+  "dragToMove": "Zum Bewegen ziehen",
+  "errorNoImage": "Bitte zuerst ein Bild auswählen.",
+  "removeImage": "Bild entfernen",
+  "textStyle": "Textstil",
+  "backgroundStyle": "Boxstil",
+  "opacity": "Deckkraft",
+  "unknown": "Unbekannt",
+  "deviceOffline": "Gerät offline.",
+  "sendingSiren": "Sirenensignal wird gesendet...",
+  "sirenTriggered": "Sirene ausgelöst!",
+  "commandFailed": "Befehl fehlgeschlagen.",
+  "rotateToScan": "Drehen Sie sich um 360° zum Scannen. Der Balken füllt sich bei starkem Signal.",
+  "signalLabel": "SIGNAL",
+  "radiusLabel": "RADIUS",
+  "playSoundTooltip": "Ton abspielen",
+  "deleteSignalTooltip": "Signaldaten löschen",
+  "marketTitle": "Design-Shop",
+  "purchaseSuccess": "Theme erfolgreich gekauft und aktiviert!",
+  "insufficientFunds": "Nicht genügend Guthaben! Du musst mehr Münzen sammeln.",
+  "dailyRewardTitle": "Tägliche Belohnung",
+  "dailyRewardMessage": "Du hast deine heutige Belohnung von {amount} BlueCoins erhalten!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "GESCHENK ABHOLEN",
+  "themeDefault": "Standard-Theme",
+  "themeMidnight": "Mitternacht",
+  "themeSunset": "Sonnenuntergang",
+  "themeForest": "Tiefer Wald",
+  "themeRed": "Roter Alarm",
+  "currentTheme": "Aktuelles Theme",
+  "buyTheme": "Kaufen",
+  "use": "Benutzen",
+  "confirmPurchaseTitle": "Kauf bestätigen",
+  "confirmPurchaseContent": "Möchten Sie das Theme {themeName} für {price} CP freischalten?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "KAUFEN",
+  "dailyRewards": "Tägliche Belohnungen",
+  "day": "Tag {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "Glückwunsch! Du hast {amount} BlueCoins verdient!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Leider wurde die Serie unterbrochen! Die Zeit ist abgelaufen.",
+  "myWallet": "Dein Guthaben: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "TAG {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Unterbrich die Serie nicht, logge dich täglich ein und gewinne den Hauptpreis!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "N",
+  "compassSouth": "S",
+  "compassEast": "O",
+  "compassWest": "W",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin Kontostand",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Bereit zum Scannen & Senden",
+  "btRequired": "Scan/Verbindung/Senden erforderlich",
+  "locRequired": "Erforderlich für Bluetooth LE",
+  "notifySubtitle": "Warnungen & Hintergrund-Infos",
+  "fixButton": "FIX",
+  "locationAlwaysWarning": "⚠️ Hintergrundstandort ist nicht auf 'Immer' eingestellt. Der Scanvorgang stoppt möglicherweise, wenn der Bildschirm ausgeschaltet ist.",
+  "thermalProtectionWarning": "⚠️ Überhitzungsschutz: In den Normalmodus gewechselt, um das Gerät abzukühlen.",
+  "scanModeLow": "Niedrig (Eco)",
+  "scanModeMedium": "Mittel (Ausgewogen)",
+  "scanModeHigh": "Hoch (Notfall)",
+  "scanSpeedPrefix": "Scangeschwindigkeit",
+  "backgroundLocationTitle": "Hintergrundstandort",
+  "backgroundLocationDesc": "BlueSOS benötigt die Berechtigung 'Immer' für den Standort, um auch bei ausgeschaltetem Bildschirm nach Bluetooth-Signalen zu suchen.\n\nDiese Berechtigung wird nur zum Scannen lebensrettender Signale verwendet; Ihr Standort wird weder aufgezeichnet noch geteilt.",
+  "gotIt": "VERSTANDEN",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOS-Nutzer",
+  "batteryOptimizationTooltip": "Akku-Optimierung entfernen",
+  "scanSpeedTooltip": "Scangeschwindigkeit",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "BlueSOS Aktiv",
+  "foregroundServiceDesc": "Signal wird gescannt/gesendet...",
+  "powerSaverTooltip": "Energiesparmodus",
+  "marginOfError": "±30% Fehlertoleranz",
+  "compassInterferenceWarning": "⚠️ METALL-INTERFERENZ: KOMPASS UNZUVERLÄSSIG!\nBitte folgen Sie nur dem Signalstärkering.",
+  "activeStatus": "AKTIV",
+  "languageLabel": "Sprache",
+  "emergencyInfoNotice": "Diese App wurde entwickelt, um in Notfällen Leben zu retten. Bitte erteilen Sie alle Berechtigungen vollständig.",
+  "onlineRequired": "Online-Verbindung erforderlich.",
+  "claimFailed": "Belohnung konnte nicht beansprucht werden. Überprüfen Sie Ihre Internetverbindung.",
+  "errorLabel": "Fehler",
+  "marketLoadError": "Marktdaten konnten nicht geladen werden.",
+  "retry": "Wiederholen",
+  "notificationRewardTitle": "Tägliche Belohnung bereit!",
+  "notificationRewardBody": "Brich deine Serie nicht ab! Bluesos wartet darauf, dass du deine Belohnung abholst.",
+  "nextRewardIn": "Nächste Belohnung in",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "신호\n시작",
+  "signalBroadcasting": "신호\n송출 중",
+  "helpMode": "구조 모드",
+  "scanDesc": "주변 신호 감지",
+  "scanning": "주변 스캔 중...",
+  "searching": "신호 검색 중...",
+  "radarTouch": "레이더를 열려면 터치하세요",
+  "permissions": "권한",
+  "settings": "설정",
+  "darkMode": "다크 모드",
+  "language": "언어",
+  "emergencyInfo": "비상시 권한 설정은 생명과 직결됩니다.",
+  "radarTracking": "레이더 추적",
+  "direction": "방향",
+  "distance": "거리",
+  "targetVeryClose": "목표가 매우 가깝습니다!",
+  "approaching": "접근 중...",
+  "signalWeak": "신호 약함",
+  "connectionLost": "연결 끊김...",
+  "simulationMode": "시뮬레이션 모드",
+  "menuHint": "설정을 열려면 두 번 탭하세요",
+  "signalBtnHint": "신호를 시작하거나 중지하려면 두 번 탭하세요",
+  "requiredPermissions": "필수 권한",
+  "appearance": "화면 설정",
+  "active": "활성",
+  "required": "필수",
+  "openSettings": "설정 열기",
+  "cancel": "취소",
+  "permissionRequiredTitle": "권한 필요",
+  "permissionRequiredMessage": "권한을 끄려면 기기 설정 메뉴를 사용해야 합니다.",
+  "permissionNotificationMessage": "알림 권한이 거부되었습니다. 설정에서 알림을 수동으로 허용해 주세요.",
+  "permissionPermanentlyDenied": "이 권한은 영구적으로 거부되었습니다. 설정에서 수동으로 켜야 합니다.",
+  "permBluetooth": "블루투스",
+  "permBluetoothScan": "블루투스 스캔",
+  "permBluetoothAdvertise": "블루투스 신호",
+  "permBluetoothConnect": "블루투스 연결",
+  "permLocation": "위치 서비스",
+  "permNotification": "알림",
+  "donate": "후원 / 지원하기",
+  "signalLost": "신호 소실 - 마지막 데이터",
+  "connectionFailed": "연결 실패 - 재시도 중...",
+  "deleteSignalTitle": "신호 삭제?",
+  "deleteSignalContent": "주의! 이 신호는 잔해 아래에 있는 기기에서 오는 것일 수 있습니다.\n\n삭제하면 '마지막 확인 위치' 데이터가 손실되며, 기기가 다시 신호를 보내지 않으면 찾을 수 없게 될 수 있습니다.\n\n그래도 삭제하시겠습니까?",
+  "deleteConfirm": "데이터 삭제",
+  "unknownDevice": "알 수 없는 신호",
+  "lastSeenPrefix": "마지막 확인: ",
+  "statusLost": "소실됨",
+  "ghostMessage": "신호가 끊겼습니다. 마지막으로 알려진 데이터를 표시합니다.",
+  "offlineData": "오프라인 - 마지막 데이터",
+  "lastSeenSeconds": "{seconds}초 전",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}분 전",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}시간 전",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "문의하기",
+  "emailSubject": "BlueSOS 지원 / 피드백",
+  "emailBody": "안녕하세요 BlueSOS 팀,\n\n문제를 보고하거나 의견을 공유하고 싶습니다:\n\n[여기에 내용을 입력하세요]\n\n",
+  "emergencyCardTitle": "응급 의료 ID",
+  "tapToUpdate": "정보 수정",
+  "tapToAdd": "정보 추가",
+  "bloodType": "혈액형",
+  "allergies": "알레르기",
+  "medications": "복용 약물",
+  "emergencyContacts": "비상 연락처",
+  "contactName": "이름",
+  "contactPhone": "전화번호",
+  "save": "저장",
+  "maxContactsReached": "최대 3명까지 추가할 수 있습니다.",
+  "wallpaperPromptTitle": "생명을 구하는 잠금 화면",
+  "wallpaperPromptDesc": "의식이 없는 상태에서도 구급대원이 귀하의 혈액형과 알레르기 정보를 확인하는 것은 매우 중요합니다.\n\n이 정보가 포함된 특별한 잠금 화면 배경화면을 만드시겠습니까?",
+  "createWallpaper": "만들기",
+  "later": "나중에",
+  "editorTitle": "배경화면 편집기",
+  "pickImage": "배경 선택",
+  "saveToGallery": "갤러리에 저장",
+  "savedSuccess": "이미지가 갤러리에 저장되었습니다!",
+  "cardScale": "크기",
+  "cardColor": "글자 색상",
+  "showBackground": "배경 상자",
+  "dragToMove": "카드를 드래그하여 이동하세요",
+  "errorNoImage": "먼저 배경 이미지를 선택하세요.",
+  "removeImage": "이미지 제거",
+  "textStyle": "텍스트 스타일",
+  "backgroundStyle": "상자 스타일",
+  "opacity": "투명도",
+  "unknown": "알 수 없음",
+  "deviceOffline": "기기가 오프라인 상태입니다.",
+  "sendingSiren": "사이렌 명령 전송 중...",
+  "sirenTriggered": "사이렌이 울렸습니다!",
+  "commandFailed": "명령 전송 실패.",
+  "rotateToScan": "360° 회전하여 방향을 스캔하세요. 신호가 강한 방향에서 막대가 채워집니다.",
+  "signalLabel": "신호",
+  "radiusLabel": "반경",
+  "playSoundTooltip": "소리 재생",
+  "deleteSignalTooltip": "신호 데이터 삭제",
+  "marketTitle": "테마 상점",
+  "purchaseSuccess": "테마를 성공적으로 구매하고 적용했습니다!",
+  "insufficientFunds": "잔액이 부족합니다! 코인을 더 모으세요.",
+  "dailyRewardTitle": "일일 출석 보상",
+  "dailyRewardMessage": "오늘 보상으로 {amount} BlueCoin을 획득했습니다!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "보상 받기",
+  "themeDefault": "기본 테마",
+  "themeMidnight": "미드나잇",
+  "themeSunset": "선셋",
+  "themeForest": "딥 포레스트",
+  "themeRed": "레드 얼럿",
+  "currentTheme": "현재 테마",
+  "buyTheme": "테마 구매",
+  "use": "사용하기",
+  "confirmPurchaseTitle": "구매 확인",
+  "confirmPurchaseContent": "{price} CP로 {themeName} 테마를 잠금 해제하시겠습니까?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "구매",
+  "dailyRewards": "일일 보상",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "축하합니다! {amount} BlueCoin을 획득했습니다!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "아쉽게도 연속 기록이 끊겼습니다! 시간이 만료되었습니다.",
+  "myWallet": "내 지갑: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "{day}일차",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "연속 기록을 유지하고 매일 접속하여 큰 보상을 받으세요!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "북",
+  "compassSouth": "남",
+  "compassEast": "동",
+  "compassWest": "서",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin 잔액",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "스캔 및 송출 준비 완료",
+  "btRequired": "스캔/연결/송출 권한 필요",
+  "locRequired": "블루투스 LE 사용에 필요함",
+  "notifySubtitle": "알림 및 백그라운드 정보",
+  "fixButton": "수정하기",
+  "locationAlwaysWarning": "⚠️ 백그라운드 위치 권한이 '항상 허용'으로 설정되어 있지 않습니다. 화면이 꺼지면 스캔이 중단될 수 있습니다.",
+  "thermalProtectionWarning": "⚠️ 과열 보호: 기기를 식히기 위해 일반 모드로 전환되었습니다.",
+  "scanModeLow": "낮음 (절전)",
+  "scanModeMedium": "중간 (균형)",
+  "scanModeHigh": "높음 (긴급)",
+  "scanSpeedPrefix": "스캔 속도",
+  "backgroundLocationTitle": "백그라운드 위치",
+  "backgroundLocationDesc": "화면이 꺼져 있을 때도 블루투스 신호를 스캔하려면 '항상 허용' 위치 권한이 필요합니다.\n\n이 권한은 오직 인명 구조 신호 스캔에만 사용되며, 위치 정보는 저장되거나 공유되지 않습니다.",
+  "gotIt": "확인했습니다",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOS 사용자",
+  "batteryOptimizationTooltip": "배터리 제한 해제",
+  "scanSpeedTooltip": "스캔 속도",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "BlueSOS 활성화됨",
+  "foregroundServiceDesc": "신호 스캔/송출 중...",
+  "powerSaverTooltip": "배터리 절약",
+  "marginOfError": "±30% 오차 범위",
+  "compassInterferenceWarning": "⚠️ 금속 간섭: 나침반 신뢰할 수 없음!\n신호 강도 링만 따라가세요.",
+  "activeStatus": "활성",
+  "languageLabel": "언어",
+  "emergencyInfoNotice": "이 앱은 긴급 상황에서 인명 구조를 돕기 위해 설계되었습니다. 모든 권한을 허용해 주세요.",
+  "onlineRequired": "온라인 연결이 필요합니다.",
+  "claimFailed": "보상을 받을 수 없습니다. 인터넷 연결을 확인하세요.",
+  "errorLabel": "오류",
+  "marketLoadError": "상점 데이터를 불러올 수 없습니다.",
+  "retry": "재시도",
+  "notificationRewardTitle": "일일 보상이 준비되었습니다!",
+  "notificationRewardBody": "스트릭을 깨지 마세요! Bluesos가 당신의 보상을 기다리고 있습니다.",
+  "nextRewardIn": "다음 보상까지",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

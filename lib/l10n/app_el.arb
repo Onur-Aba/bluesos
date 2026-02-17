@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "ΕΝΑΡΞΗ\nΣΗΜΑΤΟΣ",
+  "signalBroadcasting": "ΜΕΤΑΔΟΣΗ\nΣΗΜΑΤΟΣ",
+  "helpMode": "Λειτουργία Βοήθειας",
+  "scanDesc": "Ανίχνευση σημάτων στη γύρω περιοχή",
+  "scanning": "ΣΑΡΩΣΗ ΠΕΡΙΒΑΛΛΟΝΤΟΣ...",
+  "searching": "Αναζήτηση σήματος...",
+  "radarTouch": "Αγγίξτε για ραντάρ",
+  "permissions": "Άδειες",
+  "settings": "Ρυθμίσεις",
+  "darkMode": "Σκοτεινή Λειτουργία",
+  "language": "Γλώσσα",
+  "emergencyInfo": "Σε έκτακτη ανάγκη, οι άδειες είναι ζωτικής σημασίας.",
+  "radarTracking": "ΠΑΡΑΚΟΛΟΥΘΗΣΗ ΡΑΝΤΑΡ",
+  "direction": "ΚΑΤΕΥΘΥΝΣΗ",
+  "distance": "Απόσταση",
+  "targetVeryClose": "Ο ΣΤΟΧΟΣ ΕΙΝΑΙ ΠΟΛΥ ΚΟΝΤΑ!",
+  "approaching": "Πλησιάζετε...",
+  "signalWeak": "Ασθενές Σήμα",
+  "connectionLost": "Η σύνδεση χάθηκε...",
+  "simulationMode": "ΛΕΙΤΟΥΡΓΙΑ ΠΡΟΣΟΜΟΙΩΣΗΣ",
+  "menuHint": "Διπλό πάτημα για ρυθμίσεις",
+  "signalBtnHint": "Διπλό πάτημα για έναρξη/διακοπή",
+  "requiredPermissions": "ΑΠΑΙΤΟΥΜΕΝΕΣ ΑΔΕΙΕΣ",
+  "appearance": "ΕΜΦΑΝΙΣΗ",
+  "active": "Ενεργό",
+  "required": "Απαιτείται",
+  "openSettings": "ΑΝΟΙΓΜΑ ΡΥΘΜΙΣΕΩΝ",
+  "cancel": "ΑΚΥΡΩΣΗ",
+  "permissionRequiredTitle": "Απαιτείται Άδεια",
+  "permissionRequiredMessage": "Πρέπει να χρησιμοποιήσετε τις ρυθμίσεις της συσκευής για να αλλάξετε τις άδειες.",
+  "permissionNotificationMessage": "Η άδεια ειδοποιήσεων απορρίφθηκε. Ενεργοποιήστε την χειροκίνητα.",
+  "permissionPermanentlyDenied": "Αυτή η άδεια έχει απορριφθεί μόνιμα. Ενεργοποιήστε την από τις ρυθμίσεις.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Σάρωση Bluetooth",
+  "permBluetoothAdvertise": "Σήμα Bluetooth",
+  "permBluetoothConnect": "Σύνδεση Bluetooth",
+  "permLocation": "Τοποθεσία",
+  "permNotification": "Ειδοποιήσεις",
+  "donate": "Δωρεά / Υποστήριξη",
+  "signalLost": "ΑΠΩΛΕΙΑ ΣΗΜΑΤΟΣ - ΤΕΛΕΥΤΑΙΑ ΔΕΔΟΜΕΝΑ",
+  "connectionFailed": "Αποτυχία σύνδεσης - Προσπάθεια ξανά...",
+  "deleteSignalTitle": "Διαγραφή Σήματος;",
+  "deleteSignalContent": "ΠΡΟΣΟΧΗ! Αυτό το σήμα μπορεί να προέρχεται από συσκευή κάτω από τα ερείπια.\n\nΑν το διαγράψετε, θα χάσετε την 'Τελευταία Γνωστή Τοποθεσία'.\n\nΕίστε σίγουροι;",
+  "deleteConfirm": "ΔΙΑΓΡΑΦΗ ΔΕΔΟΜΕΝΩΝ",
+  "unknownDevice": "Άγνωστο Σήμα",
+  "lastSeenPrefix": "Τελευταία εμφάνιση: ",
+  "statusLost": "ΧΑΘΗΚΕ",
+  "ghostMessage": "Το σήμα διακόπηκε. Εμφανίζονται τα τελευταία δεδομένα.",
+  "offlineData": "ΕΚΤΟΣ ΣΥΝΔΕΣΗΣ - ΑΡΧΕΙΟ",
+  "lastSeenSeconds": "{seconds}δ πριν",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}λ πριν",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}ω πριν",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Επικοινωνία",
+  "emailSubject": "Υποστήριξη BlueSOS / Σχόλια",
+  "emailBody": "Γεια σας ομάδα BlueSOS,\n\nΘέλω να αναφέρω ένα πρόβλημα ή να μοιραστώ μια ιδέα:\n\n[Γράψτε εδώ]\n\n",
+  "emergencyCardTitle": "Ταυτότητα Έκτακτης Ανάγκης",
+  "tapToUpdate": "Επεξεργασία",
+  "tapToAdd": "Προσθήκη",
+  "bloodType": "Ομάδα Αίματος",
+  "allergies": "Αλλεργίες",
+  "medications": "Φάρμακα",
+  "emergencyContacts": "Επαφές Έκτακτης Ανάγκης",
+  "contactName": "Όνομα",
+  "contactPhone": "Τηλέφωνο",
+  "save": "ΑΠΟΘΗΚΕΥΣΗ",
+  "maxContactsReached": "Μέγιστο 3 επαφές.",
+  "wallpaperPromptTitle": "Σωτήρια Οθόνη Κλειδώματος",
+  "wallpaperPromptDesc": "Ακόμα κι αν έχετε χάσει τις αισθήσεις σας, είναι ζωτικό να δουν οι διασώστες την ομάδα αίματός σας.\n\nΘέλετε να δημιουργήσετε μια ταπετσαρία με αυτές τις πληροφορίες;",
+  "createWallpaper": "ΔΗΜΙΟΥΡΓΙΑ",
+  "later": "Αργότερα",
+  "editorTitle": "Επεξεργαστής Ταπετσαρίας",
+  "pickImage": "Επιλογή Φόντου",
+  "saveToGallery": "ΑΠΟΘΗΚΕΥΣΗ",
+  "savedSuccess": "Αποθηκεύτηκε στην Έκθεση!",
+  "cardScale": "Μέγεθος",
+  "cardColor": "Χρώμα Κειμένου",
+  "showBackground": "Πλαίσιο Φόντου",
+  "dragToMove": "Σύρετε για μετακίνηση",
+  "errorNoImage": "Παρακαλώ επιλέξτε πρώτα εικόνα.",
+  "removeImage": "Αφαίρεση Εικόνας",
+  "textStyle": "Στυλ Κειμένου",
+  "backgroundStyle": "Στυλ Πλαισίου",
+  "opacity": "Αδιαφάνεια",
+  "unknown": "Άγνωστο",
+  "deviceOffline": "Συσκευή εκτός σύνδεσης.",
+  "sendingSiren": "Αποστολή εντολής σειρήνας...",
+  "sirenTriggered": "Η σειρήνα ενεργοποιήθηκε!",
+  "commandFailed": "Η εντολή απέτυχε.",
+  "rotateToScan": "Περιστραφείτε 360° για σάρωση. Η μπάρα γεμίζει όταν το σήμα είναι ισχυρό.",
+  "signalLabel": "ΣΗΜΑ",
+  "radiusLabel": "ΑΚΤΙΝΑ",
+  "playSoundTooltip": "Αναπαραγωγή Ήχου",
+  "deleteSignalTooltip": "Διαγραφή Δεδομένων Σήματος",
+  "marketTitle": "Κατάστημα Θεμάτων",
+  "purchaseSuccess": "Το θέμα αγοράστηκε και ενεργοποιήθηκε με επιτυχία!",
+  "insufficientFunds": "Ανεπαρκές υπόλοιπο! Πρέπει να συλλέξετε περισσότερα νομίσματα.",
+  "dailyRewardTitle": "Καθημερινή Ανταμοιβή Εισόδου",
+  "dailyRewardMessage": "Κερδίσατε τη σημερινή ανταμοιβή {amount} BlueCoin!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "ΛΗΨΗ ΔΩΡΟΥ",
+  "themeDefault": "Αρχικό Μπλε",
+  "themeMidnight": "Μεσάνυχτα",
+  "themeSunset": "Ηλιοβασίλεμα",
+  "themeForest": "Βαθύ Δάσος",
+  "themeRed": "Πορφυρό Κόκκινο",
+  "currentTheme": "Τρέχον Θέμα",
+  "buyTheme": "Αγορά Θέματος",
+  "use": "Χρήση",
+  "confirmPurchaseTitle": "Επιβεβαίωση Αγοράς",
+  "confirmPurchaseContent": "Θέλετε να ξεκλειδώσετε το θέμα {themeName} για {price} CP;",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "ΑΓΟΡΑ",
+  "dailyRewards": "Καθημερινές Ανταμοιβές",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "Συγχαρητήρια! Κερδίσατε {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Δυστυχώς, το σερί διακόπηκε! Ο χρόνος έληξε.",
+  "myWallet": "Το Πορτοφόλι σας: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "ΗΜΕΡΑ {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Μην σπάσετε το σερί, συνδεθείτε καθημερινά και κερδίστε το μεγάλο δώρο!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "μ",
+  "unitImperial": "πδ",
+  "compassNorth": "Β",
+  "compassSouth": "Ν",
+  "compassEast": "Α",
+  "compassWest": "Δ",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "Υπόλοιπο BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Έτοιμο για Σάρωση & Μετάδοση",
+  "btRequired": "Απαιτείται Σάρωση/Σύνδεση/Μετάδοση",
+  "locRequired": "Απαιτείται για Bluetooth LE",
+  "notifySubtitle": "Ειδοποιήσεις & Πληροφορίες Υποβάθρου",
+  "fixButton": "ΔΙΟΡΘΩΣΗ",
+  "locationAlwaysWarning": "⚠️ Η τοποθεσία υποβάθρου δεν είναι ρυθμισμένη στο 'Πάντα'. Η σάρωση μπορεί να σταματήσει όταν η οθόνη είναι κλειστή.",
+  "thermalProtectionWarning": "⚠️ Θερμική Προστασία: Μετάβαση σε Κανονική Λειτουργία για ψύξη της συσκευής.",
+  "scanModeLow": "Χαμηλή (Eco)",
+  "scanModeMedium": "Μεσαία (Ισορροπημένη)",
+  "scanModeHigh": "Υψηλή (Έκτακτη Ανάγκη)",
+  "scanSpeedPrefix": "Ταχύτητα Σάρωσης",
+  "backgroundLocationTitle": "Τοποθεσία Υποβάθρου",
+  "backgroundLocationDesc": "Το BlueSOS χρειάζεται άδεια τοποθεσίας 'Πάντα' για να σαρώνει σήματα Bluetooth ακόμα και όταν η οθόνη είναι κλειστή.\n\nΑυτή η άδεια χρησιμοποιείται μόνο για σήματα διάσωσης· η τοποθεσία σας δεν καταγράφεται ούτε κοινοποιείται.",
+  "gotIt": "ΤΟ ΚΑΤΑΛΑΒΑ",
+  "idPrefix": "ID",
+  "defaultUserName": "Χρήστης BlueSOS",
+  "batteryOptimizationTooltip": "Κατάργηση Περιορισμού Μπαταρίας",
+  "scanSpeedTooltip": "Ταχύτητα Σάρωσης",
+  "unitMeters": "μ",
+  "unitFeet": "πδ",
+  "foregroundServiceTitle": "BlueSOS Ενεργό",
+  "foregroundServiceDesc": "Σάρωση/Μετάδοση σήματος...",
+  "powerSaverTooltip": "Εξοικονόμηση Ενέργειας",
+  "marginOfError": "±30% Περιθώριο Σφάλματος",
+  "compassInterferenceWarning": "⚠️ ΜΕΤΑΛΛΙΚΕΣ ΠΑΡΕΜΒΟΛΕΣ: ΜΗ ΕΜΠΙΣΤΗ ΠΥΞΙΔΑ!\nΠαρακαλούμε ακολουθήστε μόνο τον δακτύλιο ισχύος σήματος.",
+  "activeStatus": "ΕΝΕΡΓΟ",
+  "languageLabel": "Γλώσσα",
+  "emergencyInfoNotice": "Αυτή η εφαρμογή έχει σχεδιαστεί για τη διάσωση ζωών σε περιπτώσεις έκτακτης ανάγκης. Παρακαλούμε δώστε όλες τις άδειες πλήρως.",
+  "onlineRequired": "Απαιτείται σύνδεση στο διαδίκτυο.",
+  "claimFailed": "Αδυναμία λήψης ανταμοιβής. Ελέγξτε τη σύνδεσή σας.",
+  "errorLabel": "Σφάλμα",
+  "marketLoadError": "Αδυναμία φόρτωσης δεδομένων καταστήματος.",
+  "retry": "Δοκιμάστε ξανά",
+  "notificationRewardTitle": "Η καθημερινή ανταμοιβή είναι έτοιμη!",
+  "notificationRewardBody": "Μην χαλάσεις το σερί σου! Το Bluesos σε περιμένει να διεκδικήσεις την ανταμοιβή σου.",
+  "nextRewardIn": "Επόμενη ανταμοιβή σε",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

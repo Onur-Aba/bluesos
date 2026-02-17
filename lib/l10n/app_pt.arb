@@ -1,0 +1,256 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "INICIAR\nSINAL",
+  "signalBroadcasting": "SINAL\nTRANSMITINDO",
+  "helpMode": "Modo de Ajuda",
+  "scanDesc": "Detectar sinais próximos",
+  "scanning": "ESCANEANDO...",
+  "searching": "Procurando sinal...",
+  "radarTouch": "Toque para abrir o radar",
+  "permissions": "Permissões",
+  "settings": "Configurações",
+  "darkMode": "Modo Escuro",
+  "language": "Idioma",
+  "emergencyInfo": "Em emergências, as permissões são vitais.",
+  "radarTracking": "RASTREAMENTO POR RADAR",
+  "direction": "DIREÇÃO",
+  "distance": "Distância",
+  "targetVeryClose": "ALVO MUITO PRÓXIMO!",
+  "approaching": "Aproximando-se...",
+  "signalWeak": "Sinal Fraco",
+  "connectionLost": "Conexão Perdida...",
+  "simulationMode": "MODO SIMULAÇÃO",
+  "menuHint": "Toque duplo para configurações",
+  "signalBtnHint": "Toque duplo para iniciar/parar",
+  "requiredPermissions": "PERMISSÕES NECESSÁRIAS",
+  "appearance": "APARÊNCIA",
+  "active": "Ativo",
+  "required": "Necessário",
+  "openSettings": "ABRIR CONFIGURAÇÕES",
+  "cancel": "CANCELAR",
+  "permissionRequiredTitle": "Permissão Necessária",
+  "permissionRequiredMessage": "Você deve usar as configurações do dispositivo para alterar as permissões.",
+  "permissionNotificationMessage": "Permissão de notificação negada. Por favor, habilite manualmente nas configurações.",
+  "permissionPermanentlyDenied": "Você negou esta permissão permanentemente. Habilite manualmente nas configurações.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Escaneamento Bluetooth",
+  "permBluetoothAdvertise": "Sinal Bluetooth",
+  "permBluetoothConnect": "Conexão Bluetooth",
+  "permLocation": "Localização",
+  "permNotification": "Notificações",
+  "donate": "Doar / Apoiar",
+  "signalLost": "SINAL PERDIDO - DADOS ANTERIORES",
+  "connectionFailed": "Falha na conexão - Tentando novamente...",
+  "deleteSignalTitle": "Excluir Sinal?",
+  "deleteSignalContent": "ATENÇÃO! Este sinal pode vir de um dispositivo sob escombros.\n\nSe você excluir, perderá a 'Última Localização Conhecida' e poderá não encontrá-lo novamente se o dispositivo parar de transmitir.\n\nDeseja excluir mesmo assim?",
+  "deleteConfirm": "EXCLUIR DADOS",
+  "unknownDevice": "Sinal Desconhecido",
+  "lastSeenPrefix": "Visto por último: ",
+  "statusLost": "PERDIDO",
+  "ghostMessage": "Sinal interrompido. Exibindo últimos dados conhecidos.",
+  "offlineData": "OFFLINE - DADOS ARQUIVADOS",
+  "lastSeenSeconds": "há {seconds}s",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "há {minutes}m",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "há {hours}h",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Fale Conosco",
+  "emailSubject": "Suporte BlueSOS / Feedback",
+  "emailBody": "Olá Equipe BlueSOS,\n\nGostaria de relatar um problema ou compartilhar uma ideia:\n\n[Por favor, escreva aqui]\n\n",
+  "emergencyCardTitle": "ID de Emergência",
+  "tapToUpdate": "Editar Informações",
+  "tapToAdd": "Adicionar Informações",
+  "bloodType": "Tipo Sanguíneo",
+  "allergies": "Alergias",
+  "medications": "Medicamentos",
+  "emergencyContacts": "Contatos de Emergência",
+  "contactName": "Nome",
+  "contactPhone": "Telefone",
+  "save": "SALVAR",
+  "maxContactsReached": "Você pode adicionar no máximo 3 pessoas.",
+  "wallpaperPromptTitle": "Bloqueio de Tela Salva-Vidas",
+  "wallpaperPromptDesc": "Mesmo se você estiver inconsciente, é vital que os socorristas vejam seu tipo sanguíneo.\n\nDeseja criar um papel de parede com essas informações?",
+  "createWallpaper": "CRIAR",
+  "later": "Mais Tarde",
+  "editorTitle": "Criador de Papel de Parede",
+  "pickImage": "Escolher Fundo",
+  "saveToGallery": "SALVAR NA GALERIA",
+  "savedSuccess": "Imagem Salva na Galeria!",
+  "cardScale": "Tamanho",
+  "cardColor": "Cor do Texto",
+  "showBackground": "Fundo da Caixa",
+  "dragToMove": "Arraste para mover",
+  "errorNoImage": "Por favor, selecione uma imagem de fundo primeiro.",
+  "removeImage": "Remover Imagem",
+  "textStyle": "Estilo do Texto",
+  "backgroundStyle": "Estilo da Caixa",
+  "opacity": "Opacidade",
+  "unknown": "Desconhecido",
+  "deviceOffline": "Dispositivo offline.",
+  "sendingSiren": "Enviando comando de sirene...",
+  "sirenTriggered": "Sirene acionada!",
+  "commandFailed": "Falha no comando.",
+  "rotateToScan": "Gire 360° para escanear. A barra encherá quando o sinal for forte.",
+  "signalLabel": "SINAL",
+  "radiusLabel": "RAIO",
+  "playSoundTooltip": "Tocar Som",
+  "deleteSignalTooltip": "Excluir Dados do Sinal",
+  "marketTitle": "Loja de Temas",
+  "purchaseSuccess": "Tema comprado e ativado com sucesso!",
+  "insufficientFunds": "Saldo insuficiente! Você precisa coletar mais moedas.",
+  "dailyRewardTitle": "Recompensa de Login Diário",
+  "dailyRewardMessage": "Você ganhou a recompensa de hoje de {amount} BlueCoin!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "RESGATAR RECOMPENSA",
+  "themeDefault": "Tema Padrão",
+  "themeMidnight": "Meia-noite",
+  "themeSunset": "Pôr do Sol",
+  "themeForest": "Floresta Profunda",
+  "currentTheme": "Tema Atual",
+  "themeOcean": "Azul Oceano",
+  "buyTheme": "Comprar Tema",
+  "confirmPurchaseTitle": "Confirmar Compra",
+  "confirmPurchaseContent": "Deseja desbloquear o tema {themeName} por {price} CP?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "COMPRAR",
+  "dailyRewards": "Recompensas Diárias",
+  "day": "Dia {index}",
+  "claim": "Resgatar",
+  "claimed": "Resgatado",
+  "wait": "Aguarde",
+  "rewardNotification": "Você ganhou {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Sua sequência de recompensas foi interrompida porque seu tempo expirou.",
+  "myWallet": "Minha Carteira: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "DIA {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Mantenha sua sequência fazendo login todos os dias e ganhe o prêmio máximo!",
+  "themeRed": "Alerta Vermelho",
+  "use": "Usar",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "N",
+  "compassSouth": "S",
+  "compassEast": "L",
+  "compassWest": "O",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "Saldo BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Pronto para Escanear e Transmitir",
+  "btRequired": "Escaneamento/Conexão/Transmissão Necessários",
+  "locRequired": "Necessário para Bluetooth LE",
+  "notifySubtitle": "Alertas e Informações em Segundo Plano",
+  "fixButton": "CORRIGIR",
+  "locationAlwaysWarning": "⚠️ A localização em segundo plano não está definida como 'Sempre'. O escaneamento pode parar quando a tela estiver desligada.",
+  "thermalProtectionWarning": "⚠️ Proteção Térmica: Alternado para o Modo Normal para resfriar o dispositivo.",
+  "scanModeLow": "Baixo (Eco)",
+  "scanModeMedium": "Médio (Equilibrado)",
+  "scanModeHigh": "Alto (Emergência)",
+  "scanSpeedPrefix": "Velocidade de Escaneamento",
+  "backgroundLocationTitle": "Localização em Segundo Plano",
+  "backgroundLocationDesc": "O BlueSOS precisa da permissão de localização 'Sempre' para escanear sinais Bluetooth mesmo quando a tela está desligada.\n\nEsta permissão é usada apenas para escanear sinais vitais; sua localização não é registrada ou compartilhada.",
+  "gotIt": "ENTENDI",
+  "idPrefix": "ID",
+  "defaultUserName": "Usuário BlueSOS",
+  "batteryOptimizationTooltip": "Remover Restrição de Bateria",
+  "scanSpeedTooltip": "Velocidade de Escaneamento",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "BlueSOS Ativo",
+  "foregroundServiceDesc": "Escaneando/Transmitindo sinal...",
+  "powerSaverTooltip": "Economia de Energia",
+  "marginOfError": "±30% Margem de Erro",
+  "compassInterferenceWarning": "⚠️ INTERFERÊNCIA DE METAL: BÚSSOLA NÃO CONFIÁVEL!\nPor favor, siga apenas o anel de Força do Sinal.",
+  "activeStatus": "ATIVO",
+  "languageLabel": "Idioma",
+  "emergencyInfoNotice": "Este aplicativo foi projetado para ajudar a salvar vidas em emergências. Por favor, conceda todas as permissões totalmente.",
+  "onlineRequired": "Conexão online necessária.",
+  "claimFailed": "A recompensa não pôde ser resgatada. Verifique sua conexão com a internet.",
+  "errorLabel": "Erro",
+  "marketLoadError": "Os dados da loja não puderam ser carregados.",
+  "retry": "Tentar Novamente",
+  "notificationRewardTitle": "Recompensa diária pronta!",
+  "notificationRewardBody": "Não quebre sua sequência! O Bluesos está esperando por você para resgatar sua recompensa.",
+  "nextRewardIn": "Próxima recompensa em",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

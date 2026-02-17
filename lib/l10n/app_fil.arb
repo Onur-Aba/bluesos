@@ -1,0 +1,256 @@
+{
+  "@@locale": "fil",
+  "appTitle": "BlueSOS",
+  "signalStart": "SIMULAN\nANG SIGNAL",
+  "signalBroadcasting": "NAGBO-BROADCAST\nNG SIGNAL",
+  "helpMode": "Help Mode",
+  "scanDesc": "I-detect ang mga signal sa paligid",
+  "scanning": "NAGI-SCAN...",
+  "searching": "Naghahanap ng signal...",
+  "radarTouch": "I-tap para buksan ang radar",
+  "permissions": "Mga Pahintulot",
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "language": "Wika",
+  "emergencyInfo": "Ang mga pahintulot ay mahalaga sa panahon ng emergency.",
+  "radarTracking": "RADAR TRACKING",
+  "direction": "DIREKSYON",
+  "distance": "Distansya",
+  "targetVeryClose": "NAPAKALAPIT NG TARGET!",
+  "approaching": "Papalapit na...",
+  "signalWeak": "Mahina ang Signal",
+  "connectionLost": "Naputol ang Koneksyon...",
+  "simulationMode": "SIMULATION MODE",
+  "menuHint": "I-tap nang dalawang beses para buksan ang settings",
+  "signalBtnHint": "I-tap nang dalawang beses para simulan o ihinto ang signal",
+  "requiredPermissions": "KAILANGANG PAHINTULOT",
+  "appearance": "ITSURO",
+  "active": "Aktibo",
+  "required": "Kailangan",
+  "openSettings": "BUKSAN ANG SETTINGS",
+  "cancel": "KANSELAHIN",
+  "permissionRequiredTitle": "Kailangan ng Pahintulot",
+  "permissionRequiredMessage": "Kailangan mong gamitin ang Settings ng device para patayin ang mga pahintulot.",
+  "permissionNotificationMessage": "Tinanggihan ang pahintulot sa notification. Paki-enable ito nang manu-mano sa settings.",
+  "permissionPermanentlyDenied": "Ang pahintulot na ito ay permanenteng tinanggihan. Kailangan mong i-on ito nang manu-mano sa settings.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Bluetooth Scan",
+  "permBluetoothAdvertise": "Bluetooth Signal",
+  "permBluetoothConnect": "Bluetooth Connect",
+  "permLocation": "Location Service",
+  "permNotification": "Notifications",
+  "donate": "Mag-donate / Suporta",
+  "signalLost": "NAWALA ANG SIGNAL - HULING DATA",
+  "connectionFailed": "Nabigo ang Koneksyon - Sinusubukan ulit...",
+  "deleteSignalTitle": "Burahin ang Signal?",
+  "deleteSignalContent": "BABALA! Ang signal na ito ay maaaring galing sa device na nasa ilalim ng guho.\n\nKung buburahin mo ito, mawawala ang data ng 'Huling Lokasyon' at kung hindi na muling magpapadala ng signal ang device, baka hindi mo na ito mahanap ulit.\n\nGusto mo pa rin bang burahin ito?",
+  "deleteConfirm": "BURAHIN ANG DATA",
+  "unknownDevice": "Hindi Kilalang Signal",
+  "lastSeenPrefix": "Huling nakita: ",
+  "statusLost": "NAWALA",
+  "ghostMessage": "Naputol ang signal. Ipinapakita ang huling nalamang data.",
+  "offlineData": "OFFLINE - HULING DATA",
+  "lastSeenSeconds": "{seconds}s ang nakalipas",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}m ang nakalipas",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}h ang nakalipas",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Makipag-ugnayan",
+  "emailSubject": "BlueSOS Support / Feedback",
+  "emailBody": "Hello BlueSOS Team,\n\nGusto kong mag-report ng problema o magbahagi ng ideya:\n\n[Pakisulat dito]\n\n",
+  "emergencyCardTitle": "Emergency Medical ID",
+  "tapToUpdate": "I-edit ang Info",
+  "tapToAdd": "Magdagdag ng Info",
+  "bloodType": "Blood Type",
+  "allergies": "Allergies",
+  "medications": "Mga Gamot",
+  "emergencyContacts": "Emergency Contacts",
+  "contactName": "Pangalan",
+  "contactPhone": "Telepono",
+  "save": "I-SAVE",
+  "maxContactsReached": "Hanggang 3 contacts lang ang pwede.",
+  "wallpaperPromptTitle": "Lock Screen na Tagapagligtas",
+  "wallpaperPromptDesc": "Kahit na wala kang malay, napakahalaga na makita ng rescue team ang iyong blood type at allergies.\n\nGusto mo bang gumawa ng special lock screen wallpaper na may ganitong impormasyon?",
+  "createWallpaper": "GAWIN",
+  "later": "Mamaya na",
+  "editorTitle": "Lock Screen Creator",
+  "pickImage": "Pumili ng Background",
+  "saveToGallery": "I-SAVE SA GALLERY",
+  "savedSuccess": "Na-save na ang litrato!",
+  "cardScale": "Laki",
+  "cardColor": "Kulay ng Text",
+  "showBackground": "Background Box",
+  "dragToMove": "I-drag ang card para ilipat",
+  "errorNoImage": "Pumili muna ng background image.",
+  "removeImage": "Alisin ang Litrato",
+  "textStyle": "Istilo ng Text",
+  "backgroundStyle": "Istilo ng Box",
+  "opacity": "Opacity",
+  "unknown": "Hindi Alam",
+  "deviceOffline": "Offline ang device.",
+  "sendingSiren": "Nagpapadala ng siren command...",
+  "sirenTriggered": "Tumunog na ang sirena!",
+  "commandFailed": "Nabigo ang command.",
+  "rotateToScan": "Umiikot ng 360° para mag-scan ng direksyon. Mapupuno ang bar kapag malakas ang signal.",
+  "signalLabel": "SIGNAL",
+  "radiusLabel": "RADIUS",
+  "playSoundTooltip": "Patunugin",
+  "deleteSignalTooltip": "Burahin ang Signal Data",
+  "marketTitle": "Tindahan ng Tema",
+  "purchaseSuccess": "Matagumpay na nabili at na-activate ang tema!",
+  "insufficientFunds": "Hindi sapat ang balanse! Kailangan mo pa ng maraming coin.",
+  "dailyRewardTitle": "Araw-araw na Reward sa Pag-login",
+  "dailyRewardMessage": "Nakuha mo ang iyong {amount} BlueCoin reward ngayong araw!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "KUNIN ANG REGALO",
+  "themeDefault": "Default na Tema",
+  "themeMidnight": "Hatinggabi",
+  "themeSunset": "Paglubog ng Araw",
+  "themeForest": "Kagubatan",
+  "themeRed": "Red Alert",
+  "currentTheme": "Kasalukuyang Tema",
+  "buyTheme": "Bilhin ang Tema",
+  "use": "Gamitin",
+  "confirmPurchaseTitle": "I-confirm ang Pagbili",
+  "confirmPurchaseContent": "Gusto mo bang i-unlock ang {themeName} na tema para sa {price} CP?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "BILI",
+  "dailyRewards": "Araw-araw na Reward",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "Binabati kita! Nakakuha ka ng {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Sayang, naputol ang streak! Tapos na ang iyong oras.",
+  "myWallet": "Wallet mo: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "ARAW {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Huwag putulin ang streak, mag-login araw-araw at manalo ng grand prize!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "H",
+  "compassSouth": "T",
+  "compassEast": "S",
+  "compassWest": "K",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "Balanse ng BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Handa na para sa Scan at Broadcast",
+  "btRequired": "Kailangan ng Scan/Connect/Broadcast",
+  "locRequired": "Kailangan para sa Bluetooth LE",
+  "notifySubtitle": "Mga Alert at Impormasyon sa Background",
+  "fixButton": "AYUSIN",
+  "locationAlwaysWarning": "⚠️ Ang background lokasyon ay hindi naka-set sa 'Always'. Maaaring huminto ang pag-scan kapag naka-off ang screen.",
+  "thermalProtectionWarning": "⚠️ Thermal Protection: Lumipat sa Normal Mode para palamigin ang device.",
+  "scanModeLow": "Mababa (Eco)",
+  "scanModeMedium": "Katamtaman (Balanced)",
+  "scanModeHigh": "Mataas (Emergency)",
+  "scanSpeedPrefix": "Bilis ng Scan",
+  "backgroundLocationTitle": "Lokasyon sa Background",
+  "backgroundLocationDesc": "Kailangan ng BlueSOS ang 'Always' na pahintulot sa lokasyon para makapag-scan ng Bluetooth signals kahit naka-off ang screen.\n\nAng pahintulot na ito ay ginagamit lamang para sa pag-scan ng mga lifesaving signal; ang iyong lokasyon ay hindi itatala o ibabahagi.",
+  "gotIt": "NAIINTINDIHAN KO",
+  "idPrefix": "ID",
+  "defaultUserName": "User ng BlueSOS",
+  "batteryOptimizationTooltip": "Alisin ang Limitasyon sa Baterya",
+  "scanSpeedTooltip": "Bilis ng Pag-scan",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "Aktibo ang BlueSOS",
+  "foregroundServiceDesc": "Nag-i-scan/Nagbo-broadcast ng signal...",
+  "powerSaverTooltip": "Pagtitipid sa Power",
+  "marginOfError": "±30% Margin ng Error",
+  "compassInterferenceWarning": "⚠️ METAL INTERFERENCE: HINDI MAAASAHAN ANG COMPASS!\nMangyaring sundin lamang ang Signal Strength ring.",
+  "activeStatus": "AKTIBO",
+  "languageLabel": "Wika",
+  "emergencyInfoNotice": "Ang app na ito ay dinesenyo para tumulong magligtas ng buhay sa mga emergency. Mangyaring ibigay ang lahat ng pahintulot nang buo.",
+  "onlineRequired": "Kailangan ng internet connection.",
+  "claimFailed": "Hindi nakuha ang reward. I-check ang iyong internet connection.",
+  "errorLabel": "Error",
+  "marketLoadError": "Hindi ma-load ang data ng market.",
+  "retry": "Subukan Muli",
+  "notificationRewardTitle": "Ready na ang Daily Reward!",
+  "notificationRewardBody": "Huwag sirain ang iyong streak! Naghihintay ang Bluesos para makuha mo ang iyong reward.",
+  "nextRewardIn": "Susunod na reward sa",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

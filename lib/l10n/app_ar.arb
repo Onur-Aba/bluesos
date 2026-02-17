@@ -1,0 +1,255 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "ابدأ\nالإشارة",
+  "signalBroadcasting": "الإشارة\nتنتشر",
+  "helpMode": "وضع المساعدة",
+  "scanDesc": "كشف الإشارات المحيطة",
+  "scanning": "جارٍ المسح...",
+  "searching": "جارٍ البحث عن إشارة...",
+  "radarTouch": "اضغط لفتح الرادار",
+  "permissions": "الأذونات",
+  "settings": "الإعدادات",
+  "darkMode": "الوضع الداكن",
+  "language": "اللغة",
+  "emergencyInfo": "في حالات الطوارئ، الأذونات حيوية.",
+  "radarTracking": "تتبع الرادار",
+  "direction": "الاتجاه",
+  "distance": "المسافة",
+  "targetVeryClose": "الهدف قريب جداً!",
+  "approaching": "أنت تقترب...",
+  "signalWeak": "الإشارة ضعيفة",
+  "connectionLost": "انقطع الاتصال...",
+  "simulationMode": "وضع المحاكاة",
+  "menuHint": "اضغط مرتين لفتح الإعدادات",
+  "signalBtnHint": "اضغط مرتين لبدء أو إيقاف الإشارة",
+  "requiredPermissions": "الأذونات المطلوبة",
+  "appearance": "المظهر",
+  "active": "نشط",
+  "required": "مطلوب",
+  "openSettings": "فتح الإعدادات",
+  "cancel": "إلغاء",
+  "permissionRequiredTitle": "إذن مطلوب",
+  "permissionRequiredMessage": "يجب عليك استخدام قائمة إعدادات الجهاز لإيقاف الأذونات.",
+  "permissionNotificationMessage": "تم رفض إذن الإشعارات. يرجى الدخول إلى خيار 'الإشعارات' ومنح الإذن يدوياً.",
+  "permissionPermanentlyDenied": "لقد رفضت هذا الإذن نهائياً من قبل. يجب عليك تفعيله يدوياً من الإعدادات.",
+  "permBluetooth": "البلوتوث",
+  "permBluetoothScan": "مسح البلوتوث",
+  "permBluetoothAdvertise": "إشارة البلوتوث",
+  "permBluetoothConnect": "اتصال البلوتوث",
+  "permLocation": "خدمة الموقع",
+  "permNotification": "الإشعارات",
+  "donate": "تبرع / دعم",
+  "signalLost": "فقدت الإشارة - آخر بيانات معروفة",
+  "connectionFailed": "فشل الاتصال - جاري إعادة المحاولة...",
+  "deleteSignalTitle": "حذف الإشارة؟",
+  "deleteSignalContent": "تحذير! قد تأتي هذه الإشارة من جهاز تحت الأنقاض.\n\nإذا قمت بحذفها، ستفقد بيانات 'آخر موقع معروف'، وإذا لم يرسل الجهاز إشارة مرة أخرى، قد لا تجده أبداً.\n\nهل ما زلت تريد الحذف؟",
+  "deleteConfirm": "حذف البيانات",
+  "unknownDevice": "إشارة غير معروفة",
+  "lastSeenPrefix": "آخر ظهور: ",
+  "statusLost": "مفقود",
+  "ghostMessage": "انقطعت الإشارة. يتم عرض آخر بيانات معروفة.",
+  "offlineData": "غير متصل - آخر بيانات",
+  "lastSeenSeconds": "منذ {seconds} ثانية",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "منذ {minutes} دقيقة",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "منذ {hours} ساعة",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "تواصل معنا",
+  "emailSubject": "BlueSOS دعم / ملاحظات",
+  "emailBody": "مرحباً فريق BlueSOS،\n\nأريد الإبلاغ عن مشكلة أو مشاركة فكرة:\n\n[يرجى الكتابة هنا]\n\n",
+  "emergencyCardTitle": "هوية الطوارئ",
+  "tapToUpdate": "تعديل المعلومات",
+  "tapToAdd": "إضافة معلومات",
+  "bloodType": "فصيلة الدم",
+  "allergies": "الحساسية",
+  "medications": "الأدوية",
+  "emergencyContacts": "جهات اتصال الطوارئ",
+  "contactName": "اسم الشخص",
+  "contactPhone": "رقم الهاتف",
+  "save": "حفظ",
+  "maxContactsReached": "يمكنك إضافة 3 أشخاص كحد أقصى.",
+  "wallpaperPromptTitle": "شاشة قفل منقذة للحياة",
+  "wallpaperPromptDesc": "حتى لو كنت فاقداً للوعي، فإن رؤية فرق الإسعاف لفصيلة دمك وحساسيتك أمر حيوي.\n\nهل ترغب في تصميم خلفية شاشة قفل خاصة تحتوي على هذه المعلومات؟",
+  "createWallpaper": "تصميم",
+  "later": "لاحقاً",
+  "editorTitle": "منشئ شاشة القفل",
+  "pickImage": "اختر خلفية",
+  "saveToGallery": "حفظ في المعرض",
+  "savedSuccess": "تم حفظ الصورة في المعرض!",
+  "cardScale": "الحجم",
+  "cardColor": "لون النص",
+  "showBackground": "مربع الخلفية",
+  "dragToMove": "اسحب لنقل البطاقة",
+  "errorNoImage": "يرجى اختيار صورة خلفية أولاً.",
+  "removeImage": "إزالة الصورة",
+  "textStyle": "نص النمط",
+  "backgroundStyle": "نمط الصندوق",
+  "opacity": "الشفافية",
+  "unknown": "غير معروف",
+  "deviceOffline": "الجهاز غير متصل.",
+  "sendingSiren": "جاري إرسال أمر الصفارة...",
+  "sirenTriggered": "تم إطلاق الصفارة!",
+  "commandFailed": "فشل إرسال الأمر.",
+  "rotateToScan": "در 360 درجة للمسح. سيمتلئ الشريط عندما تكون الإشارة قوية.",
+  "signalLabel": "الإشارة",
+  "radiusLabel": "نصف القطر",
+  "playSoundTooltip": "تشغيل الصوت",
+  "deleteSignalTooltip": "حذف بيانات الإشارة",
+  "marketTitle": "متجر السمات",
+  "purchaseSuccess": "تم شراء السمة وتفعيلها بنجاح!",
+  "insufficientFunds": "الرصيد غير كافٍ! يجب عليك جمع المزيد من العملات.",
+  "dailyRewardTitle": "مكافأة تسجيل الدخول اليومية",
+  "dailyRewardMessage": "لقد حصلت على مكافأة {amount} BlueCoin اليوم!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "الحصول على الهدية",
+  "themeDefault": "الأزرق الأصلي",
+  "themeMidnight": "منتصف الليل",
+  "themeSunset": "غروب الشمس",
+  "themeForest": "الغابة العميقة",
+  "themeRed": "الأحمر القرمزي",
+  "currentTheme": "السمة الحالية",
+  "buyTheme": "شراء السمة",
+  "use": "استخدام",
+  "confirmPurchaseTitle": "تأكيد الشراء",
+  "confirmPurchaseContent": "هل تريد فتح سمة {themeName} مقابل {price} CP؟",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "شراء",
+  "dailyRewards": "المكافآت اليومية",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "تهانينا! لقد ربحت {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "للأسف انقطعت السلسلة! ستبدأ من اليوم الأول مجدداً.",
+  "myWallet": "محفظتك: {balance} CP",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "اليوم {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "لا تقطع السلسلة، اربح 1000 CP في اليوم 30!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "م",
+  "unitImperial": "قدم",
+  "compassNorth": "ش",
+  "compassSouth": "ج",
+  "compassEast": "ق",
+  "compassWest": "غ",
+  "signalStrength": "%{percentage} {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "رصيد BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "جاهز للمسح والبث",
+  "btRequired": "مطلوب المسح/الاتصال/البث",
+  "locRequired": "مطلوب لخدمة البلوتوث",
+  "notifySubtitle": "التنبيهات ومعلومات الخلفية",
+  "fixButton": "إصلاح",
+  "locationAlwaysWarning": "⚠️ موقع الخلفية ليس مضبوطاً على 'دائماً'. قد يتوقف المسح عند إغلاق الشاشة.",
+  "thermalProtectionWarning": "⚠️ الحماية الحرارية: تم الانتقال إلى الوضع العادي لتبريد الجهاز.",
+  "scanModeLow": "منخفض (Eco)",
+  "scanModeMedium": "متوسط (متوازن)",
+  "scanModeHigh": "مرتفع (طوارئ)",
+  "scanSpeedPrefix": "سرعة المسح",
+  "backgroundLocationTitle": "موقع الخلفية",
+  "backgroundLocationDesc": "يحتاج BlueSOS إلى إذن الموقع 'دائماً' ليتمكن من مسح إشارات البلوتوث حتى عند إغلاق الشاشة.\n\nيستخدم هذا الإذن فقط لمسح إشارات إنقاذ الأرواح؛ ولا يتم تسجيل موقعك أو مشاركته.",
+  "gotIt": "فهمت",
+  "idPrefix": "المعرف",
+  "defaultUserName": "مستخدم BlueSOS",
+  "batteryOptimizationTooltip": "إزالة قيود البطارية",
+  "scanSpeedTooltip": "سرعة المسح",
+  "unitMeters": "م",
+  "unitFeet": "قدم",
+  "foregroundServiceTitle": "BlueSOS نشط",
+  "foregroundServiceDesc": "جاري مسح/بث الإشارة...",
+  "powerSaverTooltip": "توفير الطاقة",
+  "marginOfError": "±30% هامش الخطأ",
+  "compassInterferenceWarning": "⚠️ تداخل معدني: البوصلة غير موثوقة!\nيرجى اتباع حلقة قوة الإشارة فقط.",
+  "activeStatus": "نشط",
+  "languageLabel": "اللغة",
+  "emergencyInfoNotice": "تم تصميم هذا التطبيق للمساعدة في إنقاذ الأرواح في حالات الطوارئ. يرجى منح جميع الأذونات بالكامل.",
+  "onlineRequired": "الاتصال بالإنترنت مطلوب.",
+  "claimFailed": "تعذر الحصول على المكافأة. تحقق من اتصالك بالإنترنت.",
+  "errorLabel": "خطأ",
+  "marketLoadError": "تعذر تحميل بيانات المتجر.",
+  "retry": "إعادة المحاولة",
+  "notificationRewardTitle": "مكافأتك اليومية جاهزة!",
+  "notificationRewardBody": "لا تقطع سلسلة مكافآتك! Bluesos بانتظارك للحصول على مكافأتك.",
+  "nextRewardIn": "المكافأة التالية خلال",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

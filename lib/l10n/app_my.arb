@@ -1,0 +1,256 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "အချက်ပြ\nစတင်ရန်",
+  "signalBroadcasting": "အချက်ပြ\nလွှင့်နေသည်",
+  "helpMode": "အကူအညီ မုဒ်",
+  "scanDesc": "ပတ်ဝန်းကျင်ရှိ အချက်ပြများကို ရှာဖွေပါ",
+  "scanning": "စကင်န်ဖတ်နေသည်...",
+  "searching": "အချက်ပြ ရှာဖွေနေသည်...",
+  "radarTouch": "ရေဒါဖွင့်ရန် နှိပ်ပါ",
+  "permissions": "ခွင့်ပြုချက်များ",
+  "settings": "ဆက်တင်များ",
+  "darkMode": "အမှောင် မုဒ်",
+  "language": "ဘာသာစကား",
+  "emergencyInfo": "အရေးပေါ်အခြေအနေတွင် ခွင့်ပြုချက်များသည် အလွန်အရေးကြီးပါသည်။",
+  "radarTracking": "ရေဒါ ခြေရာခံခြင်း",
+  "direction": "ဦးတည်ချက်",
+  "distance": "အကွာအဝေး",
+  "targetVeryClose": "ပစ်မှတ် အလွန်နီးကပ်နေပါပြီ!",
+  "approaching": "နီးကပ်လာနေသည်...",
+  "signalWeak": "အချက်ပြ အားနည်းသည်",
+  "connectionLost": "ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်...",
+  "simulationMode": "လေ့ကျင့်ရေး မုဒ်",
+  "menuHint": "ဆက်တင်များဖွင့်ရန် နှစ်ချက်နှိပ်ပါ",
+  "signalBtnHint": "အချက်ပြ စတင်ရန် သို့မဟုတ် ရပ်တန့်ရန် နှစ်ချက်နှိပ်ပါ",
+  "requiredPermissions": "လိုအပ်သော ခွင့်ပြုချက်များ",
+  "appearance": "အသွင်အပြင်",
+  "active": "ဖွင့်ထားသည်",
+  "required": "လိုအပ်သည်",
+  "openSettings": "ဆက်တင်များ ဖွင့်ရန်",
+  "cancel": "မလုပ်တော့ပါ",
+  "permissionRequiredTitle": "ခွင့်ပြုချက် လိုအပ်သည်",
+  "permissionRequiredMessage": "ခွင့်ပြုချက်များကို ပိတ်ရန် သင့်ဖုန်း၏ ဆက်တင်များမှ လုပ်ဆောင်ရပါမည်။",
+  "permissionNotificationMessage": "အကြောင်းကြားချက် ခွင့်ပြုချက် ငြင်းပယ်ထားသည်။ ကျေးဇူးပြု၍ ဆက်တင်များတွင် ကိုယ်တိုင် ဖွင့်ပေးပါ။",
+  "permissionPermanentlyDenied": "ဤခွင့်ပြုချက်ကို အမြဲတမ်း ငြင်းပယ်ထားသည်။ ဆက်တင်များတွင် ကိုယ်တိုင် ဖွင့်ပေးရပါမည်။",
+  "permBluetooth": "ဘလူးတုသ်",
+  "permBluetoothScan": "ဘလူးတုသ် စကင်န်",
+  "permBluetoothAdvertise": "ဘလူးတုသ် အချက်ပြ",
+  "permBluetoothConnect": "ဘလူးတုသ် ချိတ်ဆက်မှု",
+  "permLocation": "တည်နေရာ ဝန်ဆောင်မှု",
+  "permNotification": "အကြောင်းကြားချက်များ",
+  "donate": "လှူဒါန်းရန် / ကူညီရန်",
+  "signalLost": "အချက်ပြ ပျောက်ဆုံး - နောက်ဆုံး ဒေတာ",
+  "connectionFailed": "ချိတ်ဆက်မှု မအောင်မြင်ပါ - ပြန်လည်ကြိုးစားနေသည်...",
+  "deleteSignalTitle": "အချက်ပြကို ဖျက်မလား?",
+  "deleteSignalContent": "သတိပြုပါ! ဤအချက်ပြသည် အပျက်အစီးများအောက်ရှိ ဖုန်းမှ ဖြစ်နိုင်ပါသည်။\n\nဖျက်လိုက်ပါက 'နောက်ဆုံးတွေ့ရှိရသော တည်နေရာ' ဒေတာ ပျောက်ဆုံးသွားမည်ဖြစ်ပြီး၊ ထိုဖုန်းမှ အချက်ပြ ထပ်မပို့ပါက ပြန်လည်ရှာဖွေ၍ မရနိုင်ပါ။\n\nဖျက်ရန် သေချာပါသလား?",
+  "deleteConfirm": "ဒေတာ ဖျက်မည်",
+  "unknownDevice": "အမည်မသိ အချက်ပြ",
+  "lastSeenPrefix": "နောက်ဆုံးတွေ့ရှိချိန်: ",
+  "statusLost": "ပျောက်ဆုံး",
+  "ghostMessage": "အချက်ပြ ပြတ်တောက်သွားသည်။ နောက်ဆုံးသိရှိထားသော ဒေတာကို ပြသနေသည်။",
+  "offlineData": "အော့ဖ်လိုင်း - နောက်ဆုံး ဒေတာ",
+  "lastSeenSeconds": "{seconds} စက္ကန့် အကြာက",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes} မိနစ် အကြာက",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours} နာရီ အကြာက",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "ဆက်သွယ်ရန်",
+  "emailSubject": "BlueSOS အကူအညီ / အကြံပြုချက်",
+  "emailBody": "မင်္ဂလာပါ BlueSOS အဖွဲ့၊\n\nပြဿနာတစ်ခု တိုင်ကြားလိုသည် (သို့) အကြံပြုချက် ပေးလိုပါသည် -\n\n[ဤနေရာတွင် ရေးပါ]\n\n",
+  "emergencyCardTitle": "အရေးပေါ် ကျန်းမာရေး ID",
+  "tapToUpdate": "အချက်အလက် ပြင်ဆင်ရန်",
+  "tapToAdd": "အချက်အလက် ထည့်ရန်",
+  "bloodType": "သွေးအမျိုးအစား",
+  "allergies": "ဓာတ်မတည့်မှုများ",
+  "medications": "သောက်သုံးနေသော ဆေးများ",
+  "emergencyContacts": "အရေးပေါ် ဆက်သွယ်ရန်",
+  "contactName": "အမည်",
+  "contactPhone": "ဖုန်းနံပါတ်",
+  "save": "သိမ်းဆည်းမည်",
+  "maxContactsReached": "လူ ၃ ဦးအထိသာ ထည့်သွင်းနိုင်သည်။",
+  "wallpaperPromptTitle": "အသက်ကယ် Lock Screen",
+  "wallpaperPromptDesc": "သင် သတိမေ့မြောနေလျှင်ပင် ကယ်ဆယ်ရေးအဖွဲ့များက သင့်သွေးအမျိုးအစားနှင့် ဓာတ်မတည့်မှုများကို မြင်တွေ့ရန် အရေးကြီးပါသည်။\n\nဤအချက်အလက်များပါဝင်သော Lock Screen ပုံကို ဖန်တီးလိုပါသလား?",
+  "createWallpaper": "ဖန်တီးမည်",
+  "later": "နောက်မှလုပ်မည်",
+  "editorTitle": "Lock Screen ဖန်တီးသူ",
+  "pickImage": "နောက်ခံပုံ ရွေးပါ",
+  "saveToGallery": "ဓာတ်ပုံအယ်လ်ဘမ်သို့ သိမ်းမည်",
+  "savedSuccess": "ပုံသိမ်းဆည်းပြီးပါပြီ!",
+  "cardScale": "အရွယ်အစား",
+  "cardColor": "စာသား အရောင်",
+  "showBackground": "နောက်ခံ ဘောင်",
+  "dragToMove": "ရွှေ့ရန် ဖိဆွဲပါ",
+  "errorNoImage": "ကျေးဇူးပြု၍ နောက်ခံပုံ အရင်ရွေးပါ။",
+  "removeImage": "ပုံဖျက်ရန်",
+  "textStyle": "စာသား ပုံစံ",
+  "backgroundStyle": "ဘောင် ပုံစံ",
+  "opacity": "အလင်းဖောက်နိုင်စွမ်း",
+  "unknown": "မသိရှိပါ",
+  "deviceOffline": "စက်ပစ္စည်း အော့ဖ်လိုင်းဖြစ်နေသည်။",
+  "sendingSiren": "ဥဩဆွဲရန် စေခိုင်းနေသည်...",
+  "sirenTriggered": "ဥဩသံ စတင်ပါပြီ!",
+  "commandFailed": "စေခိုင်းမှု မအောင်မြင်ပါ။",
+  "rotateToScan": "လမ်းကြောင်းရှာရန် ၃၆၀ ဒီဂရီ လှည့်ပတ်ပါ။ အချက်ပြ အားကောင်းသည့်ဘက်တွင် တိုင်များပြည့်လာပါမည်။",
+  "signalLabel": "အချက်ပြ",
+  "radiusLabel": "အချင်းဝက်",
+  "playSoundTooltip": "အသံဖွင့်ရန်",
+  "deleteSignalTooltip": "အချက်ပြ ဒေတာ ဖျက်ရန်",
+  "marketTitle": "အပြင်အဆင် ဆိုင်",
+  "purchaseSuccess": "အပြင်အဆင်ကို ဝယ်ယူပြီး အသုံးပြုလိုက်ပါပြီ။",
+  "insufficientFunds": "လက်ကျန်ငွေ မလုံလောက်ပါ။ ဒင်္ဂါးများ ထပ်မံ စုဆောင်းရန် လိုအပ်သည်။",
+  "dailyRewardTitle": "နေ့စဉ် ဝင်ရောက်မှု ဆုလာဘ်",
+  "dailyRewardMessage": "ယနေ့အတွက် {amount} BlueCoin ဆုလာဘ် ရရှိပါသည်။",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "ဆုလာဘ် ရယူမည်",
+  "themeDefault": "မူလ အပြင်အဆင်",
+  "themeMidnight": "သန်းခေါင်ယံ",
+  "themeSunset": "နေဝင်ဆည်းဆာ",
+  "themeForest": "တောနက်",
+  "currentTheme": "လက်ရှိ အသုံးပြုနေသော အပြင်အဆင်",
+  "themeOcean": "သမုဒ္ဒရာ အပြာရောင်",
+  "buyTheme": "အပြင်အဆင် ဝယ်မည်",
+  "confirmPurchaseTitle": "ဝယ်ယူမှုကို အတည်ပြုပါ",
+  "confirmPurchaseContent": "{themeName} အပြင်အဆင်ကို {price} CP ဖြင့် ဝယ်ယူလိုပါသလား?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "ဝယ်မည်",
+  "dailyRewards": "နေ့စဉ် ဆုလာဘ်များ",
+  "day": "နေ့ရက် {index}",
+  "claim": "ရယူမည်",
+  "claimed": "ရယူပြီး",
+  "wait": "စောင့်ပါ",
+  "rewardNotification": "သင် {amount} BlueCoin ရရှိခဲ့သည်!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "အချိန်ကုန်ဆုံးသွားသောကြောင့် သင်၏ ဆက်တိုက် ရယူမှု ပျက်ပြယ်သွားပါသည်။",
+  "myWallet": "ကျွန်ုပ်၏ ပိုက်ဆံအိတ်: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "နေ့ရက် {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "နေ့စဉ် ဝင်ရောက်ပြီး ဆက်တိုက် ရယူမှုကို ထိန်းသိမ်းကာ ဆုကြီးကို ဆွတ်ခူးလိုက်ပါ။",
+  "themeRed": "အနီရောင် သတိပေးချက်",
+  "use": "အသုံးပြုမည်",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "မီတာ",
+  "unitImperial": "ပေ",
+  "compassNorth": "မြောက်",
+  "compassSouth": "တောင်",
+  "compassEast": "အရှေ့",
+  "compassWest": "အနောက်",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin လက်ကျန်ငွေ",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "စကင်န်ဖတ်ရန်နှင့် အချက်ပြရန် အဆင်သင့်ဖြစ်ပါပြီ",
+  "btRequired": "စကင်န်ဖတ်ခြင်း/ချိတ်ဆက်ခြင်း/အချက်ပြခြင်း လိုအပ်သည်",
+  "locRequired": "Bluetooth LE အတွက် လိုအပ်သည်",
+  "notifySubtitle": "သတိပေးချက်များနှင့် နောက်ခံ အချက်အလက်",
+  "fixButton": "ပြုပြင်မည်",
+  "locationAlwaysWarning": "⚠️ နောက်ခံ တည်နေရာကို 'Always' ဟု သတ်မှတ်မထားပါ။ မျက်နှာပြင်ပိတ်ထားချိန်တွင် စကင်န်ဖတ်ခြင်း ရပ်တန့်သွားနိုင်ပါသည်။",
+  "thermalProtectionWarning": "⚠️ အပူချိန် ကာကွယ်မှု- စက်ပစ္စည်းကို အေးစေရန် ပုံမှန်မုဒ်သို့ ပြောင်းလဲလိုက်သည်။",
+  "scanModeLow": "နိမ့် (Eco)",
+  "scanModeMedium": "အလယ်အလတ် (မျှတသော)",
+  "scanModeHigh": "မြင့် (အရေးပေါ်)",
+  "scanSpeedPrefix": "စကင်န်ဖတ်နှုန်း",
+  "backgroundLocationTitle": "နောက်ခံ တည်နေရာ",
+  "backgroundLocationDesc": "BlueSOS သည် မျက်နှာပြင်ပိတ်ထားချိန်တွင် Bluetooth အချက်ပြများကို စကင်န်ဖတ်ရန်အတွက် 'Always' တည်နေရာ ခွင့်ပြုချက် လိုအပ်ပါသည်။\n\nဤခွင့်ပြုချက်ကို အသက်ကယ် အချက်ပြများ ရှာဖွေရန်အတွက်သာ အသုံးပြုခြင်း ဖြစ်ပြီး သင်၏ တည်နေရာကို မှတ်တမ်းတင်ခြင်း သို့မဟုတ် မျှဝေခြင်း မပြုပါ။",
+  "gotIt": "နားလည်ပါပြီ",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOS အသုံးပြုသူ",
+  "batteryOptimizationTooltip": "ဘက်ထရီ ကန့်သတ်ချက် ဖယ်ရှားပါ",
+  "scanSpeedTooltip": "စကင်န်ဖတ်နှုန်း",
+  "unitMeters": "မီတာ",
+  "unitFeet": "ပေ",
+  "foregroundServiceTitle": "BlueSOS အလုပ်လုပ်နေသည်",
+  "foregroundServiceDesc": "အချက်ပြ စကင်န်ဖတ်ခြင်း/လွှင့်ထုတ်ခြင်း...",
+  "powerSaverTooltip": "ပါဝါချွေတာရေး",
+  "marginOfError": "±၃၀% ခန့်မှန်းခြေ အမှားအယွင်း",
+  "compassInterferenceWarning": "⚠️ သတ္တု အနှောင့်အယှက်- သံလိုက်အိမ်မြှောင်ကို ယုံကြည်၍ မရပါ!\nကျေးဇူးပြု၍ အချက်ပြ အားကောင်းမှု ကွင်းကိုသာ ကြည့်ရှုပါ။",
+  "activeStatus": "အသက်ဝင်နေသည်",
+  "languageLabel": "ဘာသာစကား",
+  "emergencyInfoNotice": "ဤအက်ပ်ကို အရေးပေါ်အခြေအနေများတွင် အသက်ကယ်ရန် ရည်ရွယ်၍ ဖန်တီးထားခြင်း ဖြစ်သည်။ ကျေးဇူးပြု၍ ခွင့်ပြုချက်အားလုံးကို အပြည့်အဝ ပေးပါ။",
+  "onlineRequired": "အင်တာနက် ချိတ်ဆက်မှု လိုအပ်သည်။",
+  "claimFailed": "ဆုလာဘ် ရယူ၍ မရပါ။ အင်တာနက် ချိတ်ဆက်မှုကို စစ်ဆေးပါ။",
+  "errorLabel": "အမှားအယွင်း",
+  "marketLoadError": "ဆိုင်ရှိ ဒေတာများကို ရယူ၍ မရပါ။",
+  "retry": "ပြန်ကြိုးစားမည်",
+  "notificationRewardTitle": "နေ့စဉ်ဆုလာဘ် အဆင်သင့်ဖြစ်ပါပြီ။",
+  "notificationRewardBody": "ဆက်တိုက်ရယူမှုကို မဖြတ်တောက်ပါနဲ့။ Bluesos က သင့်ရဲ့ဆုလာဘ်ကို ရယူဖို့ စောင့်နေပါတယ်။",
+  "nextRewardIn": "နောက်ထပ် ဆုလာဘ်အထိ",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

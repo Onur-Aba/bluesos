@@ -1,0 +1,256 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "سیګنال\nپیل کړئ",
+  "signalBroadcasting": "سیګنال\nخپریږي",
+  "helpMode": "د مرستې حالت",
+  "scanDesc": "شاوخوا سیګنالونه وپلټئ",
+  "scanning": "شاوخوا پلټل کیږي...",
+  "searching": "د سیګنال لټون...",
+  "radarTouch": "د رادار خلاصولو لپاره لمس کړئ",
+  "permissions": "اجازې",
+  "settings": "تنیظیمات",
+  "darkMode": "توره بڼه",
+  "language": "ژبه",
+  "emergencyInfo": "په بیړني حالت کې، اجازې خورا مهم دي.",
+  "radarTracking": "د رادار تعقیب",
+  "direction": "لوری",
+  "distance": "واټن",
+  "targetVeryClose": "هدف ډیر نږدې دی!",
+  "approaching": "نږدې کیږي...",
+  "signalWeak": "سیګنال کمزوری دی",
+  "connectionLost": "اړیکه پرې شوه...",
+  "simulationMode": "د تمرین حالت",
+  "menuHint": "د تنظیماتو خلاصولو لپاره دوه ځله لمس کړئ",
+  "signalBtnHint": "د سیګنال پیل یا بندولو لپاره دوه ځله لمس کړئ",
+  "requiredPermissions": "اړینې اجازې",
+  "appearance": "بڼه",
+  "active": "فعال",
+  "required": "اړین",
+  "openSettings": "تنیظیمات خلاص کړئ",
+  "cancel": "لغوه کول",
+  "permissionRequiredTitle": "اجازه اړینه ده",
+  "permissionRequiredMessage": "د اجازې بندولو لپاره باید د وسیلې تنظیمات وکاروئ.",
+  "permissionNotificationMessage": "د خبرتیا اجازه رد شوه. مهرباني وکړئ په ترتیباتو کې یې په لاسي ډول فعال کړئ.",
+  "permissionPermanentlyDenied": "دا اجازه د تل لپاره رد شوې. تاسو باید دا په ترتیباتو کې فعال کړئ.",
+  "permBluetooth": "بلوتوټ",
+  "permBluetoothScan": "د بلوتوټ لټون",
+  "permBluetoothAdvertise": "د بلوتوټ سیګنال",
+  "permBluetoothConnect": "د بلوتوټ اړیکه",
+  "permLocation": "د موقعیت خدمت",
+  "permNotification": "خبرتیاوې",
+  "donate": "مرسته / ملاتړ",
+  "signalLost": "سیګنال ورک شو - وروستي معلومات",
+  "connectionFailed": "اړیکه ناکامه شوه - بیا هڅه کول...",
+  "deleteSignalTitle": "سیګنال ړنګ کړئ؟",
+  "deleteSignalContent": "پاملرنه! دا سیګنال ممکن د خاورو لاندې وسیلې څخه وي.\n\nکه تاسو یې ړنګ کړئ، تاسو به د 'وروستي پیژندل شوي ځای' معلومات له لاسه ورکړئ، او که وسیله بیا سیګنال ونه لیږي، ممکن تاسو یې بیا ونه مومئ.\n\nایا تاسو لاهم غواړئ دا ړنګ کړئ؟",
+  "deleteConfirm": "معلومات ړنګ کړئ",
+  "unknownDevice": "نامعلوم سیګنال",
+  "lastSeenPrefix": "وروستی لیدل شوی: ",
+  "statusLost": "ورک شوی",
+  "ghostMessage": "سیګنال پرې شو. وروستي پیژندل شوي معلومات ښودل کیږي.",
+  "offlineData": "آفلاین - وروستي معلومات",
+  "lastSeenSeconds": "{seconds} ثانیې مخکې",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes} دقیقې مخکې",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours} ساعتونه مخکې",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "موږ سره اړیکه",
+  "emailSubject": "BlueSOS ملاتړ",
+  "emailBody": "سلام BlueSOS ټیم،\n\nزه غواړم یوه ستونزه راپور کړم یا نظر شریک کړم:\n\n[مهرباني وکړئ دلته ولیکئ]\n\n",
+  "emergencyCardTitle": "بیړني روغتیایی معلومات",
+  "tapToUpdate": "معلومات سم کړئ",
+  "tapToAdd": "معلومات اضافه کړئ",
+  "bloodType": "د وینې ګروپ",
+  "allergies": "حساسیتونه",
+  "medications": "درمل",
+  "emergencyContacts": "بیړنۍ اړیکې",
+  "contactName": "نوم",
+  "contactPhone": "د تلیفون شمیره",
+  "save": "ثبت کول",
+  "maxContactsReached": "تاسو کولی شئ تر 3 پورې اړیکې اضافه کړئ.",
+  "wallpaperPromptTitle": "د ژوند ژغورونکی سکرین",
+  "wallpaperPromptDesc": "حتی که تاسو بې هوښه یاست، دا خورا مهم دی چې د ژغورنې ټیم ستاسو د وینې ګروپ او حساسیتونه وګوري.\n\nایا تاسو غواړئ د دې معلوماتو سره د لاک سکرین ځانګړی انځور جوړ کړئ؟",
+  "createWallpaper": "جوړول",
+  "later": "وروسته",
+  "editorTitle": "د سکرین جوړونکی",
+  "pickImage": "شالید وټاکئ",
+  "saveToGallery": "په ګالري کې ثبت کړئ",
+  "savedSuccess": "انځور ثبت شو!",
+  "cardScale": "کچه",
+  "cardColor": "د متن رنګ",
+  "showBackground": "د شالید بکس",
+  "dragToMove": "د حرکت لپاره کارت کش کړئ",
+  "errorNoImage": "مهرباني وکړئ لومړی یو انځور وټاکئ.",
+  "removeImage": "انځور لیرې کړئ",
+  "textStyle": "د متن بڼه",
+  "backgroundStyle": "د بکس بڼه",
+  "opacity": "روڼتیا",
+  "unknown": "نامعلوم",
+  "deviceOffline": "وسیله آفلاین ده.",
+  "sendingSiren": "د سایرن امر لیږل کیږي...",
+  "sirenTriggered": "سایرن فعال شو!",
+  "commandFailed": "امر ونه لیږل شو.",
+  "rotateToScan": "د لوري موندلو لپاره 360 درجې وګرځئ.",
+  "signalLabel": "سیګنال",
+  "radiusLabel": "شعاع",
+  "playSoundTooltip": "غږ غږول",
+  "deleteSignalTooltip": "د سیګنال معلومات ړنګ کړئ",
+  "marketTitle": "د بڼې پلورنځی",
+  "purchaseSuccess": "بڼه په بریالیتوب سره وپیرل شوه او فعاله شوه!",
+  "insufficientFunds": "کافي بیلانس نشته! تاسو اړتیا لرئ نورې سکې راټولې کړئ.",
+  "dailyRewardTitle": "د ورځني ننوتلو جایزه",
+  "dailyRewardMessage": "تاسو د نن ورځې {amount} BlueCoin جایزه ترلاسه کړه!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "جایزه ترلاسه کړئ",
+  "themeDefault": "اصلي بڼه",
+  "themeMidnight": "نیمه شپه",
+  "themeSunset": "لمر ډوبیدل",
+  "themeForest": "ژوره ځنګل",
+  "currentTheme": "اوسنۍ بڼه",
+  "themeOcean": "د سمندر آبي",
+  "buyTheme": "بڼه وپیرئ",
+  "confirmPurchaseTitle": "د پیرود تایید",
+  "confirmPurchaseContent": "ایا تاسو غواړئ د {price} CP لپاره {themeName} بڼه پرانیزئ؟",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "پیرود",
+  "dailyRewards": "ورځنۍ جایزې",
+  "day": "ورځ {index}",
+  "claim": "ترلاسه کول",
+  "claimed": "ترلاسه شوه",
+  "wait": "انتظار وکړئ",
+  "rewardNotification": "تاسو {amount} BlueCoin ترلاسه کړل!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "ستاسو د جایزې لړۍ ماته شوه ځکه چې ستاسو وخت تیر شوی دی.",
+  "myWallet": "زما بټوه: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "ورځ {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "هره ورځ د ننوتلو له لارې خپله لړۍ وساتئ او لویه جایزه وګټئ!",
+  "themeRed": "سور خبرداری",
+  "use": "کارول",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "متر",
+  "unitImperial": "فوټ",
+  "compassNorth": "شمال",
+  "compassSouth": "سویل",
+  "compassEast": "ختیځ",
+  "compassWest": "لویدیځ",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "د BlueCoin بیلانس",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "اسکن او خپرولو ته چمتو دی",
+  "btRequired": "اسکن/وصل/خپرول اړین دي",
+  "locRequired": "د Bluetooth LE لپاره اړین دی",
+  "notifySubtitle": "خبرتیاوې او د شالید معلومات",
+  "fixButton": "سمول",
+  "locationAlwaysWarning": "⚠️ د شالید موقعیت په 'Always' نه دی تنظیم شوی. ممکن اسکن بند شي کله چې سکرین مړ وي.",
+  "thermalProtectionWarning": "⚠️ د تودوخې محافظت: وسیلې یخولو لپاره عادي حالت ته بدل شو.",
+  "scanModeLow": "ټیټ (Eco)",
+  "scanModeMedium": "متوسط (Balanced)",
+  "scanModeHigh": "لوړ (Emergency)",
+  "scanSpeedPrefix": "د اسکن سرعت",
+  "backgroundLocationTitle": "د شالید موقعیت",
+  "backgroundLocationDesc": "BlueSOS د بلوتوټ سیګنالونو اسکن کولو لپاره د 'Always' موقعیت اجازې ته اړتیا لري حتی کله چې سکرین مړ وي.\n\nدا اجازه یوازې د ژوند ژغورونکي سیګنالونو اسکن کولو لپاره کارول کیږي؛ ستاسو موقعیت نه ثبت کیږي او نه شریک کیږي.",
+  "gotIt": "پوه شوم",
+  "idPrefix": "پیژند",
+  "defaultUserName": "د BlueSOS کاروونکی",
+  "batteryOptimizationTooltip": "د بیټرۍ محدودیت لرې کړئ",
+  "scanSpeedTooltip": "د اسکن سرعت",
+  "unitMeters": "متر",
+  "unitFeet": "فوټ",
+  "foregroundServiceTitle": "BlueSOS فعال دی",
+  "foregroundServiceDesc": "د سیګنال اسکن کول/خپرول...",
+  "powerSaverTooltip": "د بریښنا سپما",
+  "marginOfError": "±۳۰٪ د خطا کچه",
+  "compassInterferenceWarning": "⚠️ د فلزي لاسوهنه: قطب نما د اعتماد وړ نه ده!\nمهرباني وکړئ یوازې د سیګنال ځواک حلقه تعقیب کړئ.",
+  "activeStatus": "فعال",
+  "languageLabel": "ژبه",
+  "emergencyInfoNotice": "دا اپلیکیشن په بیړني حالت کې د ژوند ژغورلو لپاره ډیزاین شوی. مهرباني وکړئ ټولې اجازې په بشپړ ډول ورکړئ.",
+  "onlineRequired": "آنلاین اړیکه اړینه ده.",
+  "claimFailed": "جایزه ترلاسه نشوه. خپله انټرنیټي اړیکه وګورئ.",
+  "errorLabel": "تېروتنه",
+  "marketLoadError": "د پلورنځي معلومات پورته نشول.",
+  "retry": "بیا هڅه وکړئ",
+  "notificationRewardTitle": "ورځنۍ جایزه تیاره ده!",
+  "notificationRewardBody": "خپله لړۍ مه ماتوئ! Bluesos ستاسو د جایزې ترلاسه کولو ته انتظار باسي.",
+  "nextRewardIn": "بله جایزه په",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

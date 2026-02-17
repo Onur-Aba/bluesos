@@ -1,0 +1,257 @@
+{
+  "@@locale": "prs",
+  "appTitle": "BlueSOS",
+  "signalStart": "شروع\nسیگنال",
+  "signalBroadcasting": "در حال\nپخش سیگنال",
+  "helpMode": "حالت کمک",
+  "scanDesc": "جستجوی سیگنال‌های اطراف",
+  "scanning": "در حال اسکن...",
+  "searching": "جستجوی سیگنال...",
+  "radarTouch": "برای باز کردن رادار لمس کنید",
+  "permissions": "مجوزها",
+  "settings": "تنظیمات",
+  "darkMode": "حالت تاریک",
+  "language": "زبان",
+  "emergencyInfo": "در مواقع اضطراری، مجوزها حیاتی هستند.",
+  "radarTracking": "ردیابی رادار",
+  "direction": "جهت",
+  "distance": "فاصله",
+  "targetVeryClose": "هدف بسیار نزدیک است!",
+  "approaching": "در حال نزدیک شدن...",
+  "signalWeak": "سیگنال ضعیف",
+  "connectionLost": "ارتباط قطع شد...",
+  "simulationMode": "حالت تمرین",
+  "menuHint": "برای باز کردن تنظیمات دو بار لمس کنید",
+  "signalBtnHint": "برای شروع یا توقف سیگنال دو بار لمس کنید",
+  "requiredPermissions": "مجوزهای ضروری",
+  "appearance": "ظاهر",
+  "active": "فعال",
+  "required": "ضروری",
+  "openSettings": "باز کردن تنظیمات",
+  "cancel": "لغو",
+  "permissionRequiredTitle": "مجوز لازم است",
+  "permissionRequiredMessage": "برای تغییر مجوزها باید از منوی تنظیمات دستگاه استفاده کنید.",
+  "permissionNotificationMessage": "مجوز اعلان رد شد. لطفاً آن را به صورت دستی در تنظیمات فعال کنید.",
+  "permissionPermanentlyDenied": "این مجوز قبلاً برای همیشه رد شده است. باید آن را دستی در تنظیمات فعال کنید.",
+  "permBluetooth": "بلوتوث",
+  "permBluetoothScan": "اسکن بلوتوث",
+  "permBluetoothAdvertise": "سیگنال بلوتوث",
+  "permBluetoothConnect": "اتصال بلوتوث",
+  "permLocation": "سرویس مکان‌یابی",
+  "permNotification": "اعلان‌ها",
+  "donate": "کمک مالی / حمایت",
+  "signalLost": "سیگنال گم شد - آخرین داده",
+  "connectionFailed": "اتصال ناموفق - تلاش مجدد...",
+  "deleteSignalTitle": "حذف سیگنال؟",
+  "deleteSignalContent": "توجه! این سیگنال ممکن است از دستگاهی زیر آوار باشد.\n\nاگر آن را حذف کنید، داده 'آخرین مکان شناخته شده' را از دست خواهید داد و اگر دستگاه دوباره سیگنال ندهد، ممکن است دیگر آن را پیدا نکنید.\n\nآیا همچنان می‌خواهید حذف کنید؟",
+  "deleteConfirm": "حذف داده",
+  "unknownDevice": "سیگنال ناشناس",
+  "lastSeenPrefix": "آخرین بازدید: ",
+  "statusLost": "گمشده",
+  "ghostMessage": "سیگنال قطع شد. نمایش آخرین داده‌های شناخته شده.",
+  "offlineData": "آفلاین - آخرین داده",
+  "lastSeenSeconds": "{seconds} ثانیه پیش",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes} دقیقه پیش",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours} ساعت پیش",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "تماس با پشتیبانی",
+  "emailSubject": "پشتیبانی BlueSOS / بازخورد",
+  "emailBody": "سلام تیم BlueSOS،\n\nمی‌خواهم مشکلی را گزارش دهم یا پیشنهادی دارم:\n\n[لطفاً اینجا بنویسید]\n\n",
+  "emergencyCardTitle": "شناسه پزشکی اضطراری",
+  "tapToUpdate": "ویرایش اطلاعات",
+  "tapToAdd": "افزودن اطلاعات",
+  "bloodType": "گروه خونی",
+  "allergies": "حساسیت‌ها",
+  "medications": "داروها",
+  "emergencyContacts": "مخاطبین اضطراری",
+  "contactName": "نام",
+  "contactPhone": "شماره تلفن",
+  "save": "ذخیره",
+  "maxContactsReached": "حداکثر ۳ مخاطب مجاز است.",
+  "wallpaperPromptTitle": "صفحه قفل نجات‌بخش",
+  "wallpaperPromptDesc": "حتی اگر بیهوش باشید، بسیار مهم است که تیم نجات گروه خونی و حساسیت‌های شما را ببیند.\n\nآیا می‌خواهید یک تصویر زمینه صفحه قفل با این اطلاعات بسازید؟",
+  "createWallpaper": "ساختن",
+  "later": "بعداً",
+  "editorTitle": "سازنده صفحه قفل",
+  "pickImage": "انتخاب پس‌زمینه",
+  "saveToGallery": "ذخیره در گالری",
+  "savedSuccess": "تصویر ذخیره شد!",
+  "cardScale": "اندازه",
+  "cardColor": "رنگ متن",
+  "showBackground": "کادر پس‌زمینه",
+  "dragToMove": "برای جابجایی کارت بکشید",
+  "errorNoImage": "لطفاً ابتدا یک تصویر پس‌زمینه انتخاب کنید.",
+  "removeImage": "حذف تصویر",
+  "textStyle": "سبک متن",
+  "backgroundStyle": "سبک کادر",
+  "opacity": "شفافیت",
+  "unknown": "نامشخص",
+  "deviceOffline": "دستگاه آفلاین است.",
+  "sendingSiren": "در حال ارسال دستور آژیر...",
+  "sirenTriggered": "آژیر فعال شد!",
+  "commandFailed": "ارسال دستور ناموفق بود.",
+  "rotateToScan": "برای اسکن جهت ۳۶۰ درجه بچرخید.",
+  "signalLabel": "سیگنال",
+  "radiusLabel": "شعاع",
+  "playSoundTooltip": "پخش صدا",
+  "deleteSignalTooltip": "حذف داده سیگنال",
+  "marketTitle": "فروشگاه پوسته",
+  "purchaseSuccess": "پوسته با موفقیت خریداری و فعال شد!",
+  "insufficientFunds": "موجودی کافی نیست! باید سکه‌های بیشتری جمع کنید.",
+  "dailyRewardTitle": "پاداش ورود روزانه",
+  "dailyRewardMessage": "شما پاداش {amount} BlueCoin امروز را دریافت کردید!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "دریافت پاداش",
+  "themeDefault": "پوسته پیش‌فرض",
+  "themeMidnight": "نیمه‌شب",
+  "themeSunset": "غروب",
+  "themeForest": "جنگل عمیق",
+  "currentTheme": "پوسته فعلی",
+  "themeOcean": "آبی اقیانوس",
+  "buyTheme": "خرید پوسته",
+  "confirmPurchaseTitle": "تایید خرید",
+  "confirmPurchaseContent": "آیا می‌خواهید پوسته {themeName} را با قیمت {price} CP باز کنید؟",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "خرید",
+  "dailyRewards": "پاداش‌های روزانه",
+  "day": "روز {index}",
+  "claim": "دریافت",
+  "claimed": "دریافت شده",
+  "wait": "منتظر بمانید",
+  "rewardNotification": "شما {amount} BlueCoin برنده شدید!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "زنجیره پاداش شما قطع شد زیرا زمان شما به پایان رسیده است.",
+  "myWallet": "کیف پول من: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "روز {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "با ورود هر روزه، زنجیره خود را حفظ کنید و جایزه بزرگ را ببرید!",
+  "themeRed": "هشدار قرمز",
+  "use": "استفاده",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "متر",
+  "unitImperial": "فوت",
+  "compassNorth": "ش",
+  "compassSouth": "ج",
+  "compassEast": "خ",
+  "compassWest": "ب",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "موجودی BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "آماده برای اسکن و پخش",
+  "btRequired": "اسکن/اتصال/پخش لازم است",
+  "locRequired": "برای Bluetooth LE لازم است",
+  "notifySubtitle": "هشدارها و اطلاعات پس‌زمینه",
+  "fixButton": "اصلاح",
+  "locationAlwaysWarning": "⚠️ مکان‌پس‌زمینه روی 'Always' تنظیم نشده است. اسکن ممکن است هنگام خاموش بودن صفحه متوقف شود.",
+  "thermalProtectionWarning": "⚠️ محافظت حرارتی: برای خنک کردن دستگاه به حالت عادی تغییر یافت.",
+  "scanModeLow": "پایین (اقتصادی)",
+  "scanModeMedium": "متوسط (متعادل)",
+  "scanModeHigh": "بالا (اضطراری)",
+  "scanSpeedPrefix": "سرعت اسکن",
+  "backgroundLocationTitle": "مکان پس‌زمینه",
+  "backgroundLocationDesc": "BlueSOS برای اسکن سیگنال‌های بلوتوث حتی زمانی که صفحه خاموش است، به مجوز مکان 'Always' نیاز دارد.\n\nاین مجوز فقط برای اسکن سیگنال‌های نجات‌بخش استفاده می‌شود؛ مکان شما ثبت یا به اشتراک گذاشته نمی‌شود.",
+  "gotIt": "متوجه شدم",
+  "idPrefix": "شناسه",
+  "defaultUserName": "کاربر BlueSOS",
+  "batteryOptimizationTooltip": "حذف محدودیت باتری",
+  "scanSpeedTooltip": "سرعت اسکن",
+  "unitMeters": "متر",
+  "unitFeet": "فوت",
+  "foregroundServiceTitle": "BlueSOS فعال است",
+  "foregroundServiceDesc": "در حال اسکن/پخش سیگنال...",
+  "powerSaverTooltip": "صرفه‌جویی در انرژی",
+  "marginOfError": "±۳۰٪ ضریب خطا",
+  "compassInterferenceWarning": "⚠️ تداخل فلزی: قطب‌نما قابل اعتماد نیست!\nلطفاً فقط حلقه قدرت سیگنال را دنبال کنید.",
+  "activeStatus": "فعال",
+  "languageLabel": "زبان",
+  "emergencyInfoNotice": "این برنامه برای کمک به نجات جان انسان‌ها در شرایط اضطراری طراحی شده است. لطفاً تمامی مجوزها را به طور کامل تایید کنید.",
+  "onlineRequired": "اتصال آنلاین لازم است.",
+  "claimFailed": "پاداش دریافت نشد. اتصال اینترنت خود را بررسی کنید.",
+  "errorLabel": "خطا",
+  "marketLoadError": "داده‌های فروشگاه بارگذاری نشد.",
+  "retry": "تلاش مجدد",
+  "notificationRewardTitle": "پاداش روزانه آماده است!",
+  "notificationRewardBody": "زنجیره خود را قطع نکنید! Bluesos منتظر است تا پاداش خود را دریافت کنید.",
+  "nextRewardIn": "پاداش بعدی در",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

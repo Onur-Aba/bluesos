@@ -1,0 +1,263 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "SİNYAL\nBAŞLAT",
+  "signalBroadcasting": "SİNYAL\nYAYILIYOR",
+  "helpMode": "Yardım Modu",
+  "scanDesc": "Çevredeki sinyalleri tespit et",
+  "scanning": "ÇEVRE TARANIYOR...",
+  "searching": "Sinyal aranıyor...",
+  "radarTouch": "Radarı açmak için dokun",
+  "permissions": "İzinler",
+  "settings": "Ayarlar",
+  "darkMode": "Karanlık Mod",
+  "language": "Dil",
+  "emergencyInfo": "Acil durumda izinler hayati önem taşır.",
+  "radarTracking": "RADAR TAKİBİ",
+  "direction": "YÖN",
+  "distance": "Mesafe",
+  "targetVeryClose": "HEDEF ÇOK YAKIN!",
+  "approaching": "Yaklaşıyorsunuz...",
+  "signalWeak": "Sinyal Zayıf",
+  "connectionLost": "Bağlantı Koptu...",
+  "simulationMode": "SİMÜLASYON MODU",
+  "menuHint": "Ayarları açmak için çift dokunun",
+  "signalBtnHint": "Sinyal başlatmak veya durdurmak için çift dokunun",
+  "requiredPermissions": "GEREKLİ İZİNLER",
+  "appearance": "GÖRÜNÜM",
+  "active": "Aktif",
+  "required": "Gerekli",
+  "openSettings": "AYARLARI AÇ",
+  "cancel": "İPTAL",
+  "permissionRequiredTitle": "İzin Gerekli",
+  "permissionRequiredMessage": "İzinleri kapatmak için cihazın Ayarlar menüsünü kullanmalısınız.",
+  "permissionNotificationMessage": "Bildirim izni reddedilmiş. Lütfen açılan ekrandan 'Bildirimler' seçeneğine girip izni manuel olarak verin.",
+  "permissionPermanentlyDenied": "Bu izni daha önce kalıcı olarak reddettiniz. Ayarlar menüsünden manuel olarak açmanız gerekiyor.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Bluetooth Tarama",
+  "permBluetoothAdvertise": "Bluetooth Sinyal",
+  "permBluetoothConnect": "Bluetooth Bağlantı",
+  "permLocation": "Konum Servisi",
+  "permNotification": "Bildirimler",
+  "donate": "Bağış Yap / Destek Ol",
+  "signalLost": "SİNYAL KAYBOLDU - SON BİLİNEN VERİ",
+  "connectionFailed": "Bağlantı Başarısız - Tekrar deneniyor...",
+  "deleteSignalTitle": "Sinyali Sil?",
+  "deleteSignalContent": "DİKKAT! Bu sinyal enkaz altındaki bir cihazdan geliyor olabilir.\n\nSilerseniz, 'Son Bilinen Konum' verisini kaybedeceksiniz ve cihaz tekrar sinyal göndermezse onu bir daha bulamayabilirsiniz.\n\nYine de silmek istiyor musunuz?",
+  "deleteConfirm": "VERİYİ SİL",
+  "unknownDevice": "Bilinmeyen Sinyal",
+  "lastSeenPrefix": "Son görülme: ",
+  "statusLost": "KAYIP",
+  "ghostMessage": "Sinyal kesildi. Son bilinen veriler gösteriliyor.",
+  "offlineData": "ÇEVRİMDIŞI - SON GÖRÜLEN VERİ",
+  "lastSeenSeconds": "{seconds}sn önce",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}dk önce",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}sa önce",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "İletişime Geç",
+  "emailSubject": "BlueSOS Destek / Geri Bildirim",
+  "emailBody": "Merhaba BlueSOS Ekibi,\n\nBir sorun bildirmek veya fikir paylaşmak istiyorum:\n\n[Lütfen buraya yazın]\n\n",
+  "emergencyCardTitle": "Acil Durum Kimliği",
+  "tapToUpdate": "Bilgileri Düzenle",
+  "tapToAdd": "Bilgi Ekle",
+  "bloodType": "Kan Grubu",
+  "allergies": "Alerjiler",
+  "medications": "Kullanılan İlaçlar",
+  "emergencyContacts": "Acil Durum Kişileri",
+  "contactName": "Kişi Adı",
+  "contactPhone": "Telefon Numarası",
+  "save": "KAYDET",
+  "maxContactsReached": "En fazla 3 kişi ekleyebilirsiniz.",
+  "wallpaperPromptTitle": "Hayat Kurtaran Kilit Ekranı",
+  "wallpaperPromptDesc": "Bilinciniz kapalı olsa bile, ilk yardım ekiplerinin kan grubunuzu ve alerjilerinizi görmesi hayati önem taşır.\n\nBu bilgileri içeren özel bir kilit ekranı duvar kağıdı tasarlamak ister misiniz?",
+  "createWallpaper": "TASARLA",
+  "later": "Daha Sonra",
+  "editorTitle": "Kilit Ekranı Oluşturucu",
+  "pickImage": "Arka Plan Seç",
+  "saveToGallery": "GALERİYE KAYDET",
+  "savedSuccess": "Görsel Galeriye Kaydedildi!",
+  "cardScale": "Boyut",
+  "cardColor": "Yazı Rengi",
+  "showBackground": "Arka Plan Kutusu",
+  "dragToMove": "Kartı taşımak için sürükleyin",
+  "errorNoImage": "Lütfen önce bir arka plan resmi seçin.",
+  "removeImage": "Resmi Kaldır",
+  "textStyle": "Yazı Stili",
+  "backgroundStyle": "Kutu Stili",
+  "opacity": "Opaklık",
+  "unknown": "Bilinmiyor",
+  "deviceOffline": "Cihaz çevrimdışı.",
+  "sendingSiren": "Siren komutu gönderiliyor...",
+  "sirenTriggered": "Siren tetiklendi!",
+  "commandFailed": "Komut gönderilemedi.",
+  "rotateToScan": "Yönü taramak için 360° dönün. Sinyal güçlü olduğunda çubuk dolar.",
+  "signalLabel": "SİNYAL",
+  "radiusLabel": "YARIÇAP",
+  "playSoundTooltip": "Ses Çal",
+  "deleteSignalTooltip": "Sinyal Verisini Sil",
+  "marketTitle": "Tema Mağazası",
+  "purchaseSuccess": "Tema başarıyla satın alındı ve aktif edildi!",
+  "insufficientFunds": "Yetersiz bakiye! Daha fazla coin biriktirmelisiniz.",
+  "dailyRewardTitle": "Günlük Giriş Ödülü",
+  "dailyRewardMessage": "Bugünkü {amount} BlueCoin ödülünüzü kazandınız!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "HEDİYEYİ AL",
+  "themeDefault": "Varsayılan Tema",
+  "themeMidnight": "Gece Yarısı",
+  "themeSunset": "Gün Batımı",
+  "themeForest": "Derin Orman",
+  "currentTheme": "Şu Anki Tema",
+  "themeOcean": "Okyanus Mavisi",
+  "buyTheme": "Temayı Satın Al",
+  "confirmPurchaseTitle": "Satın Almayı Onayla",
+  "confirmPurchaseContent": "{themeName} temasını {price} CP karşılığında açmak istiyor musunuz?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "SATIN AL",
+  "dailyRewards": "Günlük Ödüller",
+  "day": "{index}. Gün",
+  "@day": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "claim": "Al",
+  "claimed": "Alındı",
+  "wait": "Bekle",
+  "rewardNotification": "{amount} BlueCoin kazandınız!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Süreniz dolduğu için ödül seriniz bozuldu.",
+  "myWallet": "Cüzdanım: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "{day}. GÜN",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Her gün giriş yaparak serinizi koruyun ve büyük ödülü kazanın!",
+  "themeRed": "Kırmızı Alarm",
+  "use": "Kullan",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "K",
+  "compassSouth": "G",
+  "compassEast": "D",
+  "compassWest": "B",
+  "signalStrength": "%{percentage} {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin Bakiyesi",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Tarama ve Yayın için Hazır",
+  "btRequired": "Tarama/Bağlantı/Yayın Gerekli",
+  "locRequired": "Bluetooth LE için Gerekli",
+  "notifySubtitle": "Uyarılar ve Arka Plan Bilgisi",
+  "fixButton": "DÜZELT",
+  "locationAlwaysWarning": "⚠️ Arka plan konumu 'Her zaman' olarak ayarlanmamış. Ekran kapalıyken tarama durabilir.",
+  "thermalProtectionWarning": "⚠️ Termal Koruma: Cihazı soğutmak için Normal Moda geçildi.",
+  "scanModeLow": "Düşük (Eko)",
+  "scanModeMedium": "Orta (Dengeli)",
+  "scanModeHigh": "Yüksek (Acil Durum)",
+  "scanSpeedPrefix": "Tarama Hızı",
+  "backgroundLocationTitle": "Arka Plan Konumu",
+  "backgroundLocationDesc": "BlueSOS, ekran kapalıyken bile Bluetooth sinyallerini taramak için 'Her zaman' konum iznine ihtiyaç duyar.\n\nBu izin yalnızca hayat kurtaran sinyalleri taramak için kullanılır; konumunuz kaydedilmez veya paylaşılmaz.",
+  "gotIt": "ANLADIM",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOS Kullanıcısı",
+  "batteryOptimizationTooltip": "Pil Kısıtlamasını Kaldır",
+  "scanSpeedTooltip": "Tarama Hızı",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "BlueSOS Aktif",
+  "foregroundServiceDesc": "Sinyal taranıyor/yayılıyor...",
+  "powerSaverTooltip": "Güç Tasarrufu",
+  "marginOfError": "±%30 Hata Payı",
+  "compassInterferenceWarning": "⚠️ METAL ETKİLEŞİMİ: PUSULA GÜVENİLMEZ!\nLütfen sadece Sinyal Gücü halkasını takip edin.",
+  "activeStatus": "AKTİF",
+  "languageLabel": "Dil",
+  "emergencyInfoNotice": "Bu uygulama acil durumlarda hayat kurtarmaya yardımcı olmak için tasarlanmıştır. Lütfen tüm izinleri tam olarak verin.",
+  "onlineRequired": "Çevrimiçi bağlantı gerekli.",
+  "claimFailed": "Ödül alınamadı. İnternet bağlantınızı kontrol edin.",
+  "errorLabel": "Hata",
+  "marketLoadError": "Mağaza verileri yüklenemedi.",
+  "retry": "Tekrar Dene",
+  "notificationRewardTitle": "Günlük Ödül Hazır!",
+  "notificationRewardBody": "Serini bozma! Bluesos ödülünü almanı bekliyor.",
+  "nextRewardIn": "Sıradaki Ödül",
+"@nextRewardIn": {
+  "description": "Günlük ödül sayacı için kullanılan etiket"
+}
+}

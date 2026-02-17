@@ -1,0 +1,263 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "START\nSIGNAL",
+  "signalBroadcasting": "SIGNAL\nBROADCASTING",
+  "helpMode": "Help Mode",
+  "scanDesc": "Detect signals nearby",
+  "scanning": "SCANNING...",
+  "searching": "Searching for signals...",
+  "radarTouch": "Tap to open radar",
+  "permissions": "Permissions",
+  "settings": "Settings",
+  "darkMode": "Dark Mode",
+  "language": "Language",
+  "emergencyInfo": "Permissions are vital in emergencies.",
+  "radarTracking": "RADAR TRACKING",
+  "direction": "DIRECTION",
+  "distance": "Distance",
+  "targetVeryClose": "TARGET VERY CLOSE!",
+  "approaching": "Approaching...",
+  "signalWeak": "Signal Weak",
+  "connectionLost": "Connection Lost...",
+  "simulationMode": "SIMULATION MODE",
+  "menuHint": "Double tap to open settings",
+  "signalBtnHint": "Double tap to start or stop signal",
+  "requiredPermissions": "REQUIRED PERMISSIONS",
+  "appearance": "APPEARANCE",
+  "active": "Active",
+  "required": "Required",
+  "openSettings": "OPEN SETTINGS",
+  "cancel": "CANCEL",
+  "permissionRequiredTitle": "Permission Required",
+  "permissionRequiredMessage": "You need to use Device Settings to disable permissions.",
+  "permissionNotificationMessage": "Notification permission denied. Please enable it manually from settings.",
+  "permissionPermanentlyDenied": "You have permanently denied this permission. You need to enable it manually from settings.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Bluetooth Scan",
+  "permBluetoothAdvertise": "Bluetooth Signal",
+  "permBluetoothConnect": "Bluetooth Connect",
+  "permLocation": "Location",
+  "permNotification": "Notifications",
+  "donate": "Donate / Support",
+  "signalLost": "SIGNAL LOST - LAST KNOWN DATA",
+  "connectionFailed": "Connection Failed - Retrying...",
+  "deleteSignalTitle": "Delete Signal?",
+  "deleteSignalContent": "ATTENTION! This signal might be coming from under debris.\n\nIf you delete it, you will lose the 'Last Known Location' data and may not find it again if the device stops broadcasting.\n\nDo you still want to delete?",
+  "deleteConfirm": "DELETE DATA",
+  "unknownDevice": "Unknown Device",
+  "lastSeenPrefix": "Last seen: ",
+  "statusLost": "LOST",
+  "ghostMessage": "Signal lost. Showing last known data.",
+  "offlineData": "OFFLINE - LAST SEEN DATA",
+  "lastSeenSeconds": "{seconds}s ago",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}m ago",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}h ago",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Contact Support",
+  "emailSubject": "BlueSOS Support / Feedback",
+  "emailBody": "Hello BlueSOS Team,\n\nI would like to report an issue or share an idea:\n\n[Please write here]\n\n",
+  "emergencyCardTitle": "Emergency ID",
+  "tapToUpdate": "Edit Info",
+  "tapToAdd": "Add Info",
+  "bloodType": "Blood Type",
+  "allergies": "Allergies",
+  "medications": "Medications",
+  "emergencyContacts": "Emergency Contacts",
+  "contactName": "Contact Name",
+  "contactPhone": "Phone Number",
+  "save": "SAVE",
+  "maxContactsReached": "You can add up to 3 contacts.",
+  "wallpaperPromptTitle": "Lifesaving Lock Screen",
+  "wallpaperPromptDesc": "Even if you are unconscious, it is vital for first responders to see your blood type and allergies.\n\nWould you like to design a custom lock screen wallpaper with this information?",
+  "createWallpaper": "DESIGN",
+  "later": "Later",
+  "editorTitle": "Wallpaper Editor",
+  "pickImage": "Pick Image",
+  "saveToGallery": "SAVE TO GALLERY",
+  "savedSuccess": "Image saved to gallery!",
+  "cardScale": "Size",
+  "cardColor": "Text Color",
+  "showBackground": "Background Box",
+  "dragToMove": "Drag to move the card",
+  "errorNoImage": "Please select an image first",
+  "removeImage": "Remove Image",
+  "textStyle": "Text Style",
+  "backgroundStyle": "Background Box",
+  "opacity": "Opacity",
+  "unknown": "Unknown",
+  "deviceOffline": "Device offline.",
+  "sendingSiren": "Sending siren command...",
+  "sirenTriggered": "Siren triggered!",
+  "commandFailed": "Command failed.",
+  "rotateToScan": "Rotate 360° to scan. The bar fills up when the signal is strong.",
+  "signalLabel": "SIGNAL",
+  "radiusLabel": "RADIUS",
+  "playSoundTooltip": "Play Sound",
+  "deleteSignalTooltip": "Delete Data",
+  "marketTitle": "Theme Store",
+  "purchaseSuccess": "Theme purchased and activated successfully!",
+  "insufficientFunds": "Insufficient balance! You need to collect more coins.",
+  "dailyRewardTitle": "Daily Login Reward",
+  "dailyRewardMessage": "You've earned today's {amount} BlueCoin reward!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "CLAIM REWARD",
+  "themeDefault": "Default Theme",
+  "themeMidnight": "Midnight",
+  "themeSunset": "Sunset",
+  "themeForest": "Deep Forest",
+  "currentTheme": "Current Theme",
+  "themeOcean": "Ocean Blue",
+  "buyTheme": "Buy Theme",
+  "confirmPurchaseTitle": "Confirm Purchase",
+  "confirmPurchaseContent": "Do you want to unlock {themeName} theme for {price} CP?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "BUY",
+  "dailyRewards": "Daily Rewards",
+  "day": "Day {index}",
+  "@day": {
+    "placeholders": {
+      "index": {
+        "type": "int"
+      }
+    }
+  },
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "You've earned {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Your reward streak is broken because your time has expired.",
+  "myWallet": "My Wallet: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "DAY {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Maintain your streak by logging in every day and win the grand prize!",
+  "themeRed": "Red Alert",
+  "use": "Use",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "m",
+  "unitImperial": "ft",
+  "compassNorth": "N",
+  "compassSouth": "S",
+  "compassEast": "E",
+  "compassWest": "W",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "BlueCoin Balance",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Ready to Scan & Broadcast",
+  "btRequired": "Scan/Connect/Broadcast Required",
+  "locRequired": "Required for Bluetooth LE",
+  "notifySubtitle": "Alerts & Background Info",
+  "fixButton": "FIX",
+  "locationAlwaysWarning": "⚠️ Background location is not set to 'Always'. Scanning may stop when the screen is off.",
+  "thermalProtectionWarning": "⚠️ Thermal Protection: Switched to Normal Mode to cool the device.",
+  "scanModeLow": "Low (Eco)",
+  "scanModeMedium": "Medium (Balanced)",
+  "scanModeHigh": "High (Emergency)",
+  "scanSpeedPrefix": "Scan Speed",
+  "backgroundLocationTitle": "Background Location",
+  "backgroundLocationDesc": "BlueSOS needs 'Always' location permission to scan for Bluetooth signals even when the screen is off.\n\nThis permission is only used to scan for lifesaving signals; your location is not recorded or shared.",
+  "gotIt": "GOT IT",
+  "idPrefix": "ID",
+  "defaultUserName": "BlueSOS User",
+  "batteryOptimizationTooltip": "Remove Battery Restriction",
+  "scanSpeedTooltip": "Scan Speed",
+  "unitMeters": "m",
+  "unitFeet": "ft",
+  "foregroundServiceTitle": "BlueSOS Active",
+  "foregroundServiceDesc": "Scanning/Broadcasting signal...",
+  "powerSaverTooltip": "Power Saving",
+  "marginOfError": "±30% Margin of Error",
+  "compassInterferenceWarning": "⚠️ METAL INTERFERENCE: COMPASS UNRELIABLE!\nPlease follow only the Signal Strength ring.",
+  "activeStatus": "ACTIVE",
+  "languageLabel": "Language",
+  "emergencyInfoNotice": "This app is designed to help save lives in emergencies. Please grant all permissions fully.",
+  "onlineRequired": "Online connection required.",
+  "claimFailed": "Reward could not be claimed. Check your internet connection.",
+  "errorLabel": "Error",
+  "marketLoadError": "Market data could not be loaded.",
+  "retry": "Retry",
+  "notificationRewardTitle": "Daily Reward Ready!",
+"notificationRewardBody": "Don't break your streak! Bluesos is waiting for you to claim your reward.",
+"nextRewardIn": "Next Reward",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

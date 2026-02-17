@@ -1,0 +1,256 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "ЗАПУСК\nСИГНАЛА",
+  "signalBroadcasting": "ИДЕТ\nТРАНСЛЯЦИЯ",
+  "helpMode": "Режим помощи",
+  "scanDesc": "Поиск сигналов поблизости",
+  "scanning": "СКАНИРОВАНИЕ...",
+  "searching": "Поиск сигнала...",
+  "radarTouch": "Нажмите для радара",
+  "permissions": "Разрешения",
+  "settings": "Настройки",
+  "darkMode": "Темная тема",
+  "language": "Язык",
+  "emergencyInfo": "В ЧС разрешения жизненно важны.",
+  "radarTracking": "РАДАРНОЕ СЛЕЖЕНИЕ",
+  "direction": "НАПРАВЛЕНИЕ",
+  "distance": "Дистанция",
+  "targetVeryClose": "ЦЕЛЬ ОЧЕНЬ БЛИЗКО!",
+  "approaching": "Вы приближаетесь...",
+  "signalWeak": "Слабый сигнал",
+  "connectionLost": "Связь потеряна...",
+  "simulationMode": "РЕЖИМ СИМУЛЯЦИИ",
+  "menuHint": "Двойное нажатие для настроек",
+  "signalBtnHint": "Двойное нажатие для старта/стопа",
+  "requiredPermissions": "ТРЕБУЕМЫЕ РАЗРЕШЕНИЯ",
+  "appearance": "ВНЕШНИЙ ВИД",
+  "active": "Активно",
+  "required": "Требуется",
+  "openSettings": "ОТКРЫТЬ НАСТРОЙКИ",
+  "cancel": "ОТМЕНА",
+  "permissionRequiredTitle": "Требуется разрешение",
+  "permissionRequiredMessage": "Вы должны использовать меню настроек устройства, чтобы изменить разрешения.",
+  "permissionNotificationMessage": "В уведомлениях отказано. Пожалуйста, включите их вручную в настройках.",
+  "permissionPermanentlyDenied": "Вы навсегда запретили это разрешение. Включите его вручную в настройках.",
+  "permBluetooth": "Bluetooth",
+  "permBluetoothScan": "Bluetooth Сканирование",
+  "permBluetoothAdvertise": "Bluetooth Сигнал",
+  "permBluetoothConnect": "Bluetooth Подключение",
+  "permLocation": "Геолокация",
+  "permNotification": "Уведомления",
+  "donate": "Пожертвовать / Поддержать",
+  "signalLost": "СИГНАЛ ПОТЕРЯН - ПОСЛЕДНИЕ ДАННЫЕ",
+  "connectionFailed": "Ошибка соединения - Повтор...",
+  "deleteSignalTitle": "Удалить сигнал?",
+  "deleteSignalContent": "ВНИМАНИЕ! Этот сигнал может исходить от устройства под завалами.\n\nЕсли вы удалите его, вы потеряете данные о 'Последнем местоположении' и можете не найти его снова, если устройство прекратит трансляцию.\n\nВы уверены?",
+  "deleteConfirm": "УДАЛИТЬ ДАННЫЕ",
+  "unknownDevice": "Неизвестный сигнал",
+  "lastSeenPrefix": "Был в сети: ",
+  "statusLost": "ПРОПАЛ",
+  "ghostMessage": "Сигнал прерван. Показаны последние данные.",
+  "offlineData": "ОФФЛАЙН - АРХИВНЫЕ ДАННЫЕ",
+  "lastSeenSeconds": "{seconds}сек назад",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes}мин назад",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours}ч назад",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "Связаться с нами",
+  "emailSubject": "Поддержка BlueSOS / Отзыв",
+  "emailBody": "Здравствуйте, команда BlueSOS,\n\nЯ хочу сообщить о проблеме или поделиться идеей:\n\n[Напишите здесь]\n\n",
+  "emergencyCardTitle": "Экстренная ID карта",
+  "tapToUpdate": "Изменить инфо",
+  "tapToAdd": "Добавить инфо",
+  "bloodType": "Группа крови",
+  "allergies": "Аллергии",
+  "medications": "Лекарства",
+  "emergencyContacts": "Контакты для ЧС",
+  "contactName": "Имя",
+  "contactPhone": "Телефон",
+  "save": "СОХРАНИТЬ",
+  "maxContactsReached": "Максимум 3 контакта.",
+  "wallpaperPromptTitle": "Спасательный экран блокировки",
+  "wallpaperPromptDesc": "Даже если вы без сознания, спасателям важно знать вашу группу крови и аллергии.\n\nСоздать специальные обои для экрана блокировки с этой информацией?",
+  "createWallpaper": "СОЗДАТЬ",
+  "later": "Позже",
+  "editorTitle": "Редактор обоев",
+  "pickImage": "Выбрать фон",
+  "saveToGallery": "СОХРАНИТЬ В ГАЛЕРЕЮ",
+  "savedSuccess": "Сохранено в галерею!",
+  "cardScale": "Размер",
+  "cardColor": "Цвет текста",
+  "showBackground": "Фон карточки",
+  "dragToMove": "Перетащите, чтобы переместить",
+  "errorNoImage": "Сначала выберите фоновое изображение.",
+  "removeImage": "Удалить фото",
+  "textStyle": "Стиль текста",
+  "backgroundStyle": "Стиль фона",
+  "opacity": "Прозрачность",
+  "unknown": "Неизвестно",
+  "deviceOffline": "Устройство оффлайн.",
+  "sendingSiren": "Отправка команды сирены...",
+  "sirenTriggered": "Сирена включена!",
+  "commandFailed": "Ошибка отправки команды.",
+  "rotateToScan": "Повернитесь на 360° для сканирования. Шкала заполнится при сильном сигнале.",
+  "signalLabel": "СИГНАЛ",
+  "radiusLabel": "РАДИУС",
+  "playSoundTooltip": "Включить звук",
+  "deleteSignalTooltip": "Удалить данные сигнала",
+  "marketTitle": "Магазин тем",
+  "purchaseSuccess": "Тема успешно куплена и активирована!",
+  "insufficientFunds": "Недостаточно средств! Вам нужно собрать больше монет.",
+  "dailyRewardTitle": "Ежедневная награда за вход",
+  "dailyRewardMessage": "Вы получили сегодняшнюю награду: {amount} BlueCoin!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "ПОЛУЧИТЬ НАГРАДУ",
+  "themeDefault": "Стандартная тема",
+  "themeMidnight": "Полночь",
+  "themeSunset": "Закат",
+  "themeForest": "Глубокий лес",
+  "currentTheme": "Текущая тема",
+  "themeOcean": "Океанская синь",
+  "buyTheme": "Купить тему",
+  "confirmPurchaseTitle": "Подтверждение покупки",
+  "confirmPurchaseContent": "Вы хотите разблокировать тему {themeName} за {price} CP?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "КУПИТЬ",
+  "dailyRewards": "Ежедневные награды",
+  "day": "День {index}",
+  "claim": "Получить",
+  "claimed": "Получено",
+  "wait": "Ожидайте",
+  "rewardNotification": "Вы заработали {amount} BlueCoin!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "Ваша серия наград прервана, так как время истекло.",
+  "myWallet": "Мой кошелек: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "ДЕНЬ {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "Заходите каждый день, чтобы не прерывать серию и выиграть главный приз!",
+  "themeRed": "Красная тревога",
+  "use": "Использовать",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "м",
+  "unitImperial": "фут",
+  "compassNorth": "С",
+  "compassSouth": "Ю",
+  "compassEast": "В",
+  "compassWest": "З",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "Баланс BlueCoin",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "Готов к сканированию и трансляции",
+  "btRequired": "Требуется скан/подключение/трансляция",
+  "locRequired": "Требуется для Bluetooth LE",
+  "notifySubtitle": "Оповещения и фоновая информация",
+  "fixButton": "ИСПРАВИТЬ",
+  "locationAlwaysWarning": "⚠️ Фоновая геолокация не установлена в режим 'Всегда'. Сканирование может прекратиться при выключенном экране.",
+  "thermalProtectionWarning": "⚠️ Термозащита: Переключено в обычный режим для охлаждения устройства.",
+  "scanModeLow": "Низкая (Эко)",
+  "scanModeMedium": "Средняя (Баланс)",
+  "scanModeHigh": "Высокая (ЧС)",
+  "scanSpeedPrefix": "Скорость сканирования",
+  "backgroundLocationTitle": "Фоновая геолокация",
+  "backgroundLocationDesc": "BlueSOS требуется разрешение на геолокацию в режиме 'Всегда' для поиска Bluetooth сигналов даже при выключенном экране.\n\nЭто используется только для поиска спасательных сигналов; ваше местоположение не записывается и не передается.",
+  "gotIt": "ПОНЯТНО",
+  "idPrefix": "ID",
+  "defaultUserName": "Пользователь BlueSOS",
+  "batteryOptimizationTooltip": "Снять ограничение батареи",
+  "scanSpeedTooltip": "Скорость сканирования",
+  "unitMeters": "м",
+  "unitFeet": "фут",
+  "foregroundServiceTitle": "BlueSOS активен",
+  "foregroundServiceDesc": "Сканирование/трансляция сигнала...",
+  "powerSaverTooltip": "Энергосбережение",
+  "marginOfError": "±30% погрешность",
+  "compassInterferenceWarning": "⚠️ МАГНИТНЫЕ ПОМЕХИ: КОМПАСУ НЕЛЬЗЯ ДОВЕРЯТЬ!\nПожалуйста, ориентируйтесь только на кольцо силы сигнала.",
+  "activeStatus": "АКТИВНО",
+  "languageLabel": "Язык",
+  "emergencyInfoNotice": "Это приложение создано для спасения жизней в ЧС. Пожалуйста, предоставьте все разрешения.",
+  "onlineRequired": "Требуется интернет-соединение.",
+  "claimFailed": "Не удалось получить награду. Проверьте интернет-соединение.",
+  "errorLabel": "Ошибка",
+  "marketLoadError": "Не удалось загрузить данные магазина.",
+  "retry": "Повторить",
+  "notificationRewardTitle": "Ежедневная награда готова!",
+  "notificationRewardBody": "Не прерывай серию! Bluesos ждет, когда ты заберешь свою награду.",
+  "nextRewardIn": "Следующая награда через",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

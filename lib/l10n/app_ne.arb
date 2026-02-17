@@ -1,0 +1,256 @@
+{
+    "appTitle": "BlueSOS",
+    "signalStart": "संकेत\nसुरु",
+    "signalBroadcasting": "संकेत\nप्रसारण",
+    "helpMode": "मद्दत मोड",
+    "scanDesc": "वरपरका संकेतहरू खोज्नुहोस्",
+    "scanning": "स्क्यान गर्दै...",
+    "searching": "संकेत खोजी भइरहेको छ...",
+    "radarTouch": "राडार खोल्न ट्याप गर्नुहोस्",
+    "permissions": "अनुमतिहरू",
+    "settings": "सेटिङहरू",
+    "darkMode": "डार्क मोड",
+    "language": "भाषा",
+    "emergencyInfo": "आपतकालीन अवस्थामा अनुमतिहरू महत्त्वपूर्ण हुन्छन्।",
+    "radarTracking": "राडार ट्र्याकिङ",
+    "direction": "दिशा",
+    "distance": "दूरी",
+    "targetVeryClose": "लक्ष्य धेरै नजिक छ!",
+    "approaching": "नजिक आउँदैछ...",
+    "signalWeak": "संकेत कमजोर छ",
+    "connectionLost": "सम्पर्क टुट्यो...",
+    "simulationMode": "अभ्यास मोड",
+    "menuHint": "सेटिङहरू खोल्न दुई पटक ट्याप गर्नुहोस्",
+    "signalBtnHint": "संकेत सुरु वा बन्द गर्न दुई पटक ट्याप गर्नुहोस्",
+    "requiredPermissions": "आवश्यक अनुमतिहरू",
+    "appearance": "रूप",
+    "active": "सक्रिय",
+    "required": "आवश्यक",
+    "openSettings": "सेटिङहरू खोल्नुहोस्",
+    "cancel": "रद्द गर्नुहोस्",
+    "permissionRequiredTitle": "अनुमति आवश्यक छ",
+    "permissionRequiredMessage": "अनुमतिहरू बन्द गर्न तपाईंले यन्त्रको सेटिङ मेनु प्रयोग गर्नुपर्छ।",
+    "permissionNotificationMessage": "सूचना अनुमति अस्वीकार गरियो। कृपया सेटिङहरूबाट म्यानुअल रूपमा अनुमति दिनुहोस्।",
+    "permissionPermanentlyDenied": "यो अनुमति स्थायी रूपमा अस्वीकार गरिएको थियो। तपाईंले यसलाई सेटिङहरूमा म्यानुअल रूपमा अन गर्नुपर्छ।",
+    "permBluetooth": "ब्लुटुथ",
+    "permBluetoothScan": "ब्लुटुथ स्क्यान",
+    "permBluetoothAdvertise": "ब्लुटुथ संकेत",
+    "permBluetoothConnect": "ब्लुटुथ जडान",
+    "permLocation": "स्थान सेवा",
+    "permNotification": "सूचनाहरू",
+    "donate": "दान / सहयोग",
+    "signalLost": "संकेत हरायो - अन्तिम डाटा",
+    "connectionFailed": "जडान विफल - पुन: प्रयास गर्दै...",
+    "deleteSignalTitle": "संकेत हटाउने?",
+    "deleteSignalContent": "सावधान! यो संकेत भग्नावशेष मुनिको यन्त्रबाट आएको हुन सक्छ।\n\nयदि तपाईंले यसलाई हटाउनुभयो भने, तपाईंले 'अन्तिम ज्ञात स्थान' डाटा गुमाउनुहुनेछ, र यदि यन्त्रले फेरि संकेत पठाएन भने, तपाईंले यसलाई फेरि फेला पार्न सक्नुहुन्न।\n\nके तपाईं अझै हटाउन चाहनुहुन्छ?",
+    "deleteConfirm": "डाटा हटाउनुहोस्",
+    "unknownDevice": "अज्ञात संकेत",
+    "lastSeenPrefix": "अन्तिम पटक देखिएको: ",
+    "statusLost": "हराएको",
+    "ghostMessage": "संकेत टुट्यो। अन्तिम ज्ञात डाटा देखाइँदै छ।",
+    "offlineData": "अफलाइन - अन्तिम डाटा",
+    "lastSeenSeconds": "{seconds} सेकेन्ड अघि",
+    "@lastSeenSeconds": {
+        "placeholders": {
+            "seconds": {
+                "type": "int"
+            }
+        }
+    },
+    "lastSeenMinutes": "{minutes} मिनेट अघि",
+    "@lastSeenMinutes": {
+        "placeholders": {
+            "minutes": {
+                "type": "int"
+            }
+        }
+    },
+    "lastSeenHours": "{hours} घण्टा अघि",
+    "@lastSeenHours": {
+        "placeholders": {
+            "hours": {
+                "type": "int"
+            }
+        }
+    },
+    "contactSupport": "सम्पर्क गर्नुहोस्",
+    "emailSubject": "BlueSOS सहयोग / सुझाव",
+    "emailBody": "नमस्ते BlueSOS टोली,\n\nम एउटा समस्या रिपोर्ट करना वा सुझाव साझा गर्न चाहन्छु:\n\n[कृपया यहाँ लेख्नुहोस्]\n\n",
+    "emergencyCardTitle": "आपतकालीन मेडिकल आईडी",
+    "tapToUpdate": "जानकारी अपडेट गर्नुहोस्",
+    "tapToAdd": "जानकारी थप्नुहोस्",
+    "bloodType": "रक्त समूह",
+    "allergies": "एलर्जी",
+    "medications": "औषधिहरू",
+    "emergencyContacts": "आपतकालीन सम्पर्कहरू",
+    "contactName": "नाम",
+    "contactPhone": "फोन नम्बर",
+    "save": "सेभ गर्नुहोस्",
+    "maxContactsReached": "बढीमा ३ सम्पर्कहरू थप्न सकिन्छ।",
+    "wallpaperPromptTitle": "जीवन रक्षक लक स्क्रिन",
+    "wallpaperPromptDesc": "तपाईं बेहोस भए पनि, उद्धार टोलीले तपाईंको रक्त समूह र एलर्जीहरू देख्नु महत्त्वपूर्ण छ।\n\nके तपाईं यस जानकारीको साथ विशेष लक स्क्रिन वालपेपर बनाउन चाहनुहुन्छ?",
+    "createWallpaper": "बनाउनुहोस्",
+    "later": "पछि",
+    "editorTitle": "लक स्क्रिन निर्माता",
+    "pickImage": "पृष्ठभूमि छान्नुहोस्",
+    "saveToGallery": "ग्यालरीमा सेभ गर्नुहोस्",
+    "savedSuccess": "तस्बिर सेभ भयो!",
+    "cardScale": "साइज",
+    "cardColor": "टेक्स्ट रङ",
+    "showBackground": "पृष्ठभूमि बक्स",
+    "dragToMove": "सार्नको लागि कार्ड तान्नुहोस्",
+    "errorNoImage": "कृपया पहिले पृष्ठभूमि तस्बिर छान्नुहोस्।",
+    "removeImage": "तस्बिर हटाउनुहोस्",
+    "textStyle": "टेक्स्ट शैली",
+    "backgroundStyle": "बक्स शैली",
+    "opacity": "पारदर्शिता",
+    "unknown": "अज्ञात",
+    "deviceOffline": "यन्त्र अफलाइन छ।",
+    "sendingSiren": "साइरन कमाण्ड पठाइँदै...",
+    "sirenTriggered": "साइरन बज्यो!",
+    "commandFailed": "कमाण्ड विफल भयो।",
+    "rotateToScan": "दिशा स्क्यान गर्न ३६०° घुम्नुहोस्।",
+    "signalLabel": "संकेत",
+    "radiusLabel": "दायरा",
+    "playSoundTooltip": "आवाज बजाउनुहोस्",
+    "deleteSignalTooltip": "संकेत डाटा हटाउनुहोस्",
+    "marketTitle": "थिम स्टोर",
+    "purchaseSuccess": "थिम सफलतापूर्वक खरिद गरियो र सक्रिय गरियो!",
+    "insufficientFunds": "अपर्याप्त ब्यालेन्स! तपाईंले थप कोइनहरू संकलन गर्नुपर्छ।",
+    "dailyRewardTitle": "दैनिक लगइन पुरस्कार",
+    "dailyRewardMessage": "तपाईंले आजको {amount} BlueCoin पुरस्कार पाउनुभयो!",
+    "@dailyRewardMessage": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "claimReward": "पुरस्कार दाबी गर्नुहोस्",
+    "themeDefault": "डिफल्ट थिम",
+    "themeMidnight": "मिडनाइट",
+    "themeSunset": "सन्सेट",
+    "themeForest": "डीप फरेस्ट",
+    "currentTheme": "वर्तमान थिम",
+    "themeOcean": "ओशन ब्लू",
+    "buyTheme": "थिम खरिद गर्नुहोस्",
+    "confirmPurchaseTitle": "खरिद पुष्टि गर्नुहोस्",
+    "confirmPurchaseContent": "के तपाईं {price} CP मा {themeName} थिम अनलक गर्न चाहनुहुन्छ?",
+    "@confirmPurchaseContent": {
+        "placeholders": {
+            "themeName": {
+                "type": "String"
+            },
+            "price": {
+                "type": "int"
+            }
+        }
+    },
+    "confirm": "किन्नुहोस्",
+    "dailyRewards": "दैनिक पुरस्कारहरू",
+    "day": "दिन {index}",
+    "claim": "दाबी गर्नुहोस्",
+    "claimed": "दाबी गरिएको",
+    "wait": "पर्खनुहोस्",
+    "rewardNotification": "तपाईंले {amount} BlueCoin पाउनुभयो!",
+    "@rewardNotification": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "streakBroken": "समय समाप्त भएकोले तपाईंको पुरस्कार स्ट्रिक टुट्यो।",
+    "myWallet": "मेरो वालेट: {balance} BC",
+    "@myWallet": {
+        "placeholders": {
+            "balance": {
+                "type": "int"
+            }
+        }
+    },
+    "dayLabel": "दिन {day}",
+    "@dayLabel": {
+        "placeholders": {
+            "day": {
+                "type": "int"
+            }
+        }
+    },
+    "streakHint": "हरेक दिन लगइन गरेर आफ्नो स्ट्रिक कायम राख्नुहोस् र मुख्य पुरस्कार जित्नुहोस्!",
+    "themeRed": "रेड अलर्ट",
+    "use": "प्रयोग गर्नुहोस्",
+    "currencyAmount": "{amount} CP",
+    "@currencyAmount": {
+        "placeholders": {
+            "amount": {
+                "type": "int"
+            }
+        }
+    },
+    "unitMetric": "मि",
+    "unitImperial": "फिट",
+    "compassNorth": "उ",
+    "compassSouth": "द",
+    "compassEast": "पू",
+    "compassWest": "प",
+    "signalStrength": "{percentage}% {label}",
+    "@signalStrength": {
+        "placeholders": {
+            "percentage": {
+                "type": "int"
+            },
+            "label": {
+                "type": "String"
+            }
+        }
+    },
+    "blueCoinLabel": "BlueCoin ब्यालेन्स",
+    "currencyAmountBC": "{balance} BC",
+    "@currencyAmountBC": {
+        "placeholders": {
+            "balance": {
+                "type": "int"
+            }
+        }
+    },
+    "btReady": "स्क्यान र प्रसारणका लागि तयार",
+    "btRequired": "स्क्यान/जडान/प्रसारण आवश्यक",
+    "locRequired": "ब्लुटुथ LE का लागि आवश्यक",
+    "notifySubtitle": "अलर्ट र पृष्ठभूमि जानकारी",
+    "fixButton": "समाधान गर्नुहोस्",
+    "locationAlwaysWarning": "⚠️ पृष्ठभूमि स्थान 'Always' मा सेट गरिएको छैन। स्क्रिन बन्द हुँदा स्क्यानिङ रोकिन सक्छ।",
+    "thermalProtectionWarning": "⚠️ थर्मल सुरक्षा: यन्त्रलाई चिसो बनाउन सामान्य मोडमा स्विच गरियो।",
+    "scanModeLow": "कम (Eco)",
+    "scanModeMedium": "मध्यम (Balanced)",
+    "scanModeHigh": "उच्च (Emergency)",
+    "scanSpeedPrefix": "स्क्यान गति",
+    "backgroundLocationTitle": "पृष्ठभूमि स्थान",
+    "backgroundLocationDesc": "स्क्रिन बन्द भएको बेला पनि ब्लुटुथ संकेतहरू स्क्यान गर्न BlueSOS लाई 'Always' स्थान अनुमति चाहिन्छ।\n\nयो अनुमति जीवन बचाउने संकेतहरू स्क्यान गर्न मात्र प्रयोग गरिन्छ; तपाईंको स्थान रेकर्ड वा साझा गरिँदैन।",
+    "gotIt": "बुझें",
+    "idPrefix": "आईडी",
+    "defaultUserName": "BlueSOS प्रयोगकर्ता",
+    "batteryOptimizationTooltip": "ब्याट्री प्रतिबन्ध हटाउनुहोस्",
+    "scanSpeedTooltip": "स्क्यान गति",
+    "unitMeters": "मि",
+    "unitFeet": "फिट",
+    "foregroundServiceTitle": "BlueSOS सक्रिय छ",
+    "foregroundServiceDesc": "संकेत स्क्यान/प्रसारण गर्दै...",
+    "powerSaverTooltip": "पावर बचत",
+    "marginOfError": "±३०% त्रुटि सीमा",
+    "compassInterferenceWarning": "⚠️ धातु हस्तक्षेप: कम्पास अविश्वसनीय!\nकृपया संकेत शक्ति रिंग मात्र पछ्याउनुहोस्।",
+    "activeStatus": "सक्रिय",
+    "languageLabel": "भाषा",
+    "emergencyInfoNotice": "यो एप आपतकालीन अवस्थामा जीवन बचाउन मद्दत गर्न डिजाइन गरिएको हो। कृपया सबै अनुमतिहरू पूर्ण रूपमा दिनुहोस्।",
+    "onlineRequired": "अनलाइन जडान आवश्यक छ।",
+    "claimFailed": "पुरस्कार दाबी गर्न सकिएन। तपाईंको इन्टरनेट जडान जाँच गर्नुहोस्।",
+    "errorLabel": "त्रुटि",
+    "marketLoadError": "बजार डाटा लोड गर्न सकिएन।",
+    "retry": "पुन: प्रयास गर्नुहोस्",
+    "notificationRewardTitle": "दैनिक पुरस्कार तैयार छ!",
+    "notificationRewardBody": "आफ्नो स्ट्रिक नतोड्नुहोस्! Bluesos तपाईंको पुरस्कार दाबी गर्न पर्खिरहेको छ।",
+    "nextRewardIn": "अर्को पुरस्कार",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}

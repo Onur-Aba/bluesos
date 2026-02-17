@@ -1,0 +1,254 @@
+{
+  "appTitle": "BlueSOS",
+  "signalStart": "सिग्नल\nशुरू करें",
+  "signalBroadcasting": "सिग्नल\nप्रसारित",
+  "helpMode": "सहायता मोड",
+  "scanDesc": "आसपास के सिग्नल खोजें",
+  "scanning": "स्कैन किया जा रहा है...",
+  "searching": "सिग्नल खोजा जा रहा है...",
+  "radarTouch": "रडार खोलने के लिए टैप करें",
+  "permissions": "अनुमतियां",
+  "settings": "सेटिंग्स",
+  "darkMode": "डार्क मोड",
+  "language": "भाषा",
+  "emergencyInfo": "आपात स्थिति में अनुमतियां महत्वपूर्ण हैं।",
+  "radarTracking": "रडार ट्रैकिंग",
+  "direction": "दिशा",
+  "distance": "दूरी",
+  "targetVeryClose": "लक्ष्य बहुत करीब है!",
+  "approaching": "पास आ रहा है...",
+  "signalWeak": "सिग्नल कमजोर है",
+  "connectionLost": "संपर्क टूट गया...",
+  "simulationMode": "सिमुलेशन मोड",
+  "menuHint": "सेटिंग्स खोलने के लिए डबल टैप करें",
+  "signalBtnHint": "सिग्नल शुरू या बंद करने के लिए डबल टैप करें",
+  "requiredPermissions": "आवश्यक अनुमतियां",
+  "appearance": "दिखावट",
+  "active": "Active",
+  "required": "Required",
+  "openSettings": "सेटिंग्स खोलें",
+  "cancel": "रद्द करें",
+  "permissionRequiredTitle": "अनुमति आवश्यक है",
+  "permissionRequiredMessage": "अनुमतियों को बंद करने के लिए आपको डिवाइस सेटिंग्स का उपयोग करना होगा।",
+  "permissionNotificationMessage": "अधिसूचना अनुमति अस्वीकार कर दी गई। कृपया सेटिंग्स से मैन्युअल रूप से अनुमति दें।",
+  "permissionPermanentlyDenied": "यह अनुमति स्थायी रूप से अस्वीकार कर दी गई थी। आपको इसे सेटिंग्स से चालू करना होगा।",
+  "permBluetooth": "ब्लूटूथ",
+  "permBluetoothScan": "ब्लूटूथ स्कैन",
+  "permBluetoothAdvertise": "ब्लूटूथ सिग्नल",
+  "permBluetoothConnect": "ब्लूटूथ कनेक्ट",
+  "permLocation": "स्थान सेवा",
+  "permNotification": "अधिसूचनाएं",
+  "donate": "दान करें / समर्थन करें",
+  "signalLost": "सिग्नल खो गया - अंतिम डेटा",
+  "connectionFailed": "कनेक्शन विफल - पुनः प्रयास...",
+  "deleteSignalTitle": "सिग्नल हटाएं?",
+  "deleteSignalContent": "सावधान! यह सिग्नल मलबे के नीचे दबे डिवाइस से हो सकता है।\n\nयदि आप इसे हटाते हैं, तो आप 'अंतिम ज्ञात स्थान' डेटा खो देंगे, और यदि डिवाइस फिर से सिग्नल नहीं भेजता है, तो आप इसे दोबारा नहीं ढूंढ पाएंगे।\n\nक्या आप फिर भी हटाना चाहते हैं?",
+  "deleteConfirm": "डेटा हटाएं",
+  "unknownDevice": "अज्ञात सिग्नल",
+  "lastSeenPrefix": "अंतिम बार देखा गया: ",
+  "statusLost": "खोया हुआ",
+  "ghostMessage": "सिग्नल टूट गया। अंतिम ज्ञात डेटा दिखाया जा रहा है।",
+  "offlineData": "ऑफ़लाइन - अंतिम डेटा",
+  "lastSeenSeconds": "{seconds} सेकंड पहले",
+  "@lastSeenSeconds": {
+    "placeholders": {
+      "seconds": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenMinutes": "{minutes} मिनट पहले",
+  "@lastSeenMinutes": {
+    "placeholders": {
+      "minutes": {
+        "type": "int"
+      }
+    }
+  },
+  "lastSeenHours": "{hours} घंटे पहले",
+  "@lastSeenHours": {
+    "placeholders": {
+      "hours": {
+        "type": "int"
+      }
+    }
+  },
+  "contactSupport": "संपर्क करें",
+  "emailSubject": "BlueSOS सहायता / सुझाव",
+  "emailBody": "नमस्ते BlueSOS टीम,\n\nमैं एक समस्या की रिपोर्ट करना चाहता हूँ या सुझाव साझा करना चाहता हूँ:\n\n[कृपया यहाँ लिखें]\n\n",
+  "emergencyCardTitle": "आपातकालीन मेडिकल आईडी",
+  "tapToUpdate": "जानकारी अपडेट करें",
+  "tapToAdd": "जानकारी जोड़ें",
+  "bloodType": "रक्त समूह",
+  "allergies": "एलर्जी",
+  "medications": "दवाइयाँ",
+  "emergencyContacts": "आपातकालीन संपर्क",
+  "contactName": "नाम",
+  "contactPhone": "फोन नंबर",
+  "save": "सहेजें",
+  "maxContactsReached": "अधिकतम 3 संपर्क जोड़े जा सकते हैं।",
+  "wallpaperPromptTitle": "जीवन रक्षक लॉक स्क्रीन",
+  "wallpaperPromptDesc": "भले ही आप बेहोश हों, बचाव दल के लिए आपका रक्त समूह और एलर्जी देखना महत्वपूर्ण है।\n\nक्या आप इस जानकारी के साथ एक विशेष लॉक स्क्रीन वॉलपेपर बनाना चाहते हैं?",
+  "createWallpaper": "बनाएं",
+  "later": "बाद में",
+  "editorTitle": "लॉक स्क्रीन निर्माता",
+  "pickImage": "बैकग्राउंड चुनें",
+  "saveToGallery": "गैलरी में सहेजें",
+  "savedSuccess": "छवि सहेजी गई!",
+  "cardScale": "आकार",
+  "cardColor": "टेक्स्ट का रंग",
+  "showBackground": "बैकग्राउंड बॉक्स",
+  "dragToMove": "कार्ड को खिसकाने के लिए खींचें",
+  "errorNoImage": "कृपया पहले एक बैकग्राउंड छवि चुनें।",
+  "removeImage": "छवि हटाएं",
+  "textStyle": "टेक्स्ट स्टाइल",
+  "backgroundStyle": "बॉक्स स्टाइल",
+  "opacity": "अपारदर्शिता",
+  "unknown": "अज्ञात",
+  "deviceOffline": "डिवाइस ऑफ़लाइन है।",
+  "sendingSiren": "सायरन कमांड भेजा जा रहा है...",
+  "sirenTriggered": "सायरन बज गया!",
+  "commandFailed": "कमांड विफल।",
+  "rotateToScan": "दिशा स्कैन करने के लिए 360° घूमें। सिग्नल मजबूत होने पर बार भर जाएगा।",
+  "signalLabel": "सिग्नल",
+  "radiusLabel": "दायरा",
+  "playSoundTooltip": "आवाज़ बजाएं",
+  "deleteSignalTooltip": "सिग्नल डेटा हटाएं",
+  "marketTitle": "थीम स्टोर",
+  "purchaseSuccess": "थीम सफलतापूर्वक खरीदी गई और सक्रिय की गई!",
+  "insufficientFunds": "अपर्याप्त राशि! आपको और सिक्के जमा करने होंगे।",
+  "dailyRewardTitle": "दैनिक लॉगिन इनाम",
+  "dailyRewardMessage": "आपने आज का {amount} ब्लूकोइन इनाम जीत लिया है!",
+  "@dailyRewardMessage": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "claimReward": "इनाम लें",
+  "themeDefault": "डिफ़ॉल्ट थीम",
+  "themeMidnight": "आधी रात",
+  "themeSunset": "सूर्यास्त",
+  "themeForest": "गहरा जंगल",
+  "themeRed": "रेड अलर्ट",
+  "currentTheme": "वर्तमान थीम",
+  "buyTheme": "थीम खरीदें",
+  "use": "उपयोग करें",
+  "confirmPurchaseTitle": "खरीद की पुष्टि करें",
+  "confirmPurchaseContent": "क्या आप {price} CP के लिए {themeName} थीम अनलॉक करना चाहते हैं?",
+  "@confirmPurchaseContent": {
+    "placeholders": {
+      "themeName": {
+        "type": "String"
+      },
+      "price": {
+        "type": "int"
+      }
+    }
+  },
+  "confirm": "खरीदें",
+  "dailyRewards": "दैनिक पुरस्कार",
+  "day": "Day {index}",
+  "claim": "Claim",
+  "claimed": "Claimed",
+  "wait": "Wait",
+  "rewardNotification": "बधाई हो! आपने {amount} ब्लूकोइन जीते!",
+  "@rewardNotification": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "streakBroken": "दुर्भाग्य से सिलसिला टूट गया! समय समाप्त हो गया है।",
+  "myWallet": "आपका वॉलेट: {balance} BC",
+  "@myWallet": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "dayLabel": "दिन {day}",
+  "@dayLabel": {
+    "placeholders": {
+      "day": {
+        "type": "int"
+      }
+    }
+  },
+  "streakHint": "सिलसिला न तोड़ें, हर दिन लॉगिन करें और बड़ा इनाम जीतें!",
+  "currencyAmount": "{amount} CP",
+  "@currencyAmount": {
+    "placeholders": {
+      "amount": {
+        "type": "int"
+      }
+    }
+  },
+  "unitMetric": "मी",
+  "unitImperial": "फीट",
+  "compassNorth": "उ",
+  "compassSouth": "द",
+  "compassEast": "पू",
+  "compassWest": "प",
+  "signalStrength": "{percentage}% {label}",
+  "@signalStrength": {
+    "placeholders": {
+      "percentage": {
+        "type": "int"
+      },
+      "label": {
+        "type": "String"
+      }
+    }
+  },
+  "blueCoinLabel": "ब्लूकोइन बैलेंस",
+  "currencyAmountBC": "{balance} BC",
+  "@currencyAmountBC": {
+    "placeholders": {
+      "balance": {
+        "type": "int"
+      }
+    }
+  },
+  "btReady": "स्कैन और प्रसारण के लिए तैयार",
+  "btRequired": "स्कैन/कनेक्ट/प्रसारण आवश्यक है",
+  "locRequired": "ब्लूटूथ LE के लिए आवश्यक है",
+  "notifySubtitle": "अलर्ट और बैकग्राउंड जानकारी",
+  "fixButton": "ठीक करें",
+  "locationAlwaysWarning": "⚠️ बैकग्राउंड लोकेशन 'हमेशा' पर सेट नहीं है। स्क्रीन बंद होने पर स्कैनिंग रुक सकती है।",
+  "thermalProtectionWarning": "⚠️ थर्मल सुरक्षा: डिवाइस को ठंडा करने के लिए सामान्य मोड पर स्विच किया गया।",
+  "scanModeLow": "कम (Eco)",
+  "scanModeMedium": "मध्यम (Balanced)",
+  "scanModeHigh": "उच्च (Emergency)",
+  "scanSpeedPrefix": "स्कैन की गति",
+  "backgroundLocationTitle": "बैकग्राउंड लोकेशन",
+  "backgroundLocationDesc": "स्क्रीन बंद होने पर भी ब्लूटूथ सिग्नल स्कैन करने के लिए BlueSOS को 'हमेशा' लोकेशन अनुमति की आवश्यकता होती है।\n\nयह अनुमति केवल जीवनरक्षक सिग्नल स्कैन करने के लिए उपयोग की जाती है; आपकी लोकेशन रिकॉर्ड या साझा नहीं की जाती है।",
+  "gotIt": "समझ गया",
+  "idPrefix": "आईडी",
+  "defaultUserName": "BlueSOS यूजर",
+  "batteryOptimizationTooltip": "बैटरी प्रतिबंध हटाएँ",
+  "scanSpeedTooltip": "स्कैन की गति",
+  "unitMeters": "मी",
+  "unitFeet": "फीट",
+  "foregroundServiceTitle": "BlueSOS सक्रिय है",
+  "foregroundServiceDesc": "सिग्नल स्कैन/प्रसारित किया जा रहा है...",
+  "powerSaverTooltip": "पावर सेविंग",
+  "marginOfError": "±30% त्रुटि की गुंजائश",
+  "compassInterferenceWarning": "⚠️ धातु का हस्तक्षेप: कंपास विश्वसनीय नहीं है!\nकृपया केवल सिग्नल स्ट्रेंथ रिंग का पालन करें।",
+  "activeStatus": "सक्रिय",
+  "languageLabel": "भाषा",
+  "emergencyInfoNotice": "यह ऐप आपातकालीन स्थितियों में जान बचाने में मदद करने के लिए डिज़ाइन किया गया है। कृपया सभी अनुमतियाँ पूरी तरह से प्रदान करें।",
+  "onlineRequired": "ऑनलाइन कनेक्शन आवश्यक है।",
+  "claimFailed": "इनाम प्राप्त नहीं किया जा सका। अपना इंटरनेट कनेक्शन जांचें।",
+  "errorLabel": "त्रुटि",
+  "marketLoadError": "स्टोर डेटा लोड नहीं किया जा सका।",
+  "retry": "पुनः प्रयास करें","notificationRewardTitle": "दैनिक पुरस्कार तैयार है!",
+  "notificationRewardBody": "अपना स्ट्राइक न तोड़ें! Bluesos आपके पुरस्कार का दावा करने का इंतज़ार कर रहा है।",
+  "nextRewardIn": "अगला पुरस्कार",
+"@nextRewardIn": {
+  "description": "Label used for the daily reward countdown timer"
+}
+}
