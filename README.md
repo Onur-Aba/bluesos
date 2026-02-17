@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>İnternet bağlantısı olmasa bile hayat kurtaran, Bluetooth LE tabanlı acil durum radar sistemi.</strong>
+  <strong>A life-saving, Bluetooth LE-based emergency radar system, even without an internet connection.</strong>
   <br />
-  P2P iletişim protokolü ve gelişmiş kişiselleştirme özellikleriyle donatılmış kurumsal seviyede bir güvenlik çözümü.
+  An enterprise-level safety solution equipped with P2P communication protocol and advanced personalization features.
 </p>
 
 <p align="center">
@@ -19,76 +19,76 @@
 
 ---
 
-## 📱 Proje Hakkında
+## 📱 About the Project
 
-**BlueSOS**, internetin çekmediği veya acil müdahale gereken durumlarda yakın çevredeki kullanıcılarla iletişim kurmak için tasarlanmıştır. Uygulama, **Bluetooth Low Energy (BLE)** teknolojisini kullanarak cihazlar arasında bir "radar" oluşturur ve yardım sinyallerini anlık olarak yayınlar.
+**BlueSOS** is designed to communicate with nearby users in situations where there is no internet reception or emergency intervention is required. The application creates a "radar" between devices using **Bluetooth Low Energy (BLE)** technology and broadcasts distress signals instantly.
 
-> 🔒 **Not:** Bu proje kapalı kaynaklıdır. Bu depo, projenin mimarisini, yeteneklerini ve kod standartlarını sergilemek amacıyla hazırlanmış bir portfolyo çalışmasıdır.
+> 🔒 **Note:** This project is closed source. This repository is a portfolio work prepared to showcase the project's architecture, capabilities, and code standards.
 
-## 🎥 Uygulama Önizleme & Demo
+## 🎥 App Preview & Demo
 
-Aşağıdaki bağlantı üzerinden Bluetooth radar özelliğinin ve acil durum sinyalizasyonunun çalışma prensibini izleyebilirsiniz:
+You can watch the working principle of the Bluetooth radar feature and emergency signaling via the link below:
 
-[![BlueSOS Demo İzle](https://img.youtube.com/vi/Zm0HXvl8aqA/0.jpg)](https://www.youtube.com/watch?v=Zm0HXvl8aqA)
-
----
-
-## ✨ Öne Çıkan Özellikler
-
-* **📡 Çevrimdışı Radar:** İnternet bağlantısı gerekmeden yakındaki (BLE menzilindeki) cihazları tespit eder ve acil durum sinyali gönderir.
-* **🆘 Güvenlik Araçları:** Tek dokunuşla siren, flaşör (meşale) ve dijital yardım sinyalini aktif hale getirir.
-* **🎨 Gelişmiş Tema Motoru:** "Default", "Red" ve "Blue" gibi çoklu renk seçenekleri sunar. Tüm temalar **Dark Mode** ve **Light Mode** ile tam uyumludur.
-* **🌍 Küresel Dil Desteği:** 20'den fazla dilde (İngilizce, Türkçe, Almanca, Arapça, Rusça, Çince vb.) tam yerelleştirme.
-* **🔐 Supabase Altyapısı:** Kullanıcı profilleri ve veri senkronizasyonu için güvenli bulut entegrasyonu.
+[![Watch BlueSOS Demo](https://img.youtube.com/vi/Zm0HXvl8aqA/0.jpg)](https://www.youtube.com/watch?v=Zm0HXvl8aqA)
 
 ---
 
-## 🏗️ Teknik Mimari ve Kod Snippet'ları
+## ✨ Key Features
 
-### 1. Dinamik Tema ve Mod Yönetimi
-Uygulama, kullanıcı tercihlerine göre anlık olarak renk paletini ve modunu değiştiren merkezi bir `ThemeService` yapısına sahiptir.
+* **📡 Offline Radar:** Detects nearby devices (within BLE range) and sends an emergency signal without requiring an internet connection.
+* **🆘 Safety Tools:** Activates siren, flasher (torch), and digital distress signal with a single touch.
+* **🎨 Advanced Theme Engine:** Offers multiple color options such as "Default", "Red", and "Blue". All themes are fully compatible with **Dark Mode** and **Light Mode**.
+* **🌍 Global Language Support:** Full localization in over 20 languages (English, Turkish, German, Arabic, Russian, Chinese, etc.).
+* **🔐 Supabase Infrastructure:** Secure cloud integration for user profiles and data synchronization.
+
+---
+
+## 🏗️ Technical Architecture & Code Snippets
+
+### 1. Dynamic Theme and Mode Management
+The application has a centralized `ThemeService` structure that instantly changes the color palette and mode based on user preferences.
 
 ```dart
 // lib/theme_service.dart
-// Default, Kırmızı ve Mavi temalar için Dark/Light mode uyumlu yönetim
+// Management logic for Default, Red, and Blue themes compatible with Dark/Light mode
 class ThemeService with ChangeNotifier {
-  // Tema modunu ve renk paletini (Default, Red, Blue) yöneten merkezi mantık
+  // Central logic managing theme mode and color palette (Default, Red, Blue)
 }
 ```
 
-### 2. Bluetooth Radar (BLE) Mantığı
-Cihazların birbirini bulması için `flutter_blue_plus` kütüphanesi ile optimize edilmiş tarama protokolü kullanılmıştır.
+### 2. Bluetooth Radar (BLE) Logic
+An optimized scanning protocol using the `flutter_blue_plus` library is used for devices to find each other.
 
 ```dart
 // lib/radar_screen.dart
-// Çevredeki aktif acil durum sinyallerini tarama ve mesafe tahmini
+// Scanning for surrounding active emergency signals and distance estimation
 void startRadarScan() {
-  // Bluetooth LE kullanarak çevredeki sinyalleri yakalama protokolü
+  // Protocol for capturing surrounding signals using Bluetooth LE
 }
 ```
 
-### 3. Çoklu Dil (L10n) Yapılandırması
-Uygulama, yüksek ölçeklenebilirlik için `.arb` dosyaları üzerinden zengin bir dil kütüphanesi sunar:
-`app_en.arb` (İngilizce), `app_tr.arb` (Türkçe), `app_de.arb` (Almanca), `app_ar.arb` (Arapça), `app_zh.arb` (Çince), `app_ru.arb` (Rusça) ve 15+ diğer dil.
+### 3. Multi-Language (L10n) Configuration
+The application offers a rich language library via `.arb` files for high scalability:
+`app_en.arb` (English), `app_tr.arb` (Turkish), `app_de.arb` (German), `app_ar.arb` (Arabic), `app_zh.arb` (Chinese), `app_ru.arb` (Russian), and 15+ other languages.
 
 ---
 
-## 🛠️ Teknoloji Yığını
+## 🛠️ Tech Stack
 
 * **Framework:** Flutter (Dart)
-* **Veritabanı & Auth:** Supabase
-* **Donanım Bağlantısı:** Bluetooth LE (P2P Discovery)
-* **Yerel Servisler:** Bildirimler, Torch (El Feneri), Ses Yönetimi
-* **Lokalizasyon:** Flutter Intl (.arb)
+* **Database & Auth:** Supabase
+* **Hardware Connection:** Bluetooth LE (P2P Discovery)
+* **Local Services:** Notifications, Torch, Audio Management
+* **Localization:** Flutter Intl (.arb)
 
-## 🖼️ Tema Görselleri
+## 🖼️ Theme Previews
 
 | Default Mode | Red Mode | Blue Mode |
 | :---: | :---: | :---: |
 | <img src="lib/assets/themes/default_preview.png" width="200" /> | <img src="lib/assets/themes/red_preview.png" width="200" /> | <img src="lib/assets/themes/blue_preview.png" width="200" /> |
-| Modern ve Sade | Kritik Uyarı Odağı | Profesyonel Güvenlik |
+| Modern and Simple | Critical Alert Focus | Professional Security |
 
-## 📩 İletişim
+## 📩 Contact
 
 **Onur Aba** 📧 [onuraba34@gmail.com](mailto:onuraba34@gmail.com)
 
