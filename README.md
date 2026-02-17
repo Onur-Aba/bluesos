@@ -1,7 +1,7 @@
 # 🔵 BlueSOS - Offline Emergency Radar & Personal Safety
 
 <p align="center">
-  <img src="assets/icon.png" width="120" alt="BlueSOS Logo" />
+  <img src="lib/assets/icon.png" width="120" alt="BlueSOS Logo" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@ Uygulama, yüksek ölçeklenebilirlik için `.arb` dosyaları üzerinden zengin 
 
 | Default Mode | Red Mode | Blue Mode |
 | :---: | :---: | :---: |
-| <img src="assets/themes/default_preview.png" width="200" /> | <img src="assets/themes/red_preview.png" width="200" /> | <img src="assets/themes/blue_preview.png" width="200" /> |
+| <img src="lib/assets/themes/default_preview.png" width="200" /> | <img src="lib/assets/themes/red_preview.png" width="200" /> | <img src="lib/assets/themes/blue_preview.png" width="200" /> |
 | Modern ve Sade | Kritik Uyarı Odağı | Profesyonel Güvenlik |
 
 ## 📩 İletişim
